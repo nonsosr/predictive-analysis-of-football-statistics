@@ -1,0 +1,892 @@
+{
+  "kmeans": {
+    "algorithm": "kmeans",
+    "clusters": [
+      {
+        "cluster_id": 0,
+        "size": 346,
+        "share": 0.15188762071992976,
+        "mean_features": {
+          "npxG_p90": 0.1698369993464511,
+          "xG_p90": 0.19429809208309973,
+          "shots_p90": 2.053699421965318,
+          "shots_on_target_p90": 0.7139017341040463,
+          "xG_per_shot": 0.09631690011371084,
+          "np_goals_p90": 0.16618497109826588,
+          "xA_p90": 0.22281692264121086,
+          "key_passes_p90": 1.9886073522404069,
+          "xGChain_p90": 0.4707435261221854,
+          "xGBuildup_p90": 0.20407984919781924,
+          "crosses_p90": 5.096627252938955,
+          "interceptions_p90": 0.6157764112871358,
+          "tackles_won_p90": 0.7625974343409075,
+          "fouls_drawn_p90": 1.5483832920999656
+        },
+        "top_leagues": {
+          "FRA-Ligue 1": 110,
+          "ITA-Serie A": 82,
+          "ESP-La Liga": 70
+        },
+        "exemplars": [
+          {
+            "player": "Rony Lopes",
+            "team": "Nice",
+            "league": "FRA-Ligue 1",
+            "season": 2021
+          },
+          {
+            "player": "Yannick Carrasco",
+            "team": "Atl\u00e9tico Madrid",
+            "league": "ESP-La Liga",
+            "season": 2122
+          },
+          {
+            "player": "Nicolas P\u00e9p\u00e9",
+            "team": "Arsenal",
+            "league": "ENG-Premier League",
+            "season": 1920
+          },
+          {
+            "player": "Rub\u00e9n Garc\u00eda",
+            "team": "Osasuna",
+            "league": "ESP-La Liga",
+            "season": 2324
+          },
+          {
+            "player": "Morgan Gibbs-White",
+            "team": "Nottingham Forest",
+            "league": "ENG-Premier League",
+            "season": 2324
+          },
+          {
+            "player": "Max Kruse",
+            "team": "Werder Bremen",
+            "league": "GER-Bundesliga",
+            "season": 1718
+          },
+          {
+            "player": "Matteo Politano",
+            "team": "Napoli",
+            "league": "ITA-Serie A",
+            "season": 2122
+          },
+          {
+            "player": "Armand Lauriente",
+            "team": "Sassuolo",
+            "league": "ITA-Serie A",
+            "season": 2223
+          },
+          {
+            "player": "Ademola Lookman",
+            "team": "Fulham",
+            "league": "ENG-Premier League",
+            "season": 2021
+          },
+          {
+            "player": "Demarai Gray",
+            "team": "Everton",
+            "league": "ENG-Premier League",
+            "season": 2122
+          }
+        ]
+      },
+      {
+        "cluster_id": 1,
+        "size": 275,
+        "share": 0.12071992976294996,
+        "mean_features": {
+          "npxG_p90": 0.3426818172305598,
+          "xG_p90": 0.3774513246134279,
+          "shots_p90": 2.7837090909090914,
+          "shots_on_target_p90": 1.1000727272727273,
+          "xG_per_shot": 0.14124037262556774,
+          "np_goals_p90": 0.33556363636363634,
+          "xA_p90": 0.278937756749093,
+          "key_passes_p90": 2.0650175092147225,
+          "xGChain_p90": 0.8304134950678381,
+          "xGBuildup_p90": 0.3612222398657968,
+          "crosses_p90": 3.149332003228514,
+          "interceptions_p90": 0.4535892263773524,
+          "tackles_won_p90": 0.7011534137472416,
+          "fouls_drawn_p90": 1.6809711235335478
+        },
+        "top_leagues": {
+          "ENG-Premier League": 81,
+          "ESP-La Liga": 72,
+          "ITA-Serie A": 65
+        },
+        "exemplars": [
+          {
+            "player": "Arjen Robben",
+            "team": "Bayern Munich",
+            "league": "GER-Bundesliga",
+            "season": 1718
+          },
+          {
+            "player": "Ousmane Demb\u00e9l\u00e9",
+            "team": "Barcelona",
+            "league": "ESP-La Liga",
+            "season": 2021
+          },
+          {
+            "player": "Phil Foden",
+            "team": "Manchester City",
+            "league": "ENG-Premier League",
+            "season": 2021
+          },
+          {
+            "player": "Gabriel Martinelli",
+            "team": "Arsenal",
+            "league": "ENG-Premier League",
+            "season": 2223
+          },
+          {
+            "player": "Anthony Gordon",
+            "team": "Newcastle United",
+            "league": "ENG-Premier League",
+            "season": 2324
+          },
+          {
+            "player": "Nicolas P\u00e9p\u00e9",
+            "team": "Villarreal",
+            "league": "ESP-La Liga",
+            "season": 2425
+          },
+          {
+            "player": "Gerard Moreno",
+            "team": "Villarreal",
+            "league": "ESP-La Liga",
+            "season": 2324
+          },
+          {
+            "player": "Federico Chiesa",
+            "team": "Juventus",
+            "league": "ITA-Serie A",
+            "season": 2324
+          },
+          {
+            "player": "Giacomo Raspadori",
+            "team": "Napoli",
+            "league": "ITA-Serie A",
+            "season": 2324
+          },
+          {
+            "player": "Phil Foden",
+            "team": "Manchester City",
+            "league": "ENG-Premier League",
+            "season": 2223
+          }
+        ]
+      },
+      {
+        "cluster_id": 2,
+        "size": 808,
+        "share": 0.3546971027216857,
+        "mean_features": {
+          "npxG_p90": 0.3494975480683152,
+          "xG_p90": 0.3895500984735058,
+          "shots_p90": 2.464269801980198,
+          "shots_on_target_p90": 0.9981435643564357,
+          "xG_per_shot": 0.16291899437737742,
+          "np_goals_p90": 0.3221039603960396,
+          "xA_p90": 0.10846791033492169,
+          "key_passes_p90": 0.9455299629523884,
+          "xGChain_p90": 0.4926645220807112,
+          "xGBuildup_p90": 0.1240356347381276,
+          "crosses_p90": 0.8180841509518915,
+          "interceptions_p90": 0.2665321668558106,
+          "tackles_won_p90": 0.45315856792854625,
+          "fouls_drawn_p90": 1.492562312165429
+        },
+        "top_leagues": {
+          "ESP-La Liga": 199,
+          "FRA-Ligue 1": 178,
+          "ITA-Serie A": 172
+        },
+        "exemplars": [
+          {
+            "player": "Sergi Guardiola",
+            "team": "Rayo Vallecano",
+            "league": "ESP-La Liga",
+            "season": 2122
+          },
+          {
+            "player": "I\u00f1aki Williams",
+            "team": "Athletic Club",
+            "league": "ESP-La Liga",
+            "season": 1819
+          },
+          {
+            "player": "Joshua King",
+            "team": "Toulouse",
+            "league": "FRA-Ligue 1",
+            "season": 2425
+          },
+          {
+            "player": "Ollie Watkins",
+            "team": "Aston Villa",
+            "league": "ENG-Premier League",
+            "season": 2122
+          },
+          {
+            "player": "Callum Wilson",
+            "team": "Bournemouth",
+            "league": "ENG-Premier League",
+            "season": 1718
+          },
+          {
+            "player": "Charles",
+            "team": "Eibar",
+            "league": "ESP-La Liga",
+            "season": 1718
+          },
+          {
+            "player": "Dwight Gayle",
+            "team": "Newcastle United",
+            "league": "ENG-Premier League",
+            "season": 1718
+          },
+          {
+            "player": "Robin Quaison",
+            "team": "Mainz 05",
+            "league": "GER-Bundesliga",
+            "season": 1920
+          },
+          {
+            "player": "Santi Mina",
+            "team": "Celta Vigo",
+            "league": "ESP-La Liga",
+            "season": 2122
+          },
+          {
+            "player": "Simon Terodde",
+            "team": "Schalke 04",
+            "league": "GER-Bundesliga",
+            "season": 2223
+          }
+        ]
+      },
+      {
+        "cluster_id": 3,
+        "size": 605,
+        "share": 0.2655838454784899,
+        "mean_features": {
+          "npxG_p90": 0.17586996712808142,
+          "xG_p90": 0.18740211668330223,
+          "shots_p90": 1.800793388429752,
+          "shots_on_target_p90": 0.6288925619834711,
+          "xG_per_shot": 0.1058363246912916,
+          "np_goals_p90": 0.15532231404958677,
+          "xA_p90": 0.1186831567477346,
+          "key_passes_p90": 1.1158996979534377,
+          "xGChain_p90": 0.39408884216719803,
+          "xGBuildup_p90": 0.16454885649850584,
+          "crosses_p90": 1.8079068098676603,
+          "interceptions_p90": 0.6080672671080507,
+          "tackles_won_p90": 0.9188129147493421,
+          "fouls_drawn_p90": 1.770987447556665
+        },
+        "top_leagues": {
+          "FRA-Ligue 1": 173,
+          "ESP-La Liga": 139,
+          "ITA-Serie A": 113
+        },
+        "exemplars": [
+          {
+            "player": "Adrien Thomasson",
+            "team": "Strasbourg",
+            "league": "FRA-Ligue 1",
+            "season": 1819
+          },
+          {
+            "player": "Yuya Osako",
+            "team": "Werder Bremen",
+            "league": "GER-Bundesliga",
+            "season": 1819
+          },
+          {
+            "player": "Renaud Ripart",
+            "team": "Troyes",
+            "league": "FRA-Ligue 1",
+            "season": 2122
+          },
+          {
+            "player": "Yunus Mall\u0131",
+            "team": "Wolfsburg",
+            "league": "GER-Bundesliga",
+            "season": 1718
+          },
+          {
+            "player": "Wahbi Khazri",
+            "team": "Montpellier",
+            "league": "FRA-Ligue 1",
+            "season": 2223
+          },
+          {
+            "player": "Aleksandr Golovin",
+            "team": "Monaco",
+            "league": "FRA-Ligue 1",
+            "season": 1819
+          },
+          {
+            "player": "Merlin R\u00f6hl",
+            "team": "Freiburg",
+            "league": "GER-Bundesliga",
+            "season": 2324
+          },
+          {
+            "player": "Nathan Redmond",
+            "team": "Southampton",
+            "league": "ENG-Premier League",
+            "season": 1920
+          },
+          {
+            "player": "Adrien Thomasson",
+            "team": "Strasbourg",
+            "league": "FRA-Ligue 1",
+            "season": 2021
+          },
+          {
+            "player": "Lucas Boy\u00e9",
+            "team": "Granada",
+            "league": "ESP-La Liga",
+            "season": 2324
+          }
+        ]
+      },
+      {
+        "cluster_id": 4,
+        "size": 244,
+        "share": 0.10711150131694469,
+        "mean_features": {
+          "npxG_p90": 0.6129946680980167,
+          "xG_p90": 0.6888242632704412,
+          "shots_p90": 3.5517622950819674,
+          "shots_on_target_p90": 1.589672131147541,
+          "xG_per_shot": 0.1981323194764107,
+          "np_goals_p90": 0.5803688524590164,
+          "xA_p90": 0.18735453972357657,
+          "key_passes_p90": 1.326109703062865,
+          "xGChain_p90": 0.8782530803138247,
+          "xGBuildup_p90": 0.21678867300689983,
+          "crosses_p90": 0.9022331466848786,
+          "interceptions_p90": 0.2416671369568613,
+          "tackles_won_p90": 0.3982217285825361,
+          "fouls_drawn_p90": 1.336328979821589
+        },
+        "top_leagues": {
+          "ENG-Premier League": 62,
+          "ITA-Serie A": 58,
+          "ESP-La Liga": 52
+        },
+        "exemplars": [
+          {
+            "player": "Edin D\u017eeko",
+            "team": "Roma",
+            "league": "ITA-Serie A",
+            "season": 1920
+          },
+          {
+            "player": "Gerard Moreno",
+            "team": "Villarreal",
+            "league": "ESP-La Liga",
+            "season": 2223
+          },
+          {
+            "player": "Edin D\u017eeko",
+            "team": "Inter",
+            "league": "ITA-Serie A",
+            "season": 2122
+          },
+          {
+            "player": "Luka Jovi\u0107",
+            "team": "Eintracht Frankfurt",
+            "league": "GER-Bundesliga",
+            "season": 1819
+          },
+          {
+            "player": "Diogo Jota",
+            "team": "Liverpool",
+            "league": "ENG-Premier League",
+            "season": 2122
+          },
+          {
+            "player": "Victor Osimhen",
+            "team": "Napoli",
+            "league": "ITA-Serie A",
+            "season": 2324
+          },
+          {
+            "player": "Karim Benzema",
+            "team": "Real Madrid",
+            "league": "ESP-La Liga",
+            "season": 2021
+          },
+          {
+            "player": "\u00c1lvaro Morata",
+            "team": "Chelsea",
+            "league": "ENG-Premier League",
+            "season": 1718
+          },
+          {
+            "player": "Karim Benzema",
+            "team": "Real Madrid",
+            "league": "ESP-La Liga",
+            "season": 1819
+          },
+          {
+            "player": "Mohamed Salah",
+            "team": "Liverpool",
+            "league": "ENG-Premier League",
+            "season": 2223
+          }
+        ]
+      }
+    ]
+  },
+  "gmm": {
+    "algorithm": "gmm",
+    "clusters": [
+      {
+        "cluster_id": 0,
+        "size": 175,
+        "share": 0.07682177348551361,
+        "mean_features": {
+          "npxG_p90": 0.5739477505161564,
+          "xG_p90": 0.6835477696527378,
+          "shots_p90": 3.8393714285714284,
+          "shots_on_target_p90": 1.6303428571428575,
+          "xG_per_shot": 0.18059432593166608,
+          "np_goals_p90": 0.5287999999999999,
+          "xA_p90": 0.20680521622277528,
+          "key_passes_p90": 1.495886358338973,
+          "xGChain_p90": 0.86497876519417,
+          "xGBuildup_p90": 0.2381466575079267,
+          "crosses_p90": 1.2012945069195338,
+          "interceptions_p90": 0.2822073719967044,
+          "tackles_won_p90": 0.37417795448098395,
+          "fouls_drawn_p90": 1.561067122511945
+        },
+        "top_leagues": {
+          "ITA-Serie A": 62,
+          "ENG-Premier League": 39,
+          "ESP-La Liga": 38
+        },
+        "exemplars": [
+          {
+            "player": "Edin D\u017eeko",
+            "team": "Roma",
+            "league": "ITA-Serie A",
+            "season": 1920
+          },
+          {
+            "player": "Duv\u00e1n Zapata",
+            "team": "Atalanta",
+            "league": "ITA-Serie A",
+            "season": 2021
+          },
+          {
+            "player": "Ciro Immobile",
+            "team": "Lazio",
+            "league": "ITA-Serie A",
+            "season": 2021
+          },
+          {
+            "player": "Victor Osimhen",
+            "team": "Napoli",
+            "league": "ITA-Serie A",
+            "season": 2324
+          },
+          {
+            "player": "Karim Benzema",
+            "team": "Real Madrid",
+            "league": "ESP-La Liga",
+            "season": 2021
+          },
+          {
+            "player": "Mohamed Salah",
+            "team": "Liverpool",
+            "league": "ENG-Premier League",
+            "season": 1819
+          },
+          {
+            "player": "Dries Mertens",
+            "team": "Napoli",
+            "league": "ITA-Serie A",
+            "season": 1718
+          },
+          {
+            "player": "Lautaro Mart\u00ednez",
+            "team": "Inter",
+            "league": "ITA-Serie A",
+            "season": 2223
+          },
+          {
+            "player": "Georges Mikautadze",
+            "team": "Lyon",
+            "league": "FRA-Ligue 1",
+            "season": 2425
+          },
+          {
+            "player": "Duv\u00e1n Zapata",
+            "team": "Atalanta",
+            "league": "ITA-Serie A",
+            "season": 2122
+          }
+        ]
+      },
+      {
+        "cluster_id": 1,
+        "size": 1267,
+        "share": 0.5561896400351185,
+        "mean_features": {
+          "npxG_p90": 0.2524896287960462,
+          "xG_p90": 0.2524896287960462,
+          "shots_p90": 2.136164167324388,
+          "shots_on_target_p90": 0.7943093922651934,
+          "xG_per_shot": 0.11715196633343808,
+          "np_goals_p90": 0.2356827150749803,
+          "xA_p90": 0.15575242904578537,
+          "key_passes_p90": 1.3226608252287735,
+          "xGChain_p90": 0.5074572728032961,
+          "xGBuildup_p90": 0.1893937241673876,
+          "crosses_p90": 2.234352354569234,
+          "interceptions_p90": 0.49935317419263936,
+          "tackles_won_p90": 0.7559288935747455,
+          "fouls_drawn_p90": 1.6012309164018463
+        },
+        "top_leagues": {
+          "ESP-La Liga": 293,
+          "FRA-Ligue 1": 292,
+          "ENG-Premier League": 249
+        },
+        "exemplars": [
+          {
+            "player": "Jorge de Frutos",
+            "team": "Rayo Vallecano",
+            "league": "ESP-La Liga",
+            "season": 2425
+          },
+          {
+            "player": "Roberto Pereyra",
+            "team": "Watford",
+            "league": "ENG-Premier League",
+            "season": 1718
+          },
+          {
+            "player": "Christoph Baumgartner",
+            "team": "Hoffenheim",
+            "league": "GER-Bundesliga",
+            "season": 2223
+          },
+          {
+            "player": "Adrien Thomasson",
+            "team": "Strasbourg",
+            "league": "FRA-Ligue 1",
+            "season": 1920
+          },
+          {
+            "player": "Wahbi Khazri",
+            "team": "Montpellier",
+            "league": "FRA-Ligue 1",
+            "season": 2223
+          },
+          {
+            "player": "Mikel Oyarzabal",
+            "team": "Real Sociedad",
+            "league": "ESP-La Liga",
+            "season": 1718
+          },
+          {
+            "player": "L\u00e9o Baptist\u00e3o",
+            "team": "Almer\u00eda",
+            "league": "ESP-La Liga",
+            "season": 2324
+          },
+          {
+            "player": "Dominic Calvert-Lewin",
+            "team": "Everton",
+            "league": "ENG-Premier League",
+            "season": 1718
+          },
+          {
+            "player": "Ihlas Bebou",
+            "team": "Hoffenheim",
+            "league": "GER-Bundesliga",
+            "season": 1920
+          },
+          {
+            "player": "John Guidetti",
+            "team": "Alav\u00e9s",
+            "league": "ESP-La Liga",
+            "season": 1718
+          }
+        ]
+      },
+      {
+        "cluster_id": 2,
+        "size": 230,
+        "share": 0.1009657594381036,
+        "mean_features": {
+          "npxG_p90": 0.269198337903174,
+          "xG_p90": 0.3491828131434173,
+          "shots_p90": 2.2851304347826087,
+          "shots_on_target_p90": 0.9241739130434783,
+          "xG_per_shot": 0.1633107450962156,
+          "np_goals_p90": 0.26469565217391305,
+          "xA_p90": 0.21415182968386545,
+          "key_passes_p90": 1.7703570999160212,
+          "xGChain_p90": 0.5977645303001633,
+          "xGBuildup_p90": 0.2489875599675015,
+          "crosses_p90": 3.3404559475084903,
+          "interceptions_p90": 0.49191446631587554,
+          "tackles_won_p90": 0.6668083686603256,
+          "fouls_drawn_p90": 1.62987046351651
+        },
+        "top_leagues": {
+          "FRA-Ligue 1": 56,
+          "ESP-La Liga": 55,
+          "ITA-Serie A": 54
+        },
+        "exemplars": [
+          {
+            "player": "Gerard Moreno",
+            "team": "Villarreal",
+            "league": "ESP-La Liga",
+            "season": 2324
+          },
+          {
+            "player": "Vincenzo Grifo",
+            "team": "Freiburg",
+            "league": "GER-Bundesliga",
+            "season": 2223
+          },
+          {
+            "player": "Lovro Majer",
+            "team": "Wolfsburg",
+            "league": "GER-Bundesliga",
+            "season": 2324
+          },
+          {
+            "player": "Mikel Oyarzabal",
+            "team": "Real Sociedad",
+            "league": "ESP-La Liga",
+            "season": 2021
+          },
+          {
+            "player": "Iago Aspas",
+            "team": "Celta Vigo",
+            "league": "ESP-La Liga",
+            "season": 1920
+          },
+          {
+            "player": "Jo\u00e3o Pedro",
+            "team": "Brighton",
+            "league": "ENG-Premier League",
+            "season": 2425
+          },
+          {
+            "player": "Albert Gu\u00f0mundsson",
+            "team": "Fiorentina",
+            "league": "ITA-Serie A",
+            "season": 2425
+          },
+          {
+            "player": "Florian Sotoca",
+            "team": "Lens",
+            "league": "FRA-Ligue 1",
+            "season": 2324
+          },
+          {
+            "player": "Antoine Griezmann",
+            "team": "Atl\u00e9tico Madrid",
+            "league": "ESP-La Liga",
+            "season": 1819
+          },
+          {
+            "player": "Vincenzo Grifo",
+            "team": "Freiburg",
+            "league": "GER-Bundesliga",
+            "season": 2122
+          }
+        ]
+      },
+      {
+        "cluster_id": 3,
+        "size": 359,
+        "share": 0.1575943810359965,
+        "mean_features": {
+          "npxG_p90": 0.4181969658008645,
+          "xG_p90": 0.48240234667330084,
+          "shots_p90": 2.5698885793871864,
+          "shots_on_target_p90": 1.1011142061281338,
+          "xG_per_shot": 0.1889127790290324,
+          "np_goals_p90": 0.3793314763231198,
+          "xA_p90": 0.11151901548262047,
+          "key_passes_p90": 0.9600641089883826,
+          "xGChain_p90": 0.556969454548968,
+          "xGBuildup_p90": 0.12855768404376683,
+          "crosses_p90": 0.44285050088451794,
+          "interceptions_p90": 0.21569625706790074,
+          "tackles_won_p90": 0.3799656445354529,
+          "fouls_drawn_p90": 1.3975117529414578
+        },
+        "top_leagues": {
+          "ESP-La Liga": 105,
+          "ENG-Premier League": 73,
+          "FRA-Ligue 1": 72
+        },
+        "exemplars": [
+          {
+            "player": "Borja Iglesias",
+            "team": "Espanyol",
+            "league": "ESP-La Liga",
+            "season": 1819
+          },
+          {
+            "player": "Beto",
+            "team": "Udinese",
+            "league": "ITA-Serie A",
+            "season": 2223
+          },
+          {
+            "player": "Charles",
+            "team": "Eibar",
+            "league": "ESP-La Liga",
+            "season": 1718
+          },
+          {
+            "player": "Ermedin Demirovi\u0107",
+            "team": "Augsburg",
+            "league": "GER-Bundesliga",
+            "season": 2324
+          },
+          {
+            "player": "Jonathan Burkardt",
+            "team": "Mainz 05",
+            "league": "GER-Bundesliga",
+            "season": 2122
+          },
+          {
+            "player": "Ollie Watkins",
+            "team": "Aston Villa",
+            "league": "ENG-Premier League",
+            "season": 2021
+          },
+          {
+            "player": "Luuk de Jong",
+            "team": "Sevilla",
+            "league": "ESP-La Liga",
+            "season": 1920
+          },
+          {
+            "player": "Dwight Gayle",
+            "team": "Newcastle United",
+            "league": "ENG-Premier League",
+            "season": 1718
+          },
+          {
+            "player": "J\u00f8rgen Strand Larsen",
+            "team": "Celta Vigo",
+            "league": "ESP-La Liga",
+            "season": 2324
+          },
+          {
+            "player": "Ollie Watkins",
+            "team": "Aston Villa",
+            "league": "ENG-Premier League",
+            "season": 2223
+          }
+        ]
+      },
+      {
+        "cluster_id": 4,
+        "size": 247,
+        "share": 0.10842844600526778,
+        "mean_features": {
+          "npxG_p90": 0.2387595344725582,
+          "xG_p90": 0.30046326184171196,
+          "shots_p90": 2.4160323886639676,
+          "shots_on_target_p90": 0.9102429149797571,
+          "xG_per_shot": 0.12455000944417752,
+          "np_goals_p90": 0.23242914979757087,
+          "xA_p90": 0.14632769064721787,
+          "key_passes_p90": 1.3327114469726213,
+          "xGChain_p90": 0.44645296124696876,
+          "xGBuildup_p90": 0.15206546599603793,
+          "crosses_p90": 2.5749014673694752,
+          "interceptions_p90": 0.4346522228944756,
+          "tackles_won_p90": 0.659349383695241,
+          "fouls_drawn_p90": 1.7124957881810523
+        },
+        "top_leagues": {
+          "FRA-Ligue 1": 83,
+          "ITA-Serie A": 54,
+          "ENG-Premier League": 43
+        },
+        "exemplars": [
+          {
+            "player": "Ludovic Blas",
+            "team": "Rennes",
+            "league": "FRA-Ligue 1",
+            "season": 2324
+          },
+          {
+            "player": "Zuriko Davitashvili",
+            "team": "Saint-\u00c9tienne",
+            "league": "FRA-Ligue 1",
+            "season": 2425
+          },
+          {
+            "player": "Wahbi Khazri",
+            "team": "Saint-\u00c9tienne",
+            "league": "FRA-Ligue 1",
+            "season": 2122
+          },
+          {
+            "player": "Marius B\u00fclter",
+            "team": "Schalke 04",
+            "league": "GER-Bundesliga",
+            "season": 2223
+          },
+          {
+            "player": "Ga\u00ebtan Charbonnier",
+            "team": "Brest",
+            "league": "FRA-Ligue 1",
+            "season": 1920
+          },
+          {
+            "player": "Jo\u00e3o Pedro",
+            "team": "Cagliari",
+            "league": "ITA-Serie A",
+            "season": 1819
+          },
+          {
+            "player": "Ignacio Pussetto",
+            "team": "Udinese",
+            "league": "ITA-Serie A",
+            "season": 2122
+          },
+          {
+            "player": "Florian Sotoca",
+            "team": "Lens",
+            "league": "FRA-Ligue 1",
+            "season": 2021
+          },
+          {
+            "player": "Eberechi Eze",
+            "team": "Crystal Palace",
+            "league": "ENG-Premier League",
+            "season": 2223
+          },
+          {
+            "player": "Dodi Lukebakio",
+            "team": "Sevilla",
+            "league": "ESP-La Liga",
+            "season": 2425
+          }
+        ]
+      }
+    ]
+  }
+}

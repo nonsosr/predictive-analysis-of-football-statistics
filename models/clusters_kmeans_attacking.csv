@@ -1,0 +1,2279 @@
+understat_player_id,player,team,league,season,cluster_kmeans
+500.0,Alex Iwobi,Arsenal,ENG-Premier League,1718,1
+3277.0,Alexandre Lacazette,Arsenal,ENG-Premier League,1718,4
+501.0,Danny Welbeck,Arsenal,ENG-Premier League,1718,2
+499.0,Mesut Özil,Arsenal,ENG-Premier League,1718,1
+318.0,Pierre-Emerick Aubameyang,Arsenal,ENG-Premier League,1718,4
+468.0,Callum Wilson,Bournemouth,ENG-Premier League,1718,2
+735.0,Jermain Defoe,Bournemouth,ENG-Premier League,1718,2
+465.0,Joshua King,Bournemouth,ENG-Premier League,1718,3
+463.0,Junior Stanislas,Bournemouth,ENG-Premier League,1718,0
+882.0,Glenn Murray,Brighton,ENG-Premier League,1718,2
+239.0,Pascal Groß,Brighton,ENG-Premier League,1718,0
+4422.0,Ashley Barnes,Burnley,ENG-Premier League,1718,2
+4456.0,Chris Wood,Burnley,ENG-Premier League,1718,2
+1661.0,Sam Vokes,Burnley,ENG-Premier League,1718,2
+701.0,Eden Hazard,Chelsea,ENG-Premier League,1718,1
+687.0,Pedro,Chelsea,ENG-Premier League,1718,3
+700.0,Willian,Chelsea,ENG-Premier League,1718,1
+1804.0,Álvaro Morata,Chelsea,ENG-Premier League,1718,4
+775.0,Andros Townsend,Crystal Palace,ENG-Premier League,1718,0
+606.0,Christian Benteke,Crystal Palace,ENG-Premier League,1718,2
+522.0,Wilfried Zaha,Crystal Palace,ENG-Premier League,1718,2
+6477.0,Cenk Tosun,Everton,ENG-Premier League,1718,2
+5555.0,Dominic Calvert-Lewin,Everton,ENG-Premier League,1718,3
+714.0,Gylfi Sigurðsson,Everton,ENG-Premier League,1718,0
+599.0,Oumar Niasse,Everton,ENG-Premier League,1718,4
+629.0,Wayne Rooney,Everton,ENG-Premier League,1718,3
+1250.0,Mohamed Salah,Liverpool,ENG-Premier League,1718,4
+488.0,Philippe Coutinho,Liverpool,ENG-Premier League,1718,1
+482.0,Roberto Firmino,Liverpool,ENG-Premier League,1718,1
+838.0,Sadio Mané,Liverpool,ENG-Premier League,1718,1
+3635.0,Bernardo Silva,Manchester City,ENG-Premier League,1718,1
+5543.0,Gabriel Jesus,Manchester City,ENG-Premier League,1718,4
+337.0,Leroy Sané,Manchester City,ENG-Premier League,1718,1
+618.0,Raheem Sterling,Manchester City,ENG-Premier League,1718,4
+619.0,Sergio Agüero,Manchester City,ENG-Premier League,1718,4
+743.0,Dwight Gayle,Newcastle United,ENG-Premier League,1718,2
+866.0,Joselu,Newcastle United,ENG-Premier League,1718,2
+848.0,Charlie Austin,Southampton,ENG-Premier League,1718,4
+1383.0,Manolo Gabbiadini,Southampton,ENG-Premier League,1718,2
+839.0,Shane Long,Southampton,ENG-Premier League,1718,3
+1660.0,Andre Gray,Watford,ENG-Premier League,1718,2
+6230.0,André Carrillo,Watford,ENG-Premier League,1718,3
+6026.0,Richarlison,Watford,ENG-Premier League,1718,3
+1723.0,Roberto Pereyra,Watford,ENG-Premier League,1718,3
+574.0,Troy Deeney,Watford,ENG-Premier League,1718,2
+500.0,Alex Iwobi,Arsenal,ENG-Premier League,1819,1
+3277.0,Alexandre Lacazette,Arsenal,ENG-Premier League,1819,1
+317.0,Henrikh Mkhitaryan,Arsenal,ENG-Premier League,1819,1
+318.0,Pierre-Emerick Aubameyang,Arsenal,ENG-Premier League,1819,4
+468.0,Callum Wilson,Bournemouth,ENG-Premier League,1819,4
+465.0,Joshua King,Bournemouth,ENG-Premier League,1819,2
+6842.0,Alireza Jahanbakhsh,Brighton,ENG-Premier League,1819,3
+4497.0,Anthony Knockaert,Brighton,ENG-Premier League,1819,0
+882.0,Glenn Murray,Brighton,ENG-Premier League,1819,2
+6542.0,Jürgen Locadia,Brighton,ENG-Premier League,1819,3
+6049.0,Solly March,Brighton,ENG-Premier League,1819,0
+4422.0,Ashley Barnes,Burnley,ENG-Premier League,1819,2
+4456.0,Chris Wood,Burnley,ENG-Premier League,1819,2
+1661.0,Sam Vokes,Burnley,ENG-Premier League,1819,2
+701.0,Eden Hazard,Chelsea,ENG-Premier League,1819,1
+1293.0,Gonzalo Higuaín,Chelsea,ENG-Premier League,1819,2
+687.0,Pedro,Chelsea,ENG-Premier League,1819,1
+700.0,Willian,Chelsea,ENG-Premier League,1819,0
+1804.0,Álvaro Morata,Chelsea,ENG-Premier League,1819,4
+775.0,Andros Townsend,Crystal Palace,ENG-Premier League,1819,0
+672.0,Jordan Ayew,Crystal Palace,ENG-Premier League,1819,3
+522.0,Wilfried Zaha,Crystal Palace,ENG-Premier League,1819,3
+6477.0,Cenk Tosun,Everton,ENG-Premier League,1819,2
+5555.0,Dominic Calvert-Lewin,Everton,ENG-Premier League,1819,2
+6026.0,Richarlison,Everton,ENG-Premier League,1819,2
+773.0,Aleksandar Mitrović,Fulham,ENG-Premier League,1819,2
+154.0,André Schürrle,Fulham,ENG-Premier League,1819,3
+2274.0,Luciano Vietto,Fulham,ENG-Premier League,1819,1
+5176.0,Ryan Babel,Fulham,ENG-Premier League,1819,1
+6837.0,Ryan Sessegnon,Fulham,ENG-Premier League,1819,3
+6835.0,Tom Cairney,Fulham,ENG-Premier League,1819,3
+1250.0,Mohamed Salah,Liverpool,ENG-Premier League,1819,4
+482.0,Roberto Firmino,Liverpool,ENG-Premier League,1819,1
+838.0,Sadio Mané,Liverpool,ENG-Premier League,1819,4
+3635.0,Bernardo Silva,Manchester City,ENG-Premier League,1819,1
+5543.0,Gabriel Jesus,Manchester City,ENG-Premier League,1819,4
+337.0,Leroy Sané,Manchester City,ENG-Premier League,1819,1
+618.0,Raheem Sterling,Manchester City,ENG-Premier League,1819,1
+750.0,Riyad Mahrez,Manchester City,ENG-Premier League,1819,1
+619.0,Sergio Agüero,Manchester City,ENG-Premier League,1819,4
+770.0,Ayoze Pérez,Newcastle United,ENG-Premier League,1819,3
+813.0,Salomón Rondón,Newcastle United,ENG-Premier League,1819,2
+848.0,Charlie Austin,Southampton,ENG-Premier League,1819,2
+986.0,Danny Ings,Southampton,ENG-Premier League,1819,2
+790.0,Nathan Redmond,Southampton,ENG-Premier League,1819,3
+839.0,Shane Long,Southampton,ENG-Premier League,1819,2
+6893.0,Stuart Armstrong,Southampton,ENG-Premier League,1819,3
+1660.0,Andre Gray,Watford,ENG-Premier League,1819,2
+591.0,Gerard Deulofeu,Watford,ENG-Premier League,1819,1
+1724.0,Isaac Success,Watford,ENG-Premier League,1819,3
+574.0,Troy Deeney,Watford,ENG-Premier League,1819,2
+3277.0,Alexandre Lacazette,Arsenal,ENG-Premier League,1920,2
+5656.0,Nicolas Pépé,Arsenal,ENG-Premier League,1920,0
+318.0,Pierre-Emerick Aubameyang,Arsenal,ENG-Premier League,1920,2
+5612.0,Anwar El Ghazi,Aston Villa,ENG-Premier League,1920,0
+675.0,Jack Grealish,Aston Villa,ENG-Premier League,1920,0
+8287.0,Mbwana Samatta,Aston Villa,ENG-Premier League,1920,3
+7722.0,Trézéguet,Aston Villa,ENG-Premier League,1920,3
+468.0,Callum Wilson,Bournemouth,ENG-Premier League,1920,2
+1679.0,Dominic Solanke,Bournemouth,ENG-Premier League,1920,2
+5596.0,Harry Wilson,Bournemouth,ENG-Premier League,1920,3
+465.0,Joshua King,Bournemouth,ENG-Premier League,1920,2
+1683.0,Ryan Fraser,Bournemouth,ENG-Premier League,1920,0
+7991.0,Aaron Connolly,Brighton,ENG-Premier League,1920,2
+6033.0,Aaron Mooy,Brighton,ENG-Premier League,1920,0
+7698.0,Leandro Trossard,Brighton,ENG-Premier League,1920,0
+3621.0,Neal Maupay,Brighton,ENG-Premier League,1920,2
+239.0,Pascal Groß,Brighton,ENG-Premier League,1920,0
+6049.0,Solly March,Brighton,ENG-Premier League,1920,3
+4422.0,Ashley Barnes,Burnley,ENG-Premier League,1920,2
+4456.0,Chris Wood,Burnley,ENG-Premier League,1920,2
+844.0,Jay Rodriguez,Burnley,ENG-Premier League,1920,2
+2662.0,Christian Pulisic,Chelsea,ENG-Premier League,1920,1
+7768.0,Mason Mount,Chelsea,ENG-Premier League,1920,0
+502.0,Olivier Giroud,Chelsea,ENG-Premier League,1920,4
+702.0,Tammy Abraham,Chelsea,ENG-Premier League,1920,4
+700.0,Willian,Chelsea,ENG-Premier League,1920,0
+606.0,Christian Benteke,Crystal Palace,ENG-Premier League,1920,2
+672.0,Jordan Ayew,Crystal Palace,ENG-Premier League,1920,3
+522.0,Wilfried Zaha,Crystal Palace,ENG-Premier League,1920,3
+5555.0,Dominic Calvert-Lewin,Everton,ENG-Premier League,1920,2
+6026.0,Richarlison,Everton,ENG-Premier League,1920,3
+966.0,Alex Oxlade-Chamberlain,Liverpool,ENG-Premier League,1920,3
+1250.0,Mohamed Salah,Liverpool,ENG-Premier League,1920,4
+482.0,Roberto Firmino,Liverpool,ENG-Premier League,1920,4
+838.0,Sadio Mané,Liverpool,ENG-Premier League,1920,1
+3635.0,Bernardo Silva,Manchester City,ENG-Premier League,1920,1
+5543.0,Gabriel Jesus,Manchester City,ENG-Premier League,1920,4
+6055.0,Phil Foden,Manchester City,ENG-Premier League,1920,1
+618.0,Raheem Sterling,Manchester City,ENG-Premier League,1920,4
+750.0,Riyad Mahrez,Manchester City,ENG-Premier League,1920,1
+619.0,Sergio Agüero,Manchester City,ENG-Premier League,1920,4
+87.0,Joelinton,Newcastle United,ENG-Premier League,1920,3
+7420.0,Miguel Almirón,Newcastle United,ENG-Premier League,1920,3
+7712.0,Billy Sharp,Sheffield United,ENG-Premier League,1920,2
+7711.0,David McGoldrick,Sheffield United,ENG-Premier League,1920,2
+1748.0,Lys Mousset,Sheffield United,ENG-Premier League,1920,2
+1736.0,Oliver McBurnie,Sheffield United,ENG-Premier League,1920,2
+7700.0,Che Adams,Southampton,ENG-Premier League,1920,2
+986.0,Danny Ings,Southampton,ENG-Premier League,1920,2
+7701.0,Moussa Djenepo,Southampton,ENG-Premier League,1920,3
+790.0,Nathan Redmond,Southampton,ENG-Premier League,1920,3
+839.0,Shane Long,Southampton,ENG-Premier League,1920,2
+591.0,Gerard Deulofeu,Watford,ENG-Premier League,1920,0
+1723.0,Roberto Pereyra,Watford,ENG-Premier League,1920,3
+574.0,Troy Deeney,Watford,ENG-Premier League,1920,2
+3277.0,Alexandre Lacazette,Arsenal,ENG-Premier League,2021,2
+5656.0,Nicolas Pépé,Arsenal,ENG-Premier League,2021,2
+318.0,Pierre-Emerick Aubameyang,Arsenal,ENG-Premier League,2021,2
+700.0,Willian,Arsenal,ENG-Premier League,2021,0
+5612.0,Anwar El Ghazi,Aston Villa,ENG-Premier League,2021,2
+695.0,Bertrand Traoré,Aston Villa,ENG-Premier League,2021,0
+675.0,Jack Grealish,Aston Villa,ENG-Premier League,2021,1
+8865.0,Ollie Watkins,Aston Villa,ENG-Premier League,2021,2
+7722.0,Trézéguet,Aston Villa,ENG-Premier League,2021,3
+486.0,Adam Lallana,Brighton,ENG-Premier League,2021,3
+8379.0,Alexis Mac Allister,Brighton,ENG-Premier League,2021,3
+501.0,Danny Welbeck,Brighton,ENG-Premier League,2021,2
+7698.0,Leandro Trossard,Brighton,ENG-Premier League,2021,0
+3621.0,Neal Maupay,Brighton,ENG-Premier League,2021,2
+4422.0,Ashley Barnes,Burnley,ENG-Premier League,2021,3
+4456.0,Chris Wood,Burnley,ENG-Premier League,2021,2
+844.0,Jay Rodriguez,Burnley,ENG-Premier League,2021,3
+1017.0,Matěj Vydra,Burnley,ENG-Premier League,2021,2
+6456.0,Callum Hudson-Odoi,Chelsea,ENG-Premier League,2021,0
+2662.0,Christian Pulisic,Chelsea,ENG-Premier League,2021,1
+8992.0,Hakim Ziyech,Chelsea,ENG-Premier League,2021,0
+5220.0,Kai Havertz,Chelsea,ENG-Premier League,2021,2
+702.0,Tammy Abraham,Chelsea,ENG-Premier League,2021,2
+65.0,Timo Werner,Chelsea,ENG-Premier League,2021,2
+775.0,Andros Townsend,Crystal Palace,ENG-Premier League,2021,0
+606.0,Christian Benteke,Crystal Palace,ENG-Premier League,2021,2
+672.0,Jordan Ayew,Crystal Palace,ENG-Premier League,2021,3
+522.0,Wilfried Zaha,Crystal Palace,ENG-Premier League,2021,3
+500.0,Alex Iwobi,Everton,ENG-Premier League,2021,3
+5555.0,Dominic Calvert-Lewin,Everton,ENG-Premier League,2021,2
+714.0,Gylfi Sigurðsson,Everton,ENG-Premier League,2021,0
+2249.0,James Rodríguez,Everton,ENG-Premier League,2021,0
+6026.0,Richarlison,Everton,ENG-Premier League,2021,3
+5556.0,Ademola Lookman,Fulham,ENG-Premier League,2021,0
+773.0,Aleksandar Mitrović,Fulham,ENG-Premier League,2021,2
+3683.0,Ivan Cavaleiro,Fulham,ENG-Premier League,2021,3
+6854.0,Diogo Jota,Liverpool,ENG-Premier League,2021,4
+1250.0,Mohamed Salah,Liverpool,ENG-Premier League,2021,4
+482.0,Roberto Firmino,Liverpool,ENG-Premier League,2021,1
+838.0,Sadio Mané,Liverpool,ENG-Premier League,2021,1
+3635.0,Bernardo Silva,Manchester City,ENG-Premier League,2021,3
+6441.0,Ferrán Torres,Manchester City,ENG-Premier League,2021,2
+5543.0,Gabriel Jesus,Manchester City,ENG-Premier League,2021,2
+6055.0,Phil Foden,Manchester City,ENG-Premier League,2021,1
+618.0,Raheem Sterling,Manchester City,ENG-Premier League,2021,1
+750.0,Riyad Mahrez,Manchester City,ENG-Premier League,2021,1
+101.0,Allan Saint-Maximin,Newcastle United,ENG-Premier League,2021,3
+468.0,Callum Wilson,Newcastle United,ENG-Premier League,2021,2
+87.0,Joelinton,Newcastle United,ENG-Premier League,2021,3
+7420.0,Miguel Almirón,Newcastle United,ENG-Premier League,2021,3
+1683.0,Ryan Fraser,Newcastle United,ENG-Premier League,2021,0
+7714.0,Ben Osborn,Sheffield United,ENG-Premier League,2021,3
+7711.0,David McGoldrick,Sheffield United,ENG-Premier League,2021,2
+5256.0,Oliver Burke,Sheffield United,ENG-Premier League,2021,3
+1736.0,Oliver McBurnie,Sheffield United,ENG-Premier League,2021,3
+5569.0,Rhian Brewster,Sheffield United,ENG-Premier League,2021,3
+7700.0,Che Adams,Southampton,ENG-Premier League,2021,2
+986.0,Danny Ings,Southampton,ENG-Premier League,2021,2
+790.0,Nathan Redmond,Southampton,ENG-Premier League,2021,3
+3277.0,Alexandre Lacazette,Arsenal,ENG-Premier League,2122,2
+7322.0,Bukayo Saka,Arsenal,ENG-Premier League,2122,1
+7752.0,Gabriel Martinelli,Arsenal,ENG-Premier League,2122,0
+318.0,Pierre-Emerick Aubameyang,Arsenal,ENG-Premier League,2122,2
+631.0,Ashley Young,Aston Villa,ENG-Premier League,2122,3
+986.0,Danny Ings,Aston Villa,ENG-Premier League,2122,2
+8865.0,Ollie Watkins,Aston Villa,ENG-Premier League,2122,2
+488.0,Philippe Coutinho,Aston Villa,ENG-Premier League,2122,1
+6552.0,Bryan Mbeumo,Brentford,ENG-Premier League,2122,2
+998.0,Ivan Toney,Brentford,ENG-Premier League,2122,2
+5786.0,Yoane Wissa,Brentford,ENG-Premier League,2122,2
+8379.0,Alexis Mac Allister,Brighton,ENG-Premier League,2122,3
+501.0,Danny Welbeck,Brighton,ENG-Premier League,2122,2
+9284.0,Jakub Moder,Brighton,ENG-Premier League,2122,3
+7698.0,Leandro Trossard,Brighton,ENG-Premier League,2122,3
+3621.0,Neal Maupay,Brighton,ENG-Premier League,2122,2
+593.0,Aaron Lennon,Burnley,ENG-Premier League,2122,3
+4456.0,Chris Wood,Burnley,ENG-Premier League,2122,2
+844.0,Jay Rodriguez,Burnley,ENG-Premier League,2122,2
+3278.0,Maxwel Cornet,Burnley,ENG-Premier League,2122,2
+7052.0,Wout Weghorst,Burnley,ENG-Premier League,2122,2
+2662.0,Christian Pulisic,Chelsea,ENG-Premier League,2122,2
+8992.0,Hakim Ziyech,Chelsea,ENG-Premier League,2122,1
+5220.0,Kai Havertz,Chelsea,ENG-Premier League,2122,4
+594.0,Romelu Lukaku,Chelsea,ENG-Premier League,2122,2
+65.0,Timo Werner,Chelsea,ENG-Premier League,2122,2
+606.0,Christian Benteke,Crystal Palace,ENG-Premier League,2122,2
+5735.0,Jean-Philippe Mateta,Crystal Palace,ENG-Premier League,2122,2
+757.0,Jeffrey Schlupp,Crystal Palace,ENG-Premier League,2122,3
+672.0,Jordan Ayew,Crystal Palace,ENG-Premier League,2122,3
+9948.0,Michael Olise,Crystal Palace,ENG-Premier League,2122,0
+3697.0,Odsonne Édouard,Crystal Palace,ENG-Premier League,2122,2
+522.0,Wilfried Zaha,Crystal Palace,ENG-Premier League,2122,2
+8150.0,Anthony Gordon,Everton,ENG-Premier League,2122,3
+762.0,Demarai Gray,Everton,ENG-Premier League,2122,0
+5555.0,Dominic Calvert-Lewin,Everton,ENG-Premier League,2122,2
+6026.0,Richarlison,Everton,ENG-Premier League,2122,2
+6854.0,Diogo Jota,Liverpool,ENG-Premier League,2122,4
+10408.0,Luis Díaz,Liverpool,ENG-Premier League,2122,1
+1250.0,Mohamed Salah,Liverpool,ENG-Premier League,2122,4
+482.0,Roberto Firmino,Liverpool,ENG-Premier League,2122,1
+838.0,Sadio Mané,Liverpool,ENG-Premier League,2122,4
+3635.0,Bernardo Silva,Manchester City,ENG-Premier League,2122,1
+5543.0,Gabriel Jesus,Manchester City,ENG-Premier League,2122,1
+675.0,Jack Grealish,Manchester City,ENG-Premier League,2122,1
+6055.0,Phil Foden,Manchester City,ENG-Premier League,2122,1
+618.0,Raheem Sterling,Manchester City,ENG-Premier League,2122,4
+750.0,Riyad Mahrez,Manchester City,ENG-Premier League,2122,1
+101.0,Allan Saint-Maximin,Newcastle United,ENG-Premier League,2122,3
+468.0,Callum Wilson,Newcastle United,ENG-Premier League,2122,2
+6063.0,Jacob Murphy,Newcastle United,ENG-Premier League,2122,3
+87.0,Joelinton,Newcastle United,ENG-Premier League,2122,3
+7420.0,Miguel Almirón,Newcastle United,ENG-Premier League,2122,3
+1683.0,Ryan Fraser,Newcastle United,ENG-Premier League,2122,0
+4419.0,Adam Armstrong,Southampton,ENG-Premier League,2122,2
+8384.0,Armando Broja,Southampton,ENG-Premier League,2122,2
+7700.0,Che Adams,Southampton,ENG-Premier League,2122,2
+790.0,Nathan Redmond,Southampton,ENG-Premier League,2122,0
+6893.0,Stuart Armstrong,Southampton,ENG-Premier League,2122,3
+9301.0,Emmanuel Dennis,Watford,ENG-Premier League,2122,3
+5675.0,Ismaila Sarr,Watford,ENG-Premier League,2122,3
+465.0,Joshua King,Watford,ENG-Premier League,2122,2
+8272.0,João Pedro,Watford,ENG-Premier League,2122,3
+7322.0,Bukayo Saka,Arsenal,ENG-Premier League,2223,1
+6482.0,Eddie Nketiah,Arsenal,ENG-Premier League,2223,4
+5543.0,Gabriel Jesus,Arsenal,ENG-Premier League,2223,4
+7752.0,Gabriel Martinelli,Arsenal,ENG-Premier League,2223,1
+7698.0,Leandro Trossard,Arsenal,ENG-Premier League,2223,1
+5221.0,Leon Bailey,Aston Villa,ENG-Premier League,2223,0
+8865.0,Ollie Watkins,Aston Villa,ENG-Premier League,2223,2
+1679.0,Dominic Solanke,Bournemouth,ENG-Premier League,2223,2
+10743.0,Kieffer Moore,Bournemouth,ENG-Premier League,2223,2
+6034.0,Philip Billing,Bournemouth,ENG-Premier League,2223,3
+6552.0,Bryan Mbeumo,Brentford,ENG-Premier League,2223,0
+998.0,Ivan Toney,Brentford,ENG-Premier League,2223,2
+8859.0,Mikkel Damsgaard,Brentford,ENG-Premier League,2223,3
+5786.0,Yoane Wissa,Brentford,ENG-Premier League,2223,2
+501.0,Danny Welbeck,Brighton,ENG-Premier League,2223,1
+10177.0,Evan Ferguson,Brighton,ENG-Premier League,2223,4
+7892.0,João Félix,Chelsea,ENG-Premier League,2223,2
+5220.0,Kai Havertz,Chelsea,ENG-Premier League,2223,2
+618.0,Raheem Sterling,Chelsea,ENG-Premier League,2223,2
+8706.0,Eberechi Eze,Crystal Palace,ENG-Premier League,2223,0
+672.0,Jordan Ayew,Crystal Palace,ENG-Premier League,2223,3
+9948.0,Michael Olise,Crystal Palace,ENG-Premier League,2223,0
+3697.0,Odsonne Édouard,Crystal Palace,ENG-Premier League,2223,2
+522.0,Wilfried Zaha,Crystal Palace,ENG-Premier League,2223,3
+8150.0,Anthony Gordon,Everton,ENG-Premier League,2223,2
+762.0,Demarai Gray,Everton,ENG-Premier League,2223,0
+5555.0,Dominic Calvert-Lewin,Everton,ENG-Premier League,2223,2
+6756.0,Dwight McNeil,Everton,ENG-Premier League,2223,0
+3621.0,Neal Maupay,Everton,ENG-Premier League,2223,2
+773.0,Aleksandar Mitrović,Fulham,ENG-Premier League,2223,4
+7395.0,Carlos Vinícius,Fulham,ENG-Premier League,2223,2
+11296.0,Cody Gakpo,Liverpool,ENG-Premier League,2223,1
+10720.0,Darwin Núñez,Liverpool,ENG-Premier League,2223,4
+6854.0,Diogo Jota,Liverpool,ENG-Premier League,2223,2
+10408.0,Luis Díaz,Liverpool,ENG-Premier League,2223,1
+1250.0,Mohamed Salah,Liverpool,ENG-Premier League,2223,4
+482.0,Roberto Firmino,Liverpool,ENG-Premier League,2223,4
+3635.0,Bernardo Silva,Manchester City,ENG-Premier League,2223,0
+8260.0,Erling Haaland,Manchester City,ENG-Premier League,2223,4
+675.0,Jack Grealish,Manchester City,ENG-Premier League,2223,1
+10846.0,Julián Álvarez,Manchester City,ENG-Premier League,2223,4
+6055.0,Phil Foden,Manchester City,ENG-Premier League,2223,1
+750.0,Riyad Mahrez,Manchester City,ENG-Premier League,2223,1
+5232.0,Alexander Isak,Newcastle United,ENG-Premier League,2223,2
+101.0,Allan Saint-Maximin,Newcastle United,ENG-Premier League,2223,0
+468.0,Callum Wilson,Newcastle United,ENG-Premier League,2223,4
+6063.0,Jacob Murphy,Newcastle United,ENG-Premier League,2223,0
+87.0,Joelinton,Newcastle United,ENG-Premier League,2223,3
+7420.0,Miguel Almirón,Newcastle United,ENG-Premier League,2223,2
+10760.0,Brennan Johnson,Nottingham Forest,ENG-Premier League,2223,2
+558.0,Jesse Lingard,Nottingham Forest,ENG-Premier League,2223,3
+6857.0,Morgan Gibbs-White,Nottingham Forest,ENG-Premier League,2223,0
+7814.0,Taiwo Awoniyi,Nottingham Forest,ENG-Premier League,2223,2
+4419.0,Adam Armstrong,Southampton,ENG-Premier League,2223,3
+11297.0,Carlos Alcaraz,Southampton,ENG-Premier League,2223,2
+7700.0,Che Adams,Southampton,ENG-Premier League,2223,2
+9630.0,Kamaldeen Sulemana,Southampton,ENG-Premier League,2223,3
+503.0,Theo Walcott,Southampton,ENG-Premier League,2223,3
+7322.0,Bukayo Saka,Arsenal,ENG-Premier League,2324,1
+6482.0,Eddie Nketiah,Arsenal,ENG-Premier League,2324,2
+5543.0,Gabriel Jesus,Arsenal,ENG-Premier League,2324,1
+7752.0,Gabriel Martinelli,Arsenal,ENG-Premier League,2324,1
+5220.0,Kai Havertz,Arsenal,ENG-Premier League,2324,1
+7698.0,Leandro Trossard,Arsenal,ENG-Premier League,2324,4
+6556.0,Moussa Diaby,Aston Villa,ENG-Premier League,2324,1
+8865.0,Ollie Watkins,Aston Villa,ENG-Premier League,2324,4
+5956.0,Youri Tielemans,Aston Villa,ENG-Premier League,2324,3
+1679.0,Dominic Solanke,Bournemouth,ENG-Premier League,2324,2
+6552.0,Bryan Mbeumo,Brentford,ENG-Premier League,2324,1
+998.0,Ivan Toney,Brentford,ENG-Premier League,2324,2
+10809.0,Keane Lewis-Potter,Brentford,ENG-Premier League,2324,2
+3621.0,Neal Maupay,Brentford,ENG-Premier League,2324,2
+5786.0,Yoane Wissa,Brentford,ENG-Premier League,2324,2
+501.0,Danny Welbeck,Brighton,ENG-Premier League,2324,2
+10177.0,Evan Ferguson,Brighton,ENG-Premier League,2324,2
+11362.0,Facundo Buonanotte,Brighton,ENG-Premier League,2324,3
+8272.0,João Pedro,Brighton,ENG-Premier League,2324,1
+10806.0,Kaoru Mitoma,Brighton,ENG-Premier League,2324,1
+10620.0,Luca Koleosho,Burnley,ENG-Premier League,2324,3
+7498.0,Lyle Foster,Burnley,ENG-Premier League,2324,2
+10822.0,Wilson Odobert,Burnley,ENG-Premier League,2324,3
+11701.0,Zeki Amdouni,Burnley,ENG-Premier League,2324,3
+8497.0,Cole Palmer,Chelsea,ENG-Premier League,2324,1
+10048.0,Nicolas Jackson,Chelsea,ENG-Premier League,2324,4
+8706.0,Eberechi Eze,Crystal Palace,ENG-Premier League,2324,1
+5735.0,Jean-Philippe Mateta,Crystal Palace,ENG-Premier League,2324,2
+757.0,Jeffrey Schlupp,Crystal Palace,ENG-Premier League,2324,3
+672.0,Jordan Ayew,Crystal Palace,ENG-Premier League,2324,3
+9948.0,Michael Olise,Crystal Palace,ENG-Premier League,2324,1
+3697.0,Odsonne Édouard,Crystal Palace,ENG-Premier League,2324,2
+9983.0,Beto,Everton,ENG-Premier League,2324,4
+5555.0,Dominic Calvert-Lewin,Everton,ENG-Premier League,2324,2
+5596.0,Harry Wilson,Fulham,ENG-Premier League,2324,3
+4105.0,Raúl Jiménez,Fulham,ENG-Premier League,2324,2
+10717.0,Rodrigo Muniz,Fulham,ENG-Premier League,2324,2
+700.0,Willian,Fulham,ENG-Premier League,2324,0
+11296.0,Cody Gakpo,Liverpool,ENG-Premier League,2324,1
+10720.0,Darwin Núñez,Liverpool,ENG-Premier League,2324,4
+6854.0,Diogo Jota,Liverpool,ENG-Premier League,2324,4
+7546.0,Harvey Elliott,Liverpool,ENG-Premier League,2324,1
+10408.0,Luis Díaz,Liverpool,ENG-Premier League,2324,1
+1250.0,Mohamed Salah,Liverpool,ENG-Premier League,2324,4
+8260.0,Erling Haaland,Manchester City,ENG-Premier League,2324,4
+675.0,Jack Grealish,Manchester City,ENG-Premier League,2324,1
+8981.0,Jeremy Doku,Manchester City,ENG-Premier League,2324,1
+10846.0,Julián Álvarez,Manchester City,ENG-Premier League,2324,1
+5232.0,Alexander Isak,Newcastle United,ENG-Premier League,2324,4
+8150.0,Anthony Gordon,Newcastle United,ENG-Premier League,2324,1
+468.0,Callum Wilson,Newcastle United,ENG-Premier League,2324,4
+9154.0,Elliot Anderson,Newcastle United,ENG-Premier League,2324,3
+6063.0,Jacob Murphy,Newcastle United,ENG-Premier League,2324,1
+87.0,Joelinton,Newcastle United,ENG-Premier League,2324,3
+7420.0,Miguel Almirón,Newcastle United,ENG-Premier League,2324,3
+9524.0,Anthony Elanga,Nottingham Forest,ENG-Premier League,2324,0
+6456.0,Callum Hudson-Odoi,Nottingham Forest,ENG-Premier League,2324,0
+4456.0,Chris Wood,Nottingham Forest,ENG-Premier League,2324,4
+6857.0,Morgan Gibbs-White,Nottingham Forest,ENG-Premier League,2324,0
+7814.0,Taiwo Awoniyi,Nottingham Forest,ENG-Premier League,2324,2
+1736.0,Oliver McBurnie,Sheffield United,ENG-Premier League,2324,2
+7322.0,Bukayo Saka,Arsenal,ENG-Premier League,2425,1
+7752.0,Gabriel Martinelli,Arsenal,ENG-Premier League,2425,2
+5220.0,Kai Havertz,Arsenal,ENG-Premier League,2425,4
+7698.0,Leandro Trossard,Arsenal,ENG-Premier League,2425,1
+5304.0,Mikel Merino,Arsenal,ENG-Premier League,2425,3
+8865.0,Ollie Watkins,Aston Villa,ENG-Premier League,2425,4
+9662.0,Dango Ouattara,Bournemouth,ENG-Premier League,2425,1
+12963.0,Evanilson,Bournemouth,ENG-Premier League,2425,2
+6552.0,Bryan Mbeumo,Brentford,ENG-Premier League,2425,1
+9156.0,Kevin Schade,Brentford,ENG-Premier League,2425,2
+5786.0,Yoane Wissa,Brentford,ENG-Premier League,2425,4
+501.0,Danny Welbeck,Brighton,ENG-Premier League,2425,2
+6937.0,Georginio Rutter,Brighton,ENG-Premier League,2425,3
+8272.0,João Pedro,Brighton,ENG-Premier League,2425,1
+3300.0,Christopher Nkunku,Chelsea,ENG-Premier League,2425,2
+10048.0,Nicolas Jackson,Chelsea,ENG-Premier League,2425,4
+6382.0,Pedro Neto,Chelsea,ENG-Premier League,2425,0
+6482.0,Eddie Nketiah,Crystal Palace,ENG-Premier League,2425,4
+5735.0,Jean-Philippe Mateta,Crystal Palace,ENG-Premier League,2425,2
+9983.0,Beto,Everton,ENG-Premier League,2425,2
+5555.0,Dominic Calvert-Lewin,Everton,ENG-Premier League,2425,2
+9307.0,Iliman Ndiaye,Everton,ENG-Premier League,2425,3
+8720.0,Jack Harrison,Everton,ENG-Premier League,2425,0
+5596.0,Harry Wilson,Fulham,ENG-Premier League,2425,2
+4105.0,Raúl Jiménez,Fulham,ENG-Premier League,2425,2
+10717.0,Rodrigo Muniz,Fulham,ENG-Premier League,2425,4
+10720.0,Darwin Núñez,Liverpool,ENG-Premier League,2425,4
+6854.0,Diogo Jota,Liverpool,ENG-Premier League,2425,4
+10408.0,Luis Díaz,Liverpool,ENG-Premier League,2425,1
+8260.0,Erling Haaland,Manchester City,ENG-Premier League,2425,4
+8981.0,Jeremy Doku,Manchester City,ENG-Premier League,2425,0
+447.0,Kevin De Bruyne,Manchester City,ENG-Premier League,2425,1
+8393.0,Omar Marmoush,Manchester City,ENG-Premier League,2425,4
+6055.0,Phil Foden,Manchester City,ENG-Premier League,2425,1
+11735.0,Sávio,Manchester City,ENG-Premier League,2425,1
+5232.0,Alexander Isak,Newcastle United,ENG-Premier League,2425,4
+8150.0,Anthony Gordon,Newcastle United,ENG-Premier League,2425,0
+6681.0,Harvey Barnes,Newcastle United,ENG-Premier League,2425,2
+6063.0,Jacob Murphy,Newcastle United,ENG-Premier League,2425,0
+87.0,Joelinton,Newcastle United,ENG-Premier League,2425,3
+9524.0,Anthony Elanga,Nottingham Forest,ENG-Premier League,2425,0
+4456.0,Chris Wood,Nottingham Forest,ENG-Premier League,2425,2
+4419.0,Adam Armstrong,Southampton,ENG-Premier League,2425,2
+9912.0,Cameron Archer,Southampton,ENG-Premier League,2425,2
+9630.0,Kamaldeen Sulemana,Southampton,ENG-Premier League,2425,3
+11360.0,Paul Onuachu,Southampton,ENG-Premier League,2425,2
+10586.0,Tyler Dibling,Southampton,ENG-Premier League,2425,3
+2432.0,Burgui,Alavés,ESP-La Liga,1718,3
+2287.0,John Guidetti,Alavés,ESP-La Liga,1718,3
+5047.0,Rubén Sobrino,Alavés,ESP-La Liga,1718,3
+2399.0,Iñaki Williams,Athletic Club,ESP-La Liga,1718,2
+2270.0,Antoine Griezmann,Atlético Madrid,ESP-La Liga,1718,4
+802.0,Diego Costa,Atlético Madrid,ESP-La Liga,1718,3
+2271.0,Fernando Torres,Atlético Madrid,ESP-La Liga,1718,2
+2442.0,Kévin Gameiro,Atlético Madrid,ESP-La Liga,1718,2
+2275.0,Ángel Correa,Atlético Madrid,ESP-La Liga,1718,3
+2097.0,Lionel Messi,Barcelona,ESP-La Liga,1718,4
+2098.0,Luis Suárez,Barcelona,ESP-La Liga,1718,4
+3226.0,Ousmane Dembélé,Barcelona,ESP-La Liga,1718,1
+488.0,Philippe Coutinho,Barcelona,ESP-La Liga,1718,1
+6227.0,Brais Méndez,Celta Vigo,ESP-La Liga,1718,3
+2290.0,Iago Aspas,Celta Vigo,ESP-La Liga,1718,1
+6124.0,Maxi Gómez,Celta Vigo,ESP-La Liga,1718,2
+5116.0,Pione Sisto,Celta Vigo,ESP-La Liga,1718,3
+2339.0,Charles,Eibar,ESP-La Liga,1718,2
+2197.0,Pedro León,Eibar,ESP-La Liga,1718,0
+2135.0,Sergi Enrich,Eibar,ESP-La Liga,1718,3
+2120.0,Gerard Moreno,Espanyol,ESP-La Liga,1718,2
+2304.0,Léo Baptistão,Espanyol,ESP-La Liga,1718,3
+4060.0,Sergio García,Espanyol,ESP-La Liga,1718,3
+6153.0,Gaku Shibasaki,Getafe,ESP-La Liga,1718,3
+2155.0,Jorge Molina,Getafe,ESP-La Liga,1718,2
+1709.0,Cristhian Stuani,Girona,ESP-La Liga,1718,2
+6118.0,Portu,Girona,ESP-La Liga,1718,3
+1672.0,Jonathan Calleri,Las Palmas,ESP-La Liga,1718,2
+2359.0,Tana,Las Palmas,ESP-La Liga,1718,3
+2502.0,Claudio Beauvue,Leganés,ESP-La Liga,1718,2
+575.0,Nordin Amrabat,Leganés,ESP-La Liga,1718,3
+6218.0,Emmanuel Boateng,Levante,ESP-La Liga,1718,2
+4076.0,Jason,Levante,ESP-La Liga,1718,3
+1701.0,Borja Bastón,Málaga,ESP-La Liga,1718,2
+3261.0,Diego Rolán,Málaga,ESP-La Liga,1718,3
+5169.0,Youssef En-Nesyri,Málaga,ESP-La Liga,1718,3
+1421.0,Cristian Tello,Real Betis,ESP-La Liga,1718,3
+2148.0,Joaquín,Real Betis,ESP-La Liga,1718,0
+6528.0,Loren Morón,Real Betis,ESP-La Liga,1718,2
+3343.0,Ryad Boudebouz,Real Betis,ESP-La Liga,1718,0
+5095.0,Sergio León,Real Betis,ESP-La Liga,1718,2
+2371.0,Cristiano Ronaldo,Real Madrid,ESP-La Liga,1718,4
+2251.0,Gareth Bale,Real Madrid,ESP-La Liga,1718,4
+2255.0,Isco,Real Madrid,ESP-La Liga,1718,1
+2370.0,Karim Benzema,Real Madrid,ESP-La Liga,1718,1
+2253.0,Lucas Vázquez,Real Madrid,ESP-La Liga,1718,1
+2117.0,Marco Asensio,Real Madrid,ESP-La Liga,1718,1
+323.0,Adnan Januzaj,Real Sociedad,ESP-La Liga,1718,1
+897.0,Juanmi,Real Sociedad,ESP-La Liga,1718,2
+2234.0,Mikel Oyarzabal,Real Sociedad,ESP-La Liga,1718,2
+2571.0,Sergio Canales,Real Sociedad,ESP-La Liga,1718,0
+2361.0,Willian José,Real Sociedad,ESP-La Liga,1718,2
+1809.0,Joaquín Correa,Sevilla,ESP-La Liga,1718,3
+1229.0,Luis Muriel,Sevilla,ESP-La Liga,1718,2
+1732.0,Nolito,Sevilla,ESP-La Liga,1718,3
+2199.0,Pablo Sarabia,Sevilla,ESP-La Liga,1718,0
+3210.0,Wissam Ben Yedder,Sevilla,ESP-La Liga,1718,4
+2381.0,Rodrigo,Valencia,ESP-La Liga,1718,2
+2384.0,Santi Mina,Valencia,ESP-La Liga,1718,2
+1642.0,Simone Zaza,Valencia,ESP-La Liga,1718,2
+1125.0,Carlos Bacca,Villarreal,ESP-La Liga,1718,4
+2306.0,Cédric Bakambu,Villarreal,ESP-La Liga,1718,2
+2494.0,Denis Cheryshev,Villarreal,ESP-La Liga,1718,1
+2335.0,Pablo Fornals,Villarreal,ESP-La Liga,1718,0
+1701.0,Borja Bastón,Alavés,ESP-La Liga,1819,2
+2491.0,Ibai Gómez,Alavés,ESP-La Liga,1819,0
+1672.0,Jonathan Calleri,Alavés,ESP-La Liga,1819,3
+2216.0,Jony,Alavés,ESP-La Liga,1819,0
+5047.0,Rubén Sobrino,Alavés,ESP-La Liga,1819,3
+2399.0,Iñaki Williams,Athletic Club,ESP-La Liga,1819,2
+2405.0,Markel Susaeta,Athletic Club,ESP-La Liga,1819,0
+2270.0,Antoine Griezmann,Atlético Madrid,ESP-La Liga,1819,1
+802.0,Diego Costa,Atlético Madrid,ESP-La Liga,1819,2
+1804.0,Álvaro Morata,Atlético Madrid,ESP-La Liga,1819,2
+2275.0,Ángel Correa,Atlético Madrid,ESP-La Liga,1819,3
+2097.0,Lionel Messi,Barcelona,ESP-La Liga,1819,4
+2098.0,Luis Suárez,Barcelona,ESP-La Liga,1819,4
+3226.0,Ousmane Dembélé,Barcelona,ESP-La Liga,1819,0
+488.0,Philippe Coutinho,Barcelona,ESP-La Liga,1819,1
+2290.0,Iago Aspas,Celta Vigo,ESP-La Liga,1819,1
+6124.0,Maxi Gómez,Celta Vigo,ESP-La Liga,1819,2
+2339.0,Charles,Eibar,ESP-La Liga,1819,2
+2135.0,Sergi Enrich,Eibar,ESP-La Liga,1819,2
+2543.0,Borja Iglesias,Espanyol,ESP-La Liga,1819,2
+2304.0,Léo Baptistão,Espanyol,ESP-La Liga,1819,2
+4060.0,Sergio García,Espanyol,ESP-La Liga,1819,3
+7398.0,Wu Lei,Espanyol,ESP-La Liga,1819,2
+5134.0,Óscar Melendo,Espanyol,ESP-La Liga,1819,3
+7009.0,Jaime Mata,Getafe,ESP-La Liga,1819,2
+2155.0,Jorge Molina,Getafe,ESP-La Liga,1819,2
+1709.0,Cristhian Stuani,Girona,ESP-La Liga,1819,2
+6118.0,Portu,Girona,ESP-La Liga,1819,2
+3424.0,Guido Carrillo,Leganés,ESP-La Liga,1819,2
+3211.0,Martin Braithwaite,Leganés,ESP-La Liga,1819,2
+5169.0,Youssef En-Nesyri,Leganés,ESP-La Liga,1819,2
+2252.0,Borja Mayoral,Levante,ESP-La Liga,1819,2
+4076.0,Jason,Levante,ESP-La Liga,1819,3
+4229.0,Raúl de Tomás,Rayo Vallecano,ESP-La Liga,1819,2
+7071.0,Álvaro García,Rayo Vallecano,ESP-La Liga,1819,3
+5681.0,Giovani Lo Celso,Real Betis,ESP-La Liga,1819,3
+2148.0,Joaquín,Real Betis,ESP-La Liga,1819,0
+6528.0,Loren Morón,Real Betis,ESP-La Liga,1819,2
+2446.0,Dani Ceballos,Real Madrid,ESP-La Liga,1819,3
+2251.0,Gareth Bale,Real Madrid,ESP-La Liga,1819,2
+2255.0,Isco,Real Madrid,ESP-La Liga,1819,1
+2370.0,Karim Benzema,Real Madrid,ESP-La Liga,1819,4
+2253.0,Lucas Vázquez,Real Madrid,ESP-La Liga,1819,0
+2117.0,Marco Asensio,Real Madrid,ESP-La Liga,1819,0
+323.0,Adnan Januzaj,Real Sociedad,ESP-La Liga,1819,0
+897.0,Juanmi,Real Sociedad,ESP-La Liga,1819,2
+2234.0,Mikel Oyarzabal,Real Sociedad,ESP-La Liga,1819,2
+2242.0,Rubén Pardo,Real Sociedad,ESP-La Liga,1819,0
+2537.0,Sandro Ramírez,Real Sociedad,ESP-La Liga,1819,3
+2361.0,Willian José,Real Sociedad,ESP-La Liga,1819,2
+6170.0,André Silva,Sevilla,ESP-La Liga,1819,2
+2815.0,Quincy Promes,Sevilla,ESP-La Liga,1819,0
+3210.0,Wissam Ben Yedder,Sevilla,ESP-La Liga,1819,4
+5682.0,Gonçalo Guedes,Valencia,ESP-La Liga,1819,3
+2442.0,Kévin Gameiro,Valencia,ESP-La Liga,1819,2
+2381.0,Rodrigo,Valencia,ESP-La Liga,1819,4
+2384.0,Santi Mina,Valencia,ESP-La Liga,1819,2
+1125.0,Carlos Bacca,Villarreal,ESP-La Liga,1819,2
+2120.0,Gerard Moreno,Villarreal,ESP-La Liga,1819,2
+5657.0,Karl Toko Ekambi,Villarreal,ESP-La Liga,1819,2
+2335.0,Pablo Fornals,Villarreal,ESP-La Liga,1819,3
+7208.0,Samuel Chukwueze,Villarreal,ESP-La Liga,1819,2
+866.0,Joselu,Alavés,ESP-La Liga,1920,2
+1700.0,Lucas Pérez,Alavés,ESP-La Liga,1920,0
+5256.0,Oliver Burke,Alavés,ESP-La Liga,1920,3
+2399.0,Iñaki Williams,Athletic Club,ESP-La Liga,1920,2
+2400.0,Raúl García,Athletic Club,ESP-La Liga,1920,3
+802.0,Diego Costa,Atlético Madrid,ESP-La Liga,1920,2
+7892.0,João Félix,Atlético Madrid,ESP-La Liga,1920,2
+2518.0,Marcos Llorente,Atlético Madrid,ESP-La Liga,1920,3
+3425.0,Thomas Lemar,Atlético Madrid,ESP-La Liga,1920,3
+2511.0,Vitolo,Atlético Madrid,ESP-La Liga,1920,3
+1804.0,Álvaro Morata,Atlético Madrid,ESP-La Liga,1920,4
+2275.0,Ángel Correa,Atlético Madrid,ESP-La Liga,1920,2
+2270.0,Antoine Griezmann,Barcelona,ESP-La Liga,1920,2
+222.0,Arturo Vidal,Barcelona,ESP-La Liga,1920,1
+2097.0,Lionel Messi,Barcelona,ESP-La Liga,1920,1
+2098.0,Luis Suárez,Barcelona,ESP-La Liga,1920,4
+6227.0,Brais Méndez,Celta Vigo,ESP-La Liga,1920,3
+2308.0,Denis Suárez,Celta Vigo,ESP-La Liga,1920,0
+2290.0,Iago Aspas,Celta Vigo,ESP-La Liga,1920,2
+2384.0,Santi Mina,Celta Vigo,ESP-La Liga,1920,2
+2339.0,Charles,Eibar,ESP-La Liga,1920,2
+2285.0,Fabián Orellana,Eibar,ESP-La Liga,1920,0
+2135.0,Sergi Enrich,Eibar,ESP-La Liga,1920,3
+1672.0,Jonathan Calleri,Espanyol,ESP-La Liga,1920,3
+7886.0,Matías Vargas,Espanyol,ESP-La Liga,1920,0
+4229.0,Raúl de Tomás,Espanyol,ESP-La Liga,1920,2
+7398.0,Wu Lei,Espanyol,ESP-La Liga,1920,2
+7009.0,Jaime Mata,Getafe,ESP-La Liga,1920,2
+2155.0,Jorge Molina,Getafe,ESP-La Liga,1920,2
+2070.0,Carlos Fernández,Granada,ESP-La Liga,1920,2
+4226.0,Darwin Machís,Granada,ESP-La Liga,1920,0
+2311.0,Roberto Soldado,Granada,ESP-La Liga,1920,2
+3424.0,Guido Carrillo,Leganés,ESP-La Liga,1920,2
+5169.0,Youssef En-Nesyri,Leganés,ESP-La Liga,1920,2
+2252.0,Borja Mayoral,Levante,ESP-La Liga,1920,2
+1235.0,Ante Budimir,Mallorca,ESP-La Liga,1920,2
+7841.0,Dani Rodríguez,Mallorca,ESP-La Liga,1920,3
+7843.0,Lago Junior,Mallorca,ESP-La Liga,1920,3
+8001.0,Takefusa Kubo,Mallorca,ESP-La Liga,1920,3
+6955.0,Ezequiel Ávila,Osasuna,ESP-La Liga,1920,4
+2543.0,Borja Iglesias,Real Betis,ESP-La Liga,1920,3
+6528.0,Loren Morón,Real Betis,ESP-La Liga,1920,2
+3667.0,Nabil Fekir,Real Betis,ESP-La Liga,1920,3
+701.0,Eden Hazard,Real Madrid,ESP-La Liga,1920,1
+2251.0,Gareth Bale,Real Madrid,ESP-La Liga,1920,2
+2255.0,Isco,Real Madrid,ESP-La Liga,1920,0
+2370.0,Karim Benzema,Real Madrid,ESP-La Liga,1920,4
+8015.0,Rodrygo,Real Madrid,ESP-La Liga,1920,3
+7008.0,Vinicius Júnior,Real Madrid,ESP-La Liga,1920,1
+323.0,Adnan Januzaj,Real Sociedad,ESP-La Liga,1920,0
+5232.0,Alexander Isak,Real Sociedad,ESP-La Liga,1920,2
+2234.0,Mikel Oyarzabal,Real Sociedad,ESP-La Liga,1920,0
+6118.0,Portu,Real Sociedad,ESP-La Liga,1920,0
+2361.0,Willian José,Real Sociedad,ESP-La Liga,1920,2
+1836.0,Franco Vázquez,Sevilla,ESP-La Liga,1920,3
+1109.0,Lucas Ocampos,Sevilla,ESP-La Liga,1920,2
+7887.0,Luuk de Jong,Sevilla,ESP-La Liga,1920,2
+2424.0,Óliver Torres,Sevilla,ESP-La Liga,1920,3
+2442.0,Kévin Gameiro,Valencia,ESP-La Liga,1920,2
+6124.0,Maxi Gómez,Valencia,ESP-La Liga,1920,2
+2381.0,Rodrigo,Valencia,ESP-La Liga,1920,2
+2120.0,Gerard Moreno,Villarreal,ESP-La Liga,1920,4
+5657.0,Karl Toko Ekambi,Villarreal,ESP-La Liga,1920,4
+2198.0,Moi Gómez,Villarreal,ESP-La Liga,1920,3
+2380.0,Paco Alcácer,Villarreal,ESP-La Liga,1920,2
+866.0,Joselu,Alavés,ESP-La Liga,2021,2
+1700.0,Lucas Pérez,Alavés,ESP-La Liga,2021,0
+2088.0,Édgar Méndez,Alavés,ESP-La Liga,2021,3
+5173.0,Asier Villalibre,Athletic Club,ESP-La Liga,2021,2
+2399.0,Iñaki Williams,Athletic Club,ESP-La Liga,2021,2
+7779.0,Oihan Sancet,Athletic Club,ESP-La Liga,2021,2
+2400.0,Raúl García,Athletic Club,ESP-La Liga,2021,3
+7892.0,João Félix,Atlético Madrid,ESP-La Liga,2021,2
+2098.0,Luis Suárez,Atlético Madrid,ESP-La Liga,2021,4
+2272.0,Yannick Carrasco,Atlético Madrid,ESP-La Liga,2021,0
+2275.0,Ángel Correa,Atlético Madrid,ESP-La Liga,2021,1
+2270.0,Antoine Griezmann,Barcelona,ESP-La Liga,2021,1
+2097.0,Lionel Messi,Barcelona,ESP-La Liga,2021,4
+3211.0,Martin Braithwaite,Barcelona,ESP-La Liga,2021,2
+3226.0,Ousmane Dembélé,Barcelona,ESP-La Liga,2021,1
+6227.0,Brais Méndez,Celta Vigo,ESP-La Liga,2021,3
+2290.0,Iago Aspas,Celta Vigo,ESP-La Liga,2021,1
+1732.0,Nolito,Celta Vigo,ESP-La Liga,2021,3
+2384.0,Santi Mina,Celta Vigo,ESP-La Liga,2021,2
+6533.0,Anthony Lozano,Cádiz,ESP-La Liga,2021,2
+5047.0,Rubén Sobrino,Cádiz,ESP-La Liga,2021,3
+1715.0,Álvaro Negredo,Cádiz,ESP-La Liga,2021,2
+2197.0,Pedro León,Eibar,ESP-La Liga,2021,0
+2135.0,Sergi Enrich,Eibar,ESP-La Liga,2021,2
+452.0,Takashi Inui,Eibar,ESP-La Liga,2021,3
+47.0,Yoshinori Mutō,Eibar,ESP-La Liga,2021,3
+3424.0,Guido Carrillo,Elche,ESP-La Liga,2021,3
+1189.0,Lucas Boyé,Elche,ESP-La Liga,2021,3
+4175.0,Pere Milla,Elche,ESP-La Liga,2021,3
+6219.0,Enes Ünal,Getafe,ESP-La Liga,2021,2
+7009.0,Jaime Mata,Getafe,ESP-La Liga,2021,2
+2155.0,Jorge Molina,Granada,ESP-La Liga,2021,2
+2311.0,Roberto Soldado,Granada,ESP-La Liga,2021,2
+8774.0,Dani Gómez,Levante,ESP-La Liga,2021,3
+6953.0,Gonzalo Melero,Levante,ESP-La Liga,2021,3
+1235.0,Ante Budimir,Osasuna,ESP-La Liga,2021,2
+1672.0,Jonathan Calleri,Osasuna,ESP-La Liga,2021,2
+5140.0,Kike Barja,Osasuna,ESP-La Liga,2021,3
+2183.0,Rubén García,Osasuna,ESP-La Liga,2021,0
+2217.0,Antonio Sanabria,Real Betis,ESP-La Liga,2021,2
+2543.0,Borja Iglesias,Real Betis,ESP-La Liga,2021,2
+6528.0,Loren Morón,Real Betis,ESP-La Liga,2021,3
+2255.0,Isco,Real Madrid,ESP-La Liga,2021,0
+2370.0,Karim Benzema,Real Madrid,ESP-La Liga,2021,4
+2253.0,Lucas Vázquez,Real Madrid,ESP-La Liga,2021,0
+2117.0,Marco Asensio,Real Madrid,ESP-La Liga,2021,0
+8015.0,Rodrygo,Real Madrid,ESP-La Liga,2021,0
+7008.0,Vinicius Júnior,Real Madrid,ESP-La Liga,2021,3
+323.0,Adnan Januzaj,Real Sociedad,ESP-La Liga,2021,1
+5232.0,Alexander Isak,Real Sociedad,ESP-La Liga,2021,4
+2234.0,Mikel Oyarzabal,Real Sociedad,ESP-La Liga,2021,1
+6118.0,Portu,Real Sociedad,ESP-La Liga,2021,2
+1109.0,Lucas Ocampos,Sevilla,ESP-La Liga,2021,3
+7887.0,Luuk de Jong,Sevilla,ESP-La Liga,2021,2
+1129.0,Suso,Sevilla,ESP-La Liga,2021,0
+5169.0,Youssef En-Nesyri,Sevilla,ESP-La Liga,2021,4
+5682.0,Gonçalo Guedes,Valencia,ESP-La Liga,2021,3
+2442.0,Kévin Gameiro,Valencia,ESP-La Liga,2021,2
+7313.0,Lee Kang-in,Valencia,ESP-La Liga,2021,3
+7834.0,Manu Vallejo,Valencia,ESP-La Liga,2021,2
+6124.0,Maxi Gómez,Valencia,ESP-La Liga,2021,2
+2120.0,Gerard Moreno,Villarreal,ESP-La Liga,2021,4
+2198.0,Moi Gómez,Villarreal,ESP-La Liga,2021,3
+2380.0,Paco Alcácer,Villarreal,ESP-La Liga,2021,2
+866.0,Joselu,Alavés,ESP-La Liga,2122,2
+7870.0,Luis Rioja,Alavés,ESP-La Liga,2122,3
+2088.0,Édgar Méndez,Alavés,ESP-La Liga,2122,3
+2399.0,Iñaki Williams,Athletic Club,ESP-La Liga,2122,2
+7779.0,Oihan Sancet,Athletic Club,ESP-La Liga,2122,1
+2400.0,Raúl García,Athletic Club,ESP-La Liga,2122,2
+2270.0,Antoine Griezmann,Atlético Madrid,ESP-La Liga,2122,1
+7892.0,João Félix,Atlético Madrid,ESP-La Liga,2122,1
+2098.0,Luis Suárez,Atlético Madrid,ESP-La Liga,2122,2
+7080.0,Matheus Cunha,Atlético Madrid,ESP-La Liga,2122,4
+2272.0,Yannick Carrasco,Atlético Madrid,ESP-La Liga,2122,0
+2275.0,Ángel Correa,Atlético Madrid,ESP-La Liga,2122,2
+6441.0,Ferrán Torres,Barcelona,ESP-La Liga,2122,1
+9804.0,Gavi,Barcelona,ESP-La Liga,2122,3
+3226.0,Ousmane Dembélé,Barcelona,ESP-La Liga,2122,1
+318.0,Pierre-Emerick Aubameyang,Barcelona,ESP-La Liga,2122,4
+8979.0,Sergiño Dest,Barcelona,ESP-La Liga,2122,3
+2290.0,Iago Aspas,Celta Vigo,ESP-La Liga,2122,2
+2384.0,Santi Mina,Celta Vigo,ESP-La Liga,2122,2
+9917.0,Thiago Galhardo,Celta Vigo,ESP-La Liga,2122,2
+6533.0,Anthony Lozano,Cádiz,ESP-La Liga,2122,2
+1700.0,Lucas Pérez,Cádiz,ESP-La Liga,2122,1
+5047.0,Rubén Sobrino,Cádiz,ESP-La Liga,2122,3
+1715.0,Álvaro Negredo,Cádiz,ESP-La Liga,2122,2
+3424.0,Guido Carrillo,Elche,ESP-La Liga,2122,2
+1189.0,Lucas Boyé,Elche,ESP-La Liga,2122,2
+4175.0,Pere Milla,Elche,ESP-La Liga,2122,2
+6933.0,Javi Puado,Espanyol,ESP-La Liga,2122,3
+4229.0,Raúl de Tomás,Espanyol,ESP-La Liga,2122,2
+7648.0,Tonny Vilhena,Espanyol,ESP-La Liga,2122,3
+2252.0,Borja Mayoral,Getafe,ESP-La Liga,2122,2
+6219.0,Enes Ünal,Getafe,ESP-La Liga,2122,2
+2537.0,Sandro Ramírez,Getafe,ESP-La Liga,2122,3
+7863.0,Antonio Puertas,Granada,ESP-La Liga,2122,3
+4226.0,Darwin Machís,Granada,ESP-La Liga,2122,3
+2155.0,Jorge Molina,Granada,ESP-La Liga,2122,2
+7586.0,Álex Collado,Granada,ESP-La Liga,2122,3
+8774.0,Dani Gómez,Levante,ESP-La Liga,2122,2
+6217.0,Enis Bardhi,Levante,ESP-La Liga,2122,0
+8107.0,Jorge de Frutos,Levante,ESP-La Liga,2122,0
+8001.0,Takefusa Kubo,Mallorca,ESP-La Liga,2122,3
+9002.0,Vedat Muriqi,Mallorca,ESP-La Liga,2122,2
+1235.0,Ante Budimir,Osasuna,ESP-La Liga,2122,2
+6955.0,Ezequiel Ávila,Osasuna,ESP-La Liga,2122,3
+2183.0,Rubén García,Osasuna,ESP-La Liga,2122,0
+9813.0,Randy Nteka,Rayo Vallecano,ESP-La Liga,2122,3
+5212.0,Sergi Guardiola,Rayo Vallecano,ESP-La Liga,2122,2
+2543.0,Borja Iglesias,Real Betis,ESP-La Liga,2122,2
+2361.0,Willian José,Real Betis,ESP-La Liga,2122,2
+2370.0,Karim Benzema,Real Madrid,ESP-La Liga,2122,4
+2117.0,Marco Asensio,Real Madrid,ESP-La Liga,2122,1
+8015.0,Rodrygo,Real Madrid,ESP-La Liga,2122,1
+7008.0,Vinicius Júnior,Real Madrid,ESP-La Liga,2122,1
+323.0,Adnan Januzaj,Real Sociedad,ESP-La Liga,2122,0
+5232.0,Alexander Isak,Real Sociedad,ESP-La Liga,2122,2
+6531.0,Alexander Sørloth,Real Sociedad,ESP-La Liga,2122,2
+617.0,David Silva,Real Sociedad,ESP-La Liga,2122,0
+2234.0,Mikel Oyarzabal,Real Sociedad,ESP-La Liga,2122,1
+6118.0,Portu,Real Sociedad,ESP-La Liga,2122,3
+2100.0,Rafinha,Real Sociedad,ESP-La Liga,2122,3
+10323.0,Jesús Corona,Sevilla,ESP-La Liga,2122,0
+1109.0,Lucas Ocampos,Sevilla,ESP-La Liga,2122,3
+2589.0,Rafa Mir,Sevilla,ESP-La Liga,2122,2
+5169.0,Youssef En-Nesyri,Sevilla,ESP-La Liga,2122,2
+644.0,Érik Lamela,Sevilla,ESP-La Liga,2122,1
+2424.0,Óliver Torres,Sevilla,ESP-La Liga,2122,3
+5682.0,Gonçalo Guedes,Valencia,ESP-La Liga,2122,0
+6124.0,Maxi Gómez,Valencia,ESP-La Liga,2122,2
+8771.0,Yunus Musah,Valencia,ESP-La Liga,2122,3
+7224.0,Boulaye Dia,Villarreal,ESP-La Liga,2122,2
+2120.0,Gerard Moreno,Villarreal,ESP-La Liga,2122,4
+5681.0,Giovani Lo Celso,Villarreal,ESP-La Liga,2122,3
+2301.0,Manu Trigueros,Villarreal,ESP-La Liga,2122,3
+2198.0,Moi Gómez,Villarreal,ESP-La Liga,2122,3
+9024.0,Yeremi Pino,Villarreal,ESP-La Liga,2122,2
+8294.0,El Bilal Touré,Almería,ESP-La Liga,2223,2
+10975.0,Largie Ramazani,Almería,ESP-La Liga,2223,3
+2304.0,Léo Baptistão,Almería,ESP-La Liga,2223,3
+7020.0,Gorka Guruzeta,Athletic Club,ESP-La Liga,2223,2
+2399.0,Iñaki Williams,Athletic Club,ESP-La Liga,2223,2
+2400.0,Raúl García,Athletic Club,ESP-La Liga,2223,2
+2270.0,Antoine Griezmann,Atlético Madrid,ESP-La Liga,2223,1
+1804.0,Álvaro Morata,Atlético Madrid,ESP-La Liga,2223,4
+2275.0,Ángel Correa,Atlético Madrid,ESP-La Liga,2223,1
+6441.0,Ferrán Torres,Barcelona,ESP-La Liga,2223,1
+9804.0,Gavi,Barcelona,ESP-La Liga,2223,3
+3226.0,Ousmane Dembélé,Barcelona,ESP-La Liga,2223,1
+8026.0,Raphinha,Barcelona,ESP-La Liga,2223,1
+227.0,Robert Lewandowski,Barcelona,ESP-La Liga,2223,4
+7609.0,Carles Pérez,Celta Vigo,ESP-La Liga,2223,3
+2290.0,Iago Aspas,Celta Vigo,ESP-La Liga,2223,1
+11070.0,Jørgen Strand Larsen,Celta Vigo,ESP-La Liga,2223,2
+6533.0,Anthony Lozano,Cádiz,ESP-La Liga,2223,3
+5047.0,Rubén Sobrino,Cádiz,ESP-La Liga,2223,3
+5212.0,Sergi Guardiola,Cádiz,ESP-La Liga,2223,2
+4177.0,Álex Fernández,Cádiz,ESP-La Liga,2223,3
+2057.0,Ezequiel Ponce,Elche,ESP-La Liga,2223,2
+4146.0,Fidel,Elche,ESP-La Liga,2223,3
+1189.0,Lucas Boyé,Elche,ESP-La Liga,2223,2
+4175.0,Pere Milla,Elche,ESP-La Liga,2223,3
+8895.0,Tete Morente,Elche,ESP-La Liga,2223,3
+2103.0,Aleix Vidal,Espanyol,ESP-La Liga,2223,3
+6933.0,Javi Puado,Espanyol,ESP-La Liga,2223,2
+866.0,Joselu,Espanyol,ESP-La Liga,2223,2
+3211.0,Martin Braithwaite,Espanyol,ESP-La Liga,2223,2
+2252.0,Borja Mayoral,Getafe,ESP-La Liga,2223,2
+5058.0,Carles Aleñá,Getafe,ESP-La Liga,2223,3
+6219.0,Enes Ünal,Getafe,ESP-La Liga,2223,2
+1709.0,Cristhian Stuani,Girona,ESP-La Liga,2223,4
+8002.0,Rodrigo Riquelme,Girona,ESP-La Liga,2223,0
+10948.0,Valentín Castellanos,Girona,ESP-La Liga,2223,2
+7313.0,Lee Kang-in,Mallorca,ESP-La Liga,2223,0
+9002.0,Vedat Muriqi,Mallorca,ESP-La Liga,2223,2
+8424.0,Aimar Oroz,Osasuna,ESP-La Liga,2223,3
+1235.0,Ante Budimir,Osasuna,ESP-La Liga,2223,2
+6955.0,Ezequiel Ávila,Osasuna,ESP-La Liga,2223,2
+5140.0,Kike Barja,Osasuna,ESP-La Liga,2223,0
+2183.0,Rubén García,Osasuna,ESP-La Liga,2223,0
+7528.0,Sergio Camello,Rayo Vallecano,ESP-La Liga,2223,2
+3208.0,Óscar Trejo,Rayo Vallecano,ESP-La Liga,2223,3
+770.0,Ayoze Pérez,Real Betis,ESP-La Liga,2223,3
+2543.0,Borja Iglesias,Real Betis,ESP-La Liga,2223,2
+6241.0,Federico Valverde,Real Madrid,ESP-La Liga,2223,1
+2370.0,Karim Benzema,Real Madrid,ESP-La Liga,2223,4
+2117.0,Marco Asensio,Real Madrid,ESP-La Liga,2223,1
+8015.0,Rodrygo,Real Madrid,ESP-La Liga,2223,1
+7008.0,Vinicius Júnior,Real Madrid,ESP-La Liga,2223,1
+6531.0,Alexander Sørloth,Real Sociedad,ESP-La Liga,2223,4
+617.0,David Silva,Real Sociedad,ESP-La Liga,2223,1
+2234.0,Mikel Oyarzabal,Real Sociedad,ESP-La Liga,2223,2
+8001.0,Takefusa Kubo,Real Sociedad,ESP-La Liga,2223,1
+1109.0,Lucas Ocampos,Sevilla,ESP-La Liga,2223,3
+2589.0,Rafa Mir,Sevilla,ESP-La Liga,2223,2
+1129.0,Suso,Sevilla,ESP-La Liga,2223,0
+5169.0,Youssef En-Nesyri,Sevilla,ESP-La Liga,2223,2
+644.0,Érik Lamela,Sevilla,ESP-La Liga,2223,3
+3294.0,Edinson Cavani,Valencia,ESP-La Liga,2223,2
+6637.0,Hugo Duro,Valencia,ESP-La Liga,2223,2
+6963.0,Justin Kluivert,Valencia,ESP-La Liga,2223,2
+2303.0,Samu Castillejo,Valencia,ESP-La Liga,2223,0
+10943.0,Samuel Lino,Valencia,ESP-La Liga,2223,3
+8417.0,Alex Baena,Villarreal,ESP-La Liga,2223,1
+2120.0,Gerard Moreno,Villarreal,ESP-La Liga,2223,4
+5681.0,Giovani Lo Celso,Villarreal,ESP-La Liga,2223,0
+10048.0,Nicolas Jackson,Villarreal,ESP-La Liga,2223,4
+7208.0,Samuel Chukwueze,Villarreal,ESP-La Liga,2223,2
+9024.0,Yeremi Pino,Villarreal,ESP-La Liga,2223,3
+11831.0,Samu Omorodion,Alavés,ESP-La Liga,2324,4
+6953.0,Gonzalo Melero,Almería,ESP-La Liga,2324,3
+10975.0,Largie Ramazani,Almería,ESP-La Liga,2324,0
+2304.0,Léo Baptistão,Almería,ESP-La Liga,2324,3
+8862.0,Sergio Arribas,Almería,ESP-La Liga,2324,1
+7020.0,Gorka Guruzeta,Athletic Club,ESP-La Liga,2324,2
+2270.0,Antoine Griezmann,Atlético Madrid,ESP-La Liga,2324,1
+1804.0,Álvaro Morata,Atlético Madrid,ESP-La Liga,2324,4
+2275.0,Ángel Correa,Atlético Madrid,ESP-La Liga,2324,1
+11822.0,Fermin López,Barcelona,ESP-La Liga,2324,4
+6441.0,Ferrán Torres,Barcelona,ESP-La Liga,2324,1
+9804.0,Gavi,Barcelona,ESP-La Liga,2324,3
+7892.0,João Félix,Barcelona,ESP-La Liga,2324,1
+11527.0,Lamine Yamal,Barcelona,ESP-La Liga,2324,1
+8935.0,Pedri,Barcelona,ESP-La Liga,2324,1
+8026.0,Raphinha,Barcelona,ESP-La Liga,2324,1
+227.0,Robert Lewandowski,Barcelona,ESP-La Liga,2324,4
+2290.0,Iago Aspas,Celta Vigo,ESP-La Liga,2324,1
+3749.0,Jonathan Bamba,Celta Vigo,ESP-La Liga,2324,0
+11070.0,Jørgen Strand Larsen,Celta Vigo,ESP-La Liga,2324,2
+6920.0,Chris Ramos,Cádiz,ESP-La Liga,2324,2
+6124.0,Maxi Gómez,Cádiz,ESP-La Liga,2324,3
+5047.0,Rubén Sobrino,Cádiz,ESP-La Liga,2324,3
+2252.0,Borja Mayoral,Getafe,ESP-La Liga,2324,2
+7009.0,Jaime Mata,Getafe,ESP-La Liga,2324,3
+7490.0,Mason Greenwood,Getafe,ESP-La Liga,2324,2
+11736.0,Artem Dovbyk,Girona,ESP-La Liga,2324,4
+11735.0,Sávio,Girona,ESP-La Liga,2324,0
+10143.0,Bryan Zaragoza,Granada,ESP-La Liga,2324,0
+9324.0,Facundo Pellistri,Granada,ESP-La Liga,2324,3
+1189.0,Lucas Boyé,Granada,ESP-La Liga,2324,3
+10400.0,Myrto Uzuni,Granada,ESP-La Liga,2324,2
+5134.0,Óscar Melendo,Granada,ESP-La Liga,2324,3
+12160.0,Alberto Moleiro,Las Palmas,ESP-La Liga,2324,3
+2537.0,Sandro Ramírez,Las Palmas,ESP-La Liga,2324,0
+8014.0,Abdón Prats,Mallorca,ESP-La Liga,2324,2
+11340.0,Cyle Larin,Mallorca,ESP-La Liga,2324,2
+9002.0,Vedat Muriqi,Mallorca,ESP-La Liga,2324,2
+1235.0,Ante Budimir,Osasuna,ESP-La Liga,2324,2
+6470.0,José Arnaiz,Osasuna,ESP-La Liga,2324,0
+2198.0,Moi Gómez,Osasuna,ESP-La Liga,2324,3
+2183.0,Rubén García,Osasuna,ESP-La Liga,2324,0
+4229.0,Raúl de Tomás,Rayo Vallecano,ESP-La Liga,2324,2
+7528.0,Sergio Camello,Rayo Vallecano,ESP-La Liga,2324,2
+3208.0,Óscar Trejo,Rayo Vallecano,ESP-La Liga,2324,3
+770.0,Ayoze Pérez,Real Betis,ESP-La Liga,2324,3
+3667.0,Nabil Fekir,Real Betis,ESP-La Liga,2324,0
+2361.0,Willian José,Real Betis,ESP-La Liga,2324,2
+6421.0,Brahim Díaz,Real Madrid,ESP-La Liga,2324,1
+866.0,Joselu,Real Madrid,ESP-La Liga,2324,4
+8824.0,Jude Bellingham,Real Madrid,ESP-La Liga,2324,1
+8015.0,Rodrygo,Real Madrid,ESP-La Liga,2324,1
+7008.0,Vinicius Júnior,Real Madrid,ESP-La Liga,2324,4
+7308.0,Ander Barrenetxea,Real Sociedad,ESP-La Liga,2324,3
+8760.0,Arsen Zakharyan,Real Sociedad,ESP-La Liga,2324,0
+6227.0,Brais Méndez,Real Sociedad,ESP-La Liga,2324,0
+2234.0,Mikel Oyarzabal,Real Sociedad,ESP-La Liga,2324,2
+8001.0,Takefusa Kubo,Real Sociedad,ESP-La Liga,2324,0
+1450.0,Umar Sadiq,Real Sociedad,ESP-La Liga,2324,2
+5706.0,Dodi Lukebakio,Sevilla,ESP-La Liga,2324,4
+12305.0,Isaac Romero,Sevilla,ESP-La Liga,2324,4
+1109.0,Lucas Ocampos,Sevilla,ESP-La Liga,2324,3
+5169.0,Youssef En-Nesyri,Sevilla,ESP-La Liga,2324,2
+9694.0,Diego López,Valencia,ESP-La Liga,2324,3
+6637.0,Hugo Duro,Valencia,ESP-La Liga,2324,2
+12041.0,Roman Yaremchuk,Valencia,ESP-La Liga,2324,2
+8417.0,Alex Baena,Villarreal,ESP-La Liga,2324,0
+6531.0,Alexander Sørloth,Villarreal,ESP-La Liga,2324,4
+2120.0,Gerard Moreno,Villarreal,ESP-La Liga,2324,1
+5682.0,Gonçalo Guedes,Villarreal,ESP-La Liga,2324,0
+10101.0,Carlos Martín,Alavés,ESP-La Liga,2425,3
+7020.0,Gorka Guruzeta,Athletic Club,ESP-La Liga,2425,2
+2399.0,Iñaki Williams,Athletic Club,ESP-La Liga,2425,1
+11531.0,Unai Gómez,Athletic Club,ESP-La Liga,2425,3
+5091.0,Álex Berenguer,Athletic Club,ESP-La Liga,2425,0
+6531.0,Alexander Sørloth,Atlético Madrid,ESP-La Liga,2425,4
+2270.0,Antoine Griezmann,Atlético Madrid,ESP-La Liga,2425,1
+10846.0,Julián Álvarez,Atlético Madrid,ESP-La Liga,2425,4
+6441.0,Ferrán Torres,Barcelona,ESP-La Liga,2425,4
+11527.0,Lamine Yamal,Barcelona,ESP-La Liga,2425,1
+8026.0,Raphinha,Barcelona,ESP-La Liga,2425,1
+227.0,Robert Lewandowski,Barcelona,ESP-La Liga,2425,4
+9241.0,Alfon,Celta Vigo,ESP-La Liga,2425,1
+2543.0,Borja Iglesias,Celta Vigo,ESP-La Liga,2425,4
+2290.0,Iago Aspas,Celta Vigo,ESP-La Liga,2425,1
+11154.0,Pablo Durán,Celta Vigo,ESP-La Liga,2425,3
+10870.0,Williot Swedberg,Celta Vigo,ESP-La Liga,2425,2
+12105.0,Alejo Véliz,Espanyol,ESP-La Liga,2425,3
+6933.0,Javi Puado,Espanyol,ESP-La Liga,2425,2
+13350.0,Roberto Férnandez,Espanyol,ESP-La Liga,2425,2
+12039.0,Bertuğ Yıldırım,Getafe,ESP-La Liga,2425,3
+2252.0,Borja Mayoral,Getafe,ESP-La Liga,2425,2
+12726.0,Christantus Uche,Getafe,ESP-La Liga,2425,3
+10947.0,Ramón Terrats,Getafe,ESP-La Liga,2425,3
+7549.0,Abel Ruiz,Girona,ESP-La Liga,2425,2
+1709.0,Cristhian Stuani,Girona,ESP-La Liga,2425,4
+13005.0,Yaser Asprilla,Girona,ESP-La Liga,2425,0
+8778.0,Fábio Silva,Las Palmas,ESP-La Liga,2425,2
+1736.0,Oliver McBurnie,Las Palmas,ESP-La Liga,2425,2
+2537.0,Sandro Ramírez,Las Palmas,ESP-La Liga,2425,0
+11340.0,Cyle Larin,Mallorca,ESP-La Liga,2425,2
+7841.0,Dani Rodríguez,Mallorca,ESP-La Liga,2425,3
+6087.0,Takuma Asano,Mallorca,ESP-La Liga,2425,3
+9002.0,Vedat Muriqi,Mallorca,ESP-La Liga,2425,2
+1235.0,Ante Budimir,Osasuna,ESP-La Liga,2425,2
+10143.0,Bryan Zaragoza,Osasuna,ESP-La Liga,2425,0
+2183.0,Rubén García,Osasuna,ESP-La Liga,2425,0
+8107.0,Jorge de Frutos,Rayo Vallecano,ESP-La Liga,2425,3
+9813.0,Randy Nteka,Rayo Vallecano,ESP-La Liga,2425,2
+7528.0,Sergio Camello,Rayo Vallecano,ESP-La Liga,2425,2
+7071.0,Álvaro García,Rayo Vallecano,ESP-La Liga,2425,0
+6427.0,Aitor Ruibal,Real Betis,ESP-La Liga,2425,3
+12302.0,Vitor Roque,Real Betis,ESP-La Liga,2425,2
+12190.0,Arda Güler,Real Madrid,ESP-La Liga,2425,1
+6421.0,Brahim Díaz,Real Madrid,ESP-La Liga,2425,1
+8015.0,Rodrygo,Real Madrid,ESP-La Liga,2425,1
+7008.0,Vinicius Júnior,Real Madrid,ESP-La Liga,2425,1
+6227.0,Brais Méndez,Real Sociedad,ESP-La Liga,2425,3
+2234.0,Mikel Oyarzabal,Real Sociedad,ESP-La Liga,2425,2
+7882.0,Sheraldo Becker,Real Sociedad,ESP-La Liga,2425,0
+8001.0,Takefusa Kubo,Real Sociedad,ESP-La Liga,2425,0
+8694.0,Chidera Ejuke,Sevilla,ESP-La Liga,2425,3
+5706.0,Dodi Lukebakio,Sevilla,ESP-La Liga,2425,2
+12305.0,Isaac Romero,Sevilla,ESP-La Liga,2425,2
+12742.0,Peque,Sevilla,ESP-La Liga,2425,3
+6637.0,Hugo Duro,Valencia,ESP-La Liga,2425,2
+8417.0,Alex Baena,Villarreal,ESP-La Liga,2425,1
+770.0,Ayoze Pérez,Villarreal,ESP-La Liga,2425,4
+5656.0,Nicolas Pépé,Villarreal,ESP-La Liga,2425,1
+12916.0,Thierno Barry,Villarreal,ESP-La Liga,2425,2
+4670.0,Moussa Konaté,Amiens,FRA-Ligue 1,1718,2
+6019.0,Angelo Fulgini,Angers,FRA-Ligue 1,1718,0
+3260.0,Enzo Crivelli,Angers,FRA-Ligue 1,1718,2
+5657.0,Karl Toko Ekambi,Angers,FRA-Ligue 1,1718,2
+3333.0,François Kamano,Bordeaux,FRA-Ligue 1,1718,3
+3746.0,Gaëtan Laborde,Bordeaux,FRA-Ligue 1,1718,2
+3262.0,Malcom,Bordeaux,FRA-Ligue 1,1718,1
+3211.0,Martin Braithwaite,Bordeaux,FRA-Ligue 1,1718,2
+3244.0,Nicolas de Préville,Bordeaux,FRA-Ligue 1,1718,3
+5701.0,Ivan Santini,Caen,FRA-Ligue 1,1718,2
+6279.0,Jan Repas,Caen,FRA-Ligue 1,1718,3
+3526.0,Ronny Rodelin,Caen,FRA-Ligue 1,1718,0
+3460.0,Benjamin Jeannot,Dijon,FRA-Ligue 1,1718,3
+5621.0,Frédéric Sammaritano,Dijon,FRA-Ligue 1,1718,3
+5622.0,Júlio Tavares,Dijon,FRA-Ligue 1,1718,2
+5625.0,Kwon Chang-hoon,Dijon,FRA-Ligue 1,1718,3
+5608.0,Naïm Sliti,Dijon,FRA-Ligue 1,1718,0
+3799.0,Wesley Saïd,Dijon,FRA-Ligue 1,1718,3
+3477.0,Jimmy Briand,Guingamp,FRA-Ligue 1,1718,3
+5992.0,Marcus Thuram,Guingamp,FRA-Ligue 1,1718,3
+3574.0,Nicolas Benezet,Guingamp,FRA-Ligue 1,1718,0
+3473.0,Yannis Salibur,Guingamp,FRA-Ligue 1,1718,0
+5612.0,Anwar El Ghazi,Lille,FRA-Ligue 1,1718,0
+2057.0,Ezequiel Ponce,Lille,FRA-Ligue 1,1718,3
+5800.0,Lebo Mothiba,Lille,FRA-Ligue 1,1718,2
+6012.0,Luiz Araújo,Lille,FRA-Ligue 1,1718,3
+5656.0,Nicolas Pépé,Lille,FRA-Ligue 1,1718,3
+3366.0,Yassine Benzia,Lille,FRA-Ligue 1,1718,0
+695.0,Bertrand Traoré,Lyon,FRA-Ligue 1,1718,1
+5110.0,Mariano,Lyon,FRA-Ligue 1,1718,4
+3278.0,Maxwel Cornet,Lyon,FRA-Ligue 1,1718,0
+3667.0,Nabil Fekir,Lyon,FRA-Ligue 1,1718,1
+3309.0,Valère Germain,Marseille,FRA-Ligue 1,1718,2
+777.0,Emmanuel Rivière,Metz,FRA-Ligue 1,1718,2
+6264.0,Mathieu Dossevi,Metz,FRA-Ligue 1,1718,0
+3512.0,Nolan Roux,Metz,FRA-Ligue 1,1718,2
+3276.0,Rachid Ghezzal,Monaco,FRA-Ligue 1,1718,0
+3344.0,Casimir Ninga,Montpellier,FRA-Ligue 1,1718,3
+3228.0,Giovanni Sio,Montpellier,FRA-Ligue 1,1718,2
+5662.0,Isaac Mbenza,Montpellier,FRA-Ligue 1,1718,2
+5661.0,Jonathan Ikone,Montpellier,FRA-Ligue 1,1718,3
+3590.0,Souleymane Camara,Montpellier,FRA-Ligue 1,1718,2
+3406.0,Emiliano Sala,Nantes,FRA-Ligue 1,1718,2
+5715.0,Préjuce Nakoulma,Nantes,FRA-Ligue 1,1718,3
+3310.0,Alassane Pléa,Nice,FRA-Ligue 1,1718,2
+1817.0,Mario Balotelli,Nice,FRA-Ligue 1,1718,4
+3795.0,Adrien Hunou,Rennes,FRA-Ligue 1,1718,3
+4773.0,Benjamin Bourigeaud,Rennes,FRA-Ligue 1,1718,0
+5675.0,Ismaila Sarr,Rennes,FRA-Ligue 1,1718,3
+734.0,Wahbi Khazri,Rennes,FRA-Ligue 1,1718,3
+3749.0,Jonathan Bamba,Saint-Étienne,FRA-Ligue 1,1718,0
+3513.0,Kévin Monnet-Paquet,Saint-Étienne,FRA-Ligue 1,1718,3
+5623.0,Lois Diony,Saint-Étienne,FRA-Ligue 1,1718,3
+3691.0,Robert Berić,Saint-Étienne,FRA-Ligue 1,1718,2
+3561.0,Romain Hamouma,Saint-Étienne,FRA-Ligue 1,1718,1
+3514.0,Benjamin Corgnet,Strasbourg,FRA-Ligue 1,1718,3
+5979.0,Idriss Saadi,Strasbourg,FRA-Ligue 1,1718,2
+3346.0,Jonas Martin,Strasbourg,FRA-Ligue 1,1718,3
+5983.0,Jérémy Blayac,Strasbourg,FRA-Ligue 1,1718,2
+5611.0,Martin Terrier,Strasbourg,FRA-Ligue 1,1718,3
+5980.0,Stéphane Bahoken,Strasbourg,FRA-Ligue 1,1718,2
+3530.0,Andy Delort,Toulouse,FRA-Ligue 1,1718,0
+3445.0,Corentin Jean,Toulouse,FRA-Ligue 1,1718,3
+5705.0,Jimmy Durmaz,Toulouse,FRA-Ligue 1,1718,0
+464.0,Max Gradel,Toulouse,FRA-Ligue 1,1718,0
+3202.0,Somália,Toulouse,FRA-Ligue 1,1718,3
+4402.0,Yaya Sanogo,Toulouse,FRA-Ligue 1,1718,2
+4703.0,Adama Niane,Troyes,FRA-Ligue 1,1718,2
+6307.0,Suk Hyun-jun,Troyes,FRA-Ligue 1,1718,2
+6898.0,Cheick Timite,Amiens,FRA-Ligue 1,1819,3
+6897.0,Juan Ferney Otero,Amiens,FRA-Ligue 1,1819,3
+4670.0,Moussa Konaté,Amiens,FRA-Ligue 1,1819,2
+7069.0,Saman Ghoddos,Amiens,FRA-Ligue 1,1819,0
+3738.0,Serhou Guirassy,Amiens,FRA-Ligue 1,1819,2
+6019.0,Angelo Fulgini,Angers,FRA-Ligue 1,1819,0
+5655.0,Flavien Tait,Angers,FRA-Ligue 1,1819,0
+1056.0,Jeff Reine-Adélaïde,Angers,FRA-Ligue 1,1819,3
+5980.0,Stéphane Bahoken,Angers,FRA-Ligue 1,1819,2
+3333.0,François Kamano,Bordeaux,FRA-Ligue 1,1819,2
+3477.0,Jimmy Briand,Bordeaux,FRA-Ligue 1,1819,2
+3244.0,Nicolas de Préville,Bordeaux,FRA-Ligue 1,1819,0
+6947.0,Samuel Kalu,Bordeaux,FRA-Ligue 1,1819,0
+5700.0,Yann Karamoh,Bordeaux,FRA-Ligue 1,1819,0
+3344.0,Casimir Ninga,Caen,FRA-Ligue 1,1819,3
+2502.0,Claudio Beauvue,Caen,FRA-Ligue 1,1819,3
+3260.0,Enzo Crivelli,Caen,FRA-Ligue 1,1819,3
+6908.0,Malik Tchokounté,Caen,FRA-Ligue 1,1819,3
+5737.0,Saîf-Eddine Khaoui,Caen,FRA-Ligue 1,1819,3
+3410.0,Yacine Bammou,Caen,FRA-Ligue 1,1819,3
+3460.0,Benjamin Jeannot,Dijon,FRA-Ligue 1,1819,3
+5622.0,Júlio Tavares,Dijon,FRA-Ligue 1,1819,2
+5625.0,Kwon Chang-hoon,Dijon,FRA-Ligue 1,1819,3
+5608.0,Naïm Sliti,Dijon,FRA-Ligue 1,1819,0
+3799.0,Wesley Saïd,Dijon,FRA-Ligue 1,1819,3
+3479.0,Marcus Coco,Guingamp,FRA-Ligue 1,1819,3
+5992.0,Marcus Thuram,Guingamp,FRA-Ligue 1,1819,3
+3574.0,Nicolas Benezet,Guingamp,FRA-Ligue 1,1819,0
+3512.0,Nolan Roux,Guingamp,FRA-Ligue 1,1819,3
+690.0,Loïc Rémy,Lille,FRA-Ligue 1,1819,2
+7193.0,Rafael Leão,Lille,FRA-Ligue 1,1819,2
+695.0,Bertrand Traoré,Lyon,FRA-Ligue 1,1819,3
+5611.0,Martin Terrier,Lyon,FRA-Ligue 1,1819,1
+3278.0,Maxwel Cornet,Lyon,FRA-Ligue 1,1819,4
+7142.0,Moussa Dembélé,Lyon,FRA-Ligue 1,1819,4
+536.0,Dimitri Payet,Marseille,FRA-Ligue 1,1819,0
+942.0,Florian Thauvin,Marseille,FRA-Ligue 1,1819,1
+1109.0,Lucas Ocampos,Marseille,FRA-Ligue 1,1819,3
+1817.0,Mario Balotelli,Marseille,FRA-Ligue 1,1819,4
+3309.0,Valère Germain,Marseille,FRA-Ligue 1,1819,3
+2897.0,Aleksandr Golovin,Monaco,FRA-Ligue 1,1819,3
+3362.0,Rony Lopes,Monaco,FRA-Ligue 1,1819,0
+3530.0,Andy Delort,Montpellier,FRA-Ligue 1,1819,2
+6239.0,Junior Sambia,Montpellier,FRA-Ligue 1,1819,0
+7118.0,Anthony Limbombe,Nantes,FRA-Ligue 1,1819,0
+3406.0,Emiliano Sala,Nantes,FRA-Ligue 1,1819,2
+6232.0,Kalifa Coulibaly,Nantes,FRA-Ligue 1,1819,2
+6018.0,Samuel Moutoussamy,Nantes,FRA-Ligue 1,1819,3
+101.0,Allan Saint-Maximin,Nice,FRA-Ligue 1,1819,0
+6238.0,Ignatius Ganago,Nice,FRA-Ligue 1,1819,2
+3536.0,Jean-Victor Makengo,Nice,FRA-Ligue 1,1819,3
+5736.0,Myziane Maolida,Nice,FRA-Ligue 1,1819,3
+6878.0,Youcef Atal,Nice,FRA-Ligue 1,1819,3
+3724.0,Baptiste Guillaume,Nîmes,FRA-Ligue 1,1819,2
+3781.0,Denis Bouanga,Nîmes,FRA-Ligue 1,1819,3
+4801.0,Rachid Alioui,Nîmes,FRA-Ligue 1,1819,2
+6864.0,Renaud Ripart,Nîmes,FRA-Ligue 1,1819,3
+4849.0,Sada Thioub,Nîmes,FRA-Ligue 1,1819,3
+6865.0,Umut Bozok,Nîmes,FRA-Ligue 1,1819,2
+2782.0,Moussa Doumbia,Reims,FRA-Ligue 1,1819,3
+4771.0,Pablo Chavarría,Reims,FRA-Ligue 1,1819,2
+6884.0,Remi Oudin,Reims,FRA-Ligue 1,1819,3
+3795.0,Adrien Hunou,Rennes,FRA-Ligue 1,1819,2
+3638.0,Hatem Ben Arfa,Rennes,FRA-Ligue 1,1819,2
+5675.0,Ismaila Sarr,Rennes,FRA-Ligue 1,1819,3
+1126.0,M'Baye Niang,Rennes,FRA-Ligue 1,1819,2
+5623.0,Lois Diony,Saint-Étienne,FRA-Ligue 1,1819,2
+3691.0,Robert Berić,Saint-Étienne,FRA-Ligue 1,1819,4
+3561.0,Romain Hamouma,Saint-Étienne,FRA-Ligue 1,1819,0
+734.0,Wahbi Khazri,Saint-Étienne,FRA-Ligue 1,1819,0
+3549.0,Adrien Thomasson,Strasbourg,FRA-Ligue 1,1819,3
+6905.0,Ludovic Ajorque,Strasbourg,FRA-Ligue 1,1819,2
+5787.0,Aaron Leya Iseka,Toulouse,FRA-Ligue 1,1819,2
+5705.0,Jimmy Durmaz,Toulouse,FRA-Ligue 1,1819,3
+6264.0,Mathieu Dossevi,Toulouse,FRA-Ligue 1,1819,0
+464.0,Max Gradel,Toulouse,FRA-Ligue 1,1819,0
+4402.0,Yaya Sanogo,Toulouse,FRA-Ligue 1,1819,2
+6897.0,Juan Ferney Otero,Amiens,FRA-Ligue 1,1920,3
+3738.0,Serhou Guirassy,Amiens,FRA-Ligue 1,1920,2
+4801.0,Rachid Alioui,Angers,FRA-Ligue 1,1920,2
+4849.0,Sada Thioub,Angers,FRA-Ligue 1,1920,3
+5980.0,Stéphane Bahoken,Angers,FRA-Ligue 1,1920,2
+7746.0,Hwang Ui-jo,Bordeaux,FRA-Ligue 1,1920,2
+3477.0,Jimmy Briand,Bordeaux,FRA-Ligue 1,1920,2
+3243.0,Gaëtan Charbonnier,Brest,FRA-Ligue 1,1920,3
+5724.0,Irvin Cardona,Brest,FRA-Ligue 1,1920,2
+4828.0,Mathias Autret,Brest,FRA-Ligue 1,1920,0
+3446.0,Yoann Court,Brest,FRA-Ligue 1,1920,3
+5622.0,Júlio Tavares,Dijon,FRA-Ligue 1,1920,2
+7484.0,Stephy Mavididi,Dijon,FRA-Ligue 1,1920,3
+5661.0,Jonathan Ikone,Lille,FRA-Ligue 1,1920,3
+690.0,Loïc Rémy,Lille,FRA-Ligue 1,1920,2
+5322.0,Victor Osimhen,Lille,FRA-Ligue 1,1920,2
+695.0,Bertrand Traoré,Lyon,FRA-Ligue 1,1920,0
+5611.0,Martin Terrier,Lyon,FRA-Ligue 1,1920,3
+3278.0,Maxwel Cornet,Lyon,FRA-Ligue 1,1920,0
+7142.0,Moussa Dembélé,Lyon,FRA-Ligue 1,1920,2
+3393.0,Bouna Sarr,Marseille,FRA-Ligue 1,1920,3
+7716.0,Darío Benedetto,Marseille,FRA-Ligue 1,1920,2
+536.0,Dimitri Payet,Marseille,FRA-Ligue 1,1920,0
+3772.0,Maxime Lopez,Marseille,FRA-Ligue 1,1920,3
+3309.0,Valère Germain,Marseille,FRA-Ligue 1,1920,3
+3695.0,Adama Traoré,Metz,FRA-Ligue 1,1920,0
+5769.0,Habib Diallo,Metz,FRA-Ligue 1,1920,2
+5988.0,Ibrahima Niane,Metz,FRA-Ligue 1,1920,3
+5676.0,Opa Nguette,Metz,FRA-Ligue 1,1920,3
+7012.0,Gelson Martins,Monaco,FRA-Ligue 1,1920,0
+1682.0,Islam Slimani,Monaco,FRA-Ligue 1,1920,4
+3210.0,Wissam Ben Yedder,Monaco,FRA-Ligue 1,1920,4
+3530.0,Andy Delort,Montpellier,FRA-Ligue 1,1920,2
+5677.0,Florent Mollet,Montpellier,FRA-Ligue 1,1920,0
+3746.0,Gaëtan Laborde,Montpellier,FRA-Ligue 1,1920,2
+6232.0,Kalifa Coulibaly,Nantes,FRA-Ligue 1,1920,2
+3475.0,Ludovic Blas,Nantes,FRA-Ligue 1,1920,3
+7169.0,Moses Simon,Nantes,FRA-Ligue 1,1920,2
+3259.0,Adam Ounas,Nice,FRA-Ligue 1,1920,0
+5777.0,Arnaud Lusamba,Nice,FRA-Ligue 1,1920,3
+6238.0,Ignatius Ganago,Nice,FRA-Ligue 1,1920,3
+8025.0,Kasper Dolberg,Nice,FRA-Ligue 1,1920,2
+6878.0,Youcef Atal,Nice,FRA-Ligue 1,1920,3
+6864.0,Renaud Ripart,Nîmes,FRA-Ligue 1,1920,3
+3463.0,Romain Philippoteaux,Nîmes,FRA-Ligue 1,1920,3
+7773.0,Zinedine Ferhat,Nîmes,FRA-Ligue 1,1920,0
+7224.0,Boulaye Dia,Reims,FRA-Ligue 1,1920,2
+2782.0,Moussa Doumbia,Reims,FRA-Ligue 1,1920,3
+3795.0,Adrien Hunou,Rennes,FRA-Ligue 1,1920,2
+1126.0,M'Baye Niang,Rennes,FRA-Ligue 1,1920,2
+8026.0,Raphinha,Rennes,FRA-Ligue 1,1920,0
+3721.0,Romain Del Castillo,Rennes,FRA-Ligue 1,1920,0
+5684.0,Arnaud Nordin,Saint-Étienne,FRA-Ligue 1,1920,3
+3781.0,Denis Bouanga,Saint-Étienne,FRA-Ligue 1,1920,2
+3343.0,Ryad Boudebouz,Saint-Étienne,FRA-Ligue 1,1920,0
+734.0,Wahbi Khazri,Saint-Étienne,FRA-Ligue 1,1920,0
+3549.0,Adrien Thomasson,Strasbourg,FRA-Ligue 1,1920,3
+5800.0,Lebo Mothiba,Strasbourg,FRA-Ligue 1,1920,2
+6905.0,Ludovic Ajorque,Strasbourg,FRA-Ligue 1,1920,2
+6264.0,Mathieu Dossevi,Toulouse,FRA-Ligue 1,1920,0
+464.0,Max Gradel,Toulouse,FRA-Ligue 1,1920,3
+6061.0,Quentin Boisgard,Toulouse,FRA-Ligue 1,1920,3
+3799.0,Wesley Saïd,Toulouse,FRA-Ligue 1,1920,3
+4402.0,Yaya Sanogo,Toulouse,FRA-Ligue 1,1920,2
+6869.0,Antonin Bobichon,Angers,FRA-Ligue 1,2021,3
+5623.0,Lois Diony,Angers,FRA-Ligue 1,2021,3
+4849.0,Sada Thioub,Angers,FRA-Ligue 1,2021,3
+5980.0,Stéphane Bahoken,Angers,FRA-Ligue 1,2021,2
+3638.0,Hatem Ben Arfa,Bordeaux,FRA-Ligue 1,2021,0
+7746.0,Hwang Ui-jo,Bordeaux,FRA-Ligue 1,2021,2
+8166.0,Mehdi Zerkane,Bordeaux,FRA-Ligue 1,2021,3
+3244.0,Nicolas de Préville,Bordeaux,FRA-Ligue 1,2021,0
+6884.0,Remi Oudin,Bordeaux,FRA-Ligue 1,2021,0
+6947.0,Samuel Kalu,Bordeaux,FRA-Ligue 1,2021,3
+3243.0,Gaëtan Charbonnier,Brest,FRA-Ligue 1,2021,3
+5724.0,Irvin Cardona,Brest,FRA-Ligue 1,2021,2
+6420.0,Romain Faivre,Brest,FRA-Ligue 1,2021,0
+3800.0,Steve Mounié,Brest,FRA-Ligue 1,2021,2
+5621.0,Frédéric Sammaritano,Dijon,FRA-Ligue 1,2021,0
+8023.0,Mounir Chouiar,Dijon,FRA-Ligue 1,2021,3
+4670.0,Moussa Konaté,Dijon,FRA-Ligue 1,2021,2
+3348.0,Florian Sotoca,Lens,FRA-Ligue 1,2021,2
+2549.0,Gaël Kakuta,Lens,FRA-Ligue 1,2021,0
+6238.0,Ignatius Ganago,Lens,FRA-Ligue 1,2021,2
+8669.0,Simon Banza,Lens,FRA-Ligue 1,2021,2
+8637.0,Burak Yılmaz,Lille,FRA-Ligue 1,2021,2
+5661.0,Jonathan Ikone,Lille,FRA-Ligue 1,2021,3
+7756.0,Yusuf Yazıcı,Lille,FRA-Ligue 1,2021,1
+8653.0,Adrian Grbić,Lorient,FRA-Ligue 1,2021,2
+6697.0,Armand Lauriente,Lorient,FRA-Ligue 1,2021,0
+6061.0,Quentin Boisgard,Lorient,FRA-Ligue 1,2021,0
+5786.0,Yoane Wissa,Lorient,FRA-Ligue 1,2021,2
+5657.0,Karl Toko Ekambi,Lyon,FRA-Ligue 1,2021,4
+1583.0,Arkadiusz Milik,Marseille,FRA-Ligue 1,2021,2
+7716.0,Darío Benedetto,Marseille,FRA-Ligue 1,2021,2
+536.0,Dimitri Payet,Marseille,FRA-Ligue 1,2021,0
+942.0,Florian Thauvin,Marseille,FRA-Ligue 1,2021,0
+5787.0,Aaron Leya Iseka,Metz,FRA-Ligue 1,2021,2
+5757.0,Farid Boulaya,Metz,FRA-Ligue 1,2021,0
+8749.0,Lamine Gueye,Metz,FRA-Ligue 1,2021,3
+5676.0,Opa Nguette,Metz,FRA-Ligue 1,2021,3
+8278.0,Papa Ndiaga Yade,Metz,FRA-Ligue 1,2021,0
+7012.0,Gelson Martins,Monaco,FRA-Ligue 1,2021,3
+83.0,Kevin Volland,Monaco,FRA-Ligue 1,2021,2
+3210.0,Wissam Ben Yedder,Monaco,FRA-Ligue 1,2021,4
+3530.0,Andy Delort,Montpellier,FRA-Ligue 1,2021,1
+3746.0,Gaëtan Laborde,Montpellier,FRA-Ligue 1,2021,2
+7484.0,Stephy Mavididi,Montpellier,FRA-Ligue 1,2021,2
+6232.0,Kalifa Coulibaly,Nantes,FRA-Ligue 1,2021,2
+3475.0,Ludovic Blas,Nantes,FRA-Ligue 1,2021,3
+7169.0,Moses Simon,Nantes,FRA-Ligue 1,2021,3
+5743.0,Randal Kolo Muani,Nantes,FRA-Ligue 1,2021,2
+6401.0,Amine Gouiri,Nice,FRA-Ligue 1,2021,1
+8025.0,Kasper Dolberg,Nice,FRA-Ligue 1,2021,2
+5736.0,Myziane Maolida,Nice,FRA-Ligue 1,2021,3
+3362.0,Rony Lopes,Nice,FRA-Ligue 1,2021,0
+8318.0,Moussa Koné,Nîmes,FRA-Ligue 1,2021,2
+8982.0,Niclas Eliasson,Nîmes,FRA-Ligue 1,2021,0
+6864.0,Renaud Ripart,Nîmes,FRA-Ligue 1,2021,3
+7773.0,Zinedine Ferhat,Nîmes,FRA-Ligue 1,2021,0
+7224.0,Boulaye Dia,Reims,FRA-Ligue 1,2021,2
+8294.0,El Bilal Touré,Reims,FRA-Ligue 1,2021,3
+7719.0,Nathanael Mbuku,Reims,FRA-Ligue 1,2021,3
+4773.0,Benjamin Bourigeaud,Rennes,FRA-Ligue 1,2021,0
+8981.0,Jeremy Doku,Rennes,FRA-Ligue 1,2021,3
+5611.0,Martin Terrier,Rennes,FRA-Ligue 1,2021,3
+3738.0,Serhou Guirassy,Rennes,FRA-Ligue 1,2021,2
+7980.0,Adil Aouchiche,Saint-Étienne,FRA-Ligue 1,2021,0
+5684.0,Arnaud Nordin,Saint-Étienne,FRA-Ligue 1,2021,3
+3781.0,Denis Bouanga,Saint-Étienne,FRA-Ligue 1,2021,2
+3561.0,Romain Hamouma,Saint-Étienne,FRA-Ligue 1,2021,0
+734.0,Wahbi Khazri,Saint-Étienne,FRA-Ligue 1,2021,2
+3549.0,Adrien Thomasson,Strasbourg,FRA-Ligue 1,2021,3
+6905.0,Ludovic Ajorque,Strasbourg,FRA-Ligue 1,2021,2
+6019.0,Angelo Fulgini,Angers,FRA-Ligue 1,2122,3
+1734.0,Sofiane Boufal,Angers,FRA-Ligue 1,2122,0
+5980.0,Stéphane Bahoken,Angers,FRA-Ligue 1,2122,2
+10029.0,Alberth Elis,Bordeaux,FRA-Ligue 1,2122,2
+7746.0,Hwang Ui-jo,Bordeaux,FRA-Ligue 1,2122,2
+7122.0,Javairô Dilrosun,Bordeaux,FRA-Ligue 1,2122,0
+6884.0,Remi Oudin,Bordeaux,FRA-Ligue 1,2122,0
+8970.0,Sekou Mara,Bordeaux,FRA-Ligue 1,2122,2
+6762.0,Yacine Adli,Bordeaux,FRA-Ligue 1,2122,0
+3314.0,Franck Honorat,Brest,FRA-Ligue 1,2122,0
+5724.0,Irvin Cardona,Brest,FRA-Ligue 1,2122,3
+8657.0,Jérémy Le Douaron,Brest,FRA-Ligue 1,2122,2
+9001.0,Martin Satriano,Brest,FRA-Ligue 1,2122,2
+3800.0,Steve Mounié,Brest,FRA-Ligue 1,2122,2
+9645.0,Jim Allevinah,Clermont Foot,FRA-Ligue 1,2122,3
+9643.0,Jodel Dossou,Clermont Foot,FRA-Ligue 1,2122,3
+5737.0,Saîf-Eddine Khaoui,Clermont Foot,FRA-Ligue 1,2122,3
+3348.0,Florian Sotoca,Lens,FRA-Ligue 1,2122,3
+2549.0,Gaël Kakuta,Lens,FRA-Ligue 1,2122,3
+6238.0,Ignatius Ganago,Lens,FRA-Ligue 1,2122,2
+8637.0,Burak Yılmaz,Lille,FRA-Ligue 1,2122,2
+5661.0,Jonathan Ikone,Lille,FRA-Ligue 1,2122,3
+5228.0,Renato Sanches,Lille,FRA-Ligue 1,2122,0
+6601.0,Timothy Weah,Lille,FRA-Ligue 1,2122,0
+6697.0,Armand Lauriente,Lorient,FRA-Ligue 1,2122,3
+8651.0,Enzo Le Fée,Lorient,FRA-Ligue 1,2122,3
+6061.0,Quentin Boisgard,Lorient,FRA-Ligue 1,2122,3
+5657.0,Karl Toko Ekambi,Lyon,FRA-Ligue 1,2122,1
+7365.0,Lucas Paquetá,Lyon,FRA-Ligue 1,2122,1
+7142.0,Moussa Dembélé,Lyon,FRA-Ligue 1,2122,4
+5717.0,Amine Harit,Marseille,FRA-Ligue 1,2122,3
+1583.0,Arkadiusz Milik,Marseille,FRA-Ligue 1,2122,2
+6162.0,Cengiz Ünder,Marseille,FRA-Ligue 1,2122,0
+536.0,Dimitri Payet,Marseille,FRA-Ligue 1,2122,0
+1258.0,Gerson,Marseille,FRA-Ligue 1,2122,3
+5757.0,Farid Boulaya,Metz,FRA-Ligue 1,2122,0
+5988.0,Ibrahima Niane,Metz,FRA-Ligue 1,2122,2
+3244.0,Nicolas de Préville,Metz,FRA-Ligue 1,2122,3
+5676.0,Opa Nguette,Metz,FRA-Ligue 1,2122,3
+83.0,Kevin Volland,Monaco,FRA-Ligue 1,2122,2
+9612.0,Myron Boadu,Monaco,FRA-Ligue 1,2122,2
+3210.0,Wissam Ben Yedder,Monaco,FRA-Ligue 1,2122,4
+7484.0,Stephy Mavididi,Montpellier,FRA-Ligue 1,2122,2
+3309.0,Valère Germain,Montpellier,FRA-Ligue 1,2122,3
+3475.0,Ludovic Blas,Nantes,FRA-Ligue 1,2122,3
+3479.0,Marcus Coco,Nantes,FRA-Ligue 1,2122,3
+7169.0,Moses Simon,Nantes,FRA-Ligue 1,2122,0
+9781.0,Osman Bukari,Nantes,FRA-Ligue 1,2122,3
+5743.0,Randal Kolo Muani,Nantes,FRA-Ligue 1,2122,2
+6401.0,Amine Gouiri,Nice,FRA-Ligue 1,2122,2
+8025.0,Kasper Dolberg,Nice,FRA-Ligue 1,2122,2
+8294.0,El Bilal Touré,Reims,FRA-Ligue 1,2122,2
+8995.0,Hugo Ekitike,Reims,FRA-Ligue 1,2122,2
+9656.0,Ilan Kebbal,Reims,FRA-Ligue 1,2122,3
+9941.0,Mitchell van Bergen,Reims,FRA-Ligue 1,2122,3
+7719.0,Nathanael Mbuku,Reims,FRA-Ligue 1,2122,3
+4773.0,Benjamin Bourigeaud,Rennes,FRA-Ligue 1,2122,0
+9630.0,Kamaldeen Sulemana,Rennes,FRA-Ligue 1,2122,0
+5611.0,Martin Terrier,Rennes,FRA-Ligue 1,2122,4
+3738.0,Serhou Guirassy,Rennes,FRA-Ligue 1,2122,4
+5684.0,Arnaud Nordin,Saint-Étienne,FRA-Ligue 1,2122,3
+3781.0,Denis Bouanga,Saint-Étienne,FRA-Ligue 1,2122,2
+3343.0,Ryad Boudebouz,Saint-Étienne,FRA-Ligue 1,2122,0
+734.0,Wahbi Khazri,Saint-Étienne,FRA-Ligue 1,2122,3
+5769.0,Habib Diallo,Strasbourg,FRA-Ligue 1,2122,4
+2442.0,Kévin Gameiro,Strasbourg,FRA-Ligue 1,2122,2
+6905.0,Ludovic Ajorque,Strasbourg,FRA-Ligue 1,2122,2
+6864.0,Renaud Ripart,Troyes,FRA-Ligue 1,2122,3
+6000.0,Tristan Dingomé,Troyes,FRA-Ligue 1,2122,0
+4770.0,Yoann Touzghar,Troyes,FRA-Ligue 1,2122,2
+10707.0,Mounaim El Idrissy,Ajaccio,FRA-Ligue 1,2223,3
+3561.0,Romain Hamouma,Ajaccio,FRA-Ligue 1,2223,3
+11046.0,Abdallah Sima,Angers,FRA-Ligue 1,2223,3
+3795.0,Adrien Hunou,Angers,FRA-Ligue 1,2223,2
+10827.0,Amine Salama,Angers,FRA-Ligue 1,2223,3
+10923.0,Himad Abdelli,Angers,FRA-Ligue 1,2223,3
+5988.0,Ibrahima Niane,Angers,FRA-Ligue 1,2223,2
+3285.0,Gaëtan Perrin,Auxerre,FRA-Ligue 1,2223,3
+10815.0,Lassine Sinayoko,Auxerre,FRA-Ligue 1,2223,3
+1126.0,M'Baye Niang,Auxerre,FRA-Ligue 1,2223,2
+3314.0,Franck Honorat,Brest,FRA-Ligue 1,2223,0
+1682.0,Islam Slimani,Brest,FRA-Ligue 1,2223,2
+8657.0,Jérémy Le Douaron,Brest,FRA-Ligue 1,2223,2
+3721.0,Romain Del Castillo,Brest,FRA-Ligue 1,2223,0
+3800.0,Steve Mounié,Brest,FRA-Ligue 1,2223,2
+3663.0,Grejohn Kyei,Clermont Foot,FRA-Ligue 1,2223,2
+9068.0,Komnen Andrić,Clermont Foot,FRA-Ligue 1,2223,3
+3549.0,Adrien Thomasson,Lens,FRA-Ligue 1,2223,1
+3348.0,Florian Sotoca,Lens,FRA-Ligue 1,2223,1
+10832.0,Loïs Openda,Lens,FRA-Ligue 1,2223,4
+9662.0,Dango Ouattara,Lorient,FRA-Ligue 1,2223,3
+10381.0,Ibrahima Koné,Lorient,FRA-Ligue 1,2223,2
+8652.0,Stéphane Diarra,Lorient,FRA-Ligue 1,2223,3
+3277.0,Alexandre Lacazette,Lyon,FRA-Ligue 1,2223,4
+10016.0,Bradley Barcola,Lyon,FRA-Ligue 1,2223,1
+5657.0,Karl Toko Ekambi,Lyon,FRA-Ligue 1,2223,1
+10536.0,Tetê,Lyon,FRA-Ligue 1,2223,2
+498.0,Alexis Sánchez,Marseille,FRA-Ligue 1,2223,1
+5356.0,Breel Embolo,Monaco,FRA-Ligue 1,2223,2
+3210.0,Wissam Ben Yedder,Monaco,FRA-Ligue 1,2223,4
+5684.0,Arnaud Nordin,Montpellier,FRA-Ligue 1,2223,3
+7484.0,Stephy Mavididi,Montpellier,FRA-Ligue 1,2223,3
+734.0,Wahbi Khazri,Montpellier,FRA-Ligue 1,2223,3
+8006.0,Evann Guessand,Nantes,FRA-Ligue 1,2223,3
+3475.0,Ludovic Blas,Nantes,FRA-Ligue 1,2223,0
+7169.0,Moses Simon,Nantes,FRA-Ligue 1,2223,0
+10831.0,Mostafa Mohamed,Nantes,FRA-Ligue 1,2223,2
+3746.0,Gaëtan Laborde,Nice,FRA-Ligue 1,2223,4
+5656.0,Nicolas Pépé,Nice,FRA-Ligue 1,2223,2
+592.0,Ross Barkley,Nice,FRA-Ligue 1,2223,1
+7397.0,Arber Zeneli,Reims,FRA-Ligue 1,2223,0
+9690.0,Folarin Balogun,Reims,FRA-Ligue 1,2223,4
+10920.0,Junya Ito,Reims,FRA-Ligue 1,2223,0
+9941.0,Mitchell van Bergen,Reims,FRA-Ligue 1,2223,0
+4773.0,Benjamin Bourigeaud,Rennes,FRA-Ligue 1,2223,0
+10431.0,Désiré Doué,Rennes,FRA-Ligue 1,2223,3
+8981.0,Jeremy Doku,Rennes,FRA-Ligue 1,2223,1
+5611.0,Martin Terrier,Rennes,FRA-Ligue 1,2223,4
+5769.0,Habib Diallo,Strasbourg,FRA-Ligue 1,2223,4
+9767.0,Habib Diarra,Strasbourg,FRA-Ligue 1,2223,3
+7762.0,Jean-Ricner Bellegarde,Strasbourg,FRA-Ligue 1,2223,0
+2442.0,Kévin Gameiro,Strasbourg,FRA-Ligue 1,2223,2
+10799.0,Ado Onaiwu,Toulouse,FRA-Ligue 1,2223,3
+10792.0,Fares Chaïbi,Toulouse,FRA-Ligue 1,2223,3
+10793.0,Rafael Ratão,Toulouse,FRA-Ligue 1,2223,1
+10794.0,Thijs Dallinga,Toulouse,FRA-Ligue 1,2223,2
+10796.0,Zakaria Aboukhlal,Toulouse,FRA-Ligue 1,2223,2
+6864.0,Renaud Ripart,Troyes,FRA-Ligue 1,2223,3
+3362.0,Rony Lopes,Troyes,FRA-Ligue 1,2223,0
+8657.0,Jérémy Le Douaron,Brest,FRA-Ligue 1,2324,2
+9001.0,Martin Satriano,Brest,FRA-Ligue 1,2324,2
+3721.0,Romain Del Castillo,Brest,FRA-Ligue 1,2324,0
+3800.0,Steve Mounié,Brest,FRA-Ligue 1,2324,2
+11024.0,Alan Virginius,Clermont Foot,FRA-Ligue 1,2324,3
+4830.0,Bilal Boutobba,Clermont Foot,FRA-Ligue 1,2324,0
+3663.0,Grejohn Kyei,Clermont Foot,FRA-Ligue 1,2324,2
+10455.0,Shamar Nicholson,Clermont Foot,FRA-Ligue 1,2324,2
+713.0,André Ayew,Le Havre,FRA-Ligue 1,2324,2
+11906.0,Emmanuel Sabbi,Le Havre,FRA-Ligue 1,2324,3
+11789.0,Josué Casimir,Le Havre,FRA-Ligue 1,2324,3
+11791.0,Nabil Alioui,Le Havre,FRA-Ligue 1,2324,0
+3348.0,Florian Sotoca,Lens,FRA-Ligue 1,2324,1
+3799.0,Wesley Saïd,Lens,FRA-Ligue 1,2324,4
+10328.0,Edon Zhegrova,Lille,FRA-Ligue 1,2324,0
+11757.0,Hákon Haraldsson,Lille,FRA-Ligue 1,2324,3
+3390.0,Rémy Cabella,Lille,FRA-Ligue 1,2324,1
+7756.0,Yusuf Yazıcı,Lille,FRA-Ligue 1,2324,2
+11504.0,Eli Junior Kroupi,Lorient,FRA-Ligue 1,2324,2
+12383.0,Mohamed Bamba,Lorient,FRA-Ligue 1,2324,4
+3277.0,Alexandre Lacazette,Lyon,FRA-Ligue 1,2324,2
+12060.0,Ernest Nuamah,Lyon,FRA-Ligue 1,2324,0
+9307.0,Iliman Ndiaye,Marseille,FRA-Ligue 1,2324,3
+5675.0,Ismaila Sarr,Marseille,FRA-Ligue 1,2324,3
+318.0,Pierre-Emerick Aubameyang,Marseille,FRA-Ligue 1,2324,4
+11380.0,Vitinha,Marseille,FRA-Ligue 1,2324,1
+6069.0,Ablie Jallow,Metz,FRA-Ligue 1,2324,3
+8187.0,Georges Mikautadze,Metz,FRA-Ligue 1,2324,2
+12048.0,Kévin Van Den Kerkhof,Metz,FRA-Ligue 1,2324,3
+9690.0,Folarin Balogun,Monaco,FRA-Ligue 1,2324,4
+3210.0,Wissam Ben Yedder,Monaco,FRA-Ligue 1,2324,4
+11783.0,Akor Adams,Montpellier,FRA-Ligue 1,2324,2
+5684.0,Arnaud Nordin,Montpellier,FRA-Ligue 1,2324,2
+734.0,Wahbi Khazri,Montpellier,FRA-Ligue 1,2324,2
+5677.0,Florent Mollet,Nantes,FRA-Ligue 1,2324,0
+9490.0,Matthis Abline,Nantes,FRA-Ligue 1,2324,2
+7169.0,Moses Simon,Nantes,FRA-Ligue 1,2324,0
+10831.0,Mostafa Mohamed,Nantes,FRA-Ligue 1,2324,2
+8006.0,Evann Guessand,Nice,FRA-Ligue 1,2324,2
+3746.0,Gaëtan Laborde,Nice,FRA-Ligue 1,2324,2
+3544.0,Jeremie Boga,Nice,FRA-Ligue 1,2324,0
+10920.0,Junya Ito,Reims,FRA-Ligue 1,2324,0
+11755.0,Keito Nakamura,Reims,FRA-Ligue 1,2324,2
+11907.0,Mohamed Daramy,Reims,FRA-Ligue 1,2324,2
+11753.0,Oumar Diakité,Reims,FRA-Ligue 1,2324,2
+9250.0,Reda Khadra,Reims,FRA-Ligue 1,2324,0
+6401.0,Amine Gouiri,Rennes,FRA-Ligue 1,2324,2
+3475.0,Ludovic Blas,Rennes,FRA-Ligue 1,2324,3
+5611.0,Martin Terrier,Rennes,FRA-Ligue 1,2324,2
+8920.0,Dilane Bakwa,Strasbourg,FRA-Ligue 1,2324,0
+11817.0,Emanuel Emegha,Strasbourg,FRA-Ligue 1,2324,2
+9767.0,Habib Diarra,Strasbourg,FRA-Ligue 1,2324,3
+10581.0,Junior Mwanga,Strasbourg,FRA-Ligue 1,2324,3
+2442.0,Kévin Gameiro,Strasbourg,FRA-Ligue 1,2324,3
+11818.0,Ângelo,Strasbourg,FRA-Ligue 1,2324,0
+12045.0,Aron Dønnum,Toulouse,FRA-Ligue 1,2324,3
+10193.0,Frank Magri,Toulouse,FRA-Ligue 1,2324,2
+10794.0,Thijs Dallinga,Toulouse,FRA-Ligue 1,2324,2
+6874.0,Yann Gboho,Toulouse,FRA-Ligue 1,2324,3
+12850.0,Esteban Lepaul,Angers,FRA-Ligue 1,2425,2
+7064.0,Farid El Melali,Angers,FRA-Ligue 1,2425,3
+5988.0,Ibrahima Niane,Angers,FRA-Ligue 1,2425,4
+10799.0,Ado Onaiwu,Auxerre,FRA-Ligue 1,2425,2
+10815.0,Lassine Sinayoko,Auxerre,FRA-Ligue 1,2425,3
+12825.0,Theo Bair,Auxerre,FRA-Ligue 1,2425,2
+11046.0,Abdallah Sima,Brest,FRA-Ligue 1,2425,2
+10100.0,Kamory Doumbia,Brest,FRA-Ligue 1,2425,3
+6905.0,Ludovic Ajorque,Brest,FRA-Ligue 1,2425,2
+3721.0,Romain Del Castillo,Brest,FRA-Ligue 1,2425,0
+713.0,André Ayew,Le Havre,FRA-Ligue 1,2425,2
+11794.0,Antoine Joujou,Le Havre,FRA-Ligue 1,2425,0
+11792.0,Issa Soumaré,Le Havre,FRA-Ligue 1,2425,3
+11789.0,Josué Casimir,Le Havre,FRA-Ligue 1,2425,3
+11795.0,Yassine Kechta,Le Havre,FRA-Ligue 1,2425,3
+11703.0,Anass Zaroury,Lens,FRA-Ligue 1,2425,0
+3348.0,Florian Sotoca,Lens,FRA-Ligue 1,2425,3
+9018.0,M'Bala Nzola,Lens,FRA-Ligue 1,2425,4
+3799.0,Wesley Saïd,Lens,FRA-Ligue 1,2425,2
+13051.0,Matias Fernandez-Pardo,Lille,FRA-Ligue 1,2425,1
+3277.0,Alexandre Lacazette,Lyon,FRA-Ligue 1,2425,4
+12060.0,Ernest Nuamah,Lyon,FRA-Ligue 1,2425,1
+8187.0,Georges Mikautadze,Lyon,FRA-Ligue 1,2425,4
+12336.0,Malick Fofana,Lyon,FRA-Ligue 1,2425,0
+6401.0,Amine Gouiri,Marseille,FRA-Ligue 1,2425,4
+7490.0,Mason Greenwood,Marseille,FRA-Ligue 1,2425,4
+3621.0,Neal Maupay,Marseille,FRA-Ligue 1,2425,2
+5356.0,Breel Embolo,Monaco,FRA-Ligue 1,2425,4
+10349.0,Mika Biereth,Monaco,FRA-Ligue 1,2425,4
+11783.0,Akor Adams,Montpellier,FRA-Ligue 1,2425,2
+5684.0,Arnaud Nordin,Montpellier,FRA-Ligue 1,2425,3
+10819.0,Khalil Fayad,Montpellier,FRA-Ligue 1,2425,3
+8813.0,Tanguy Coulibaly,Montpellier,FRA-Ligue 1,2425,3
+734.0,Wahbi Khazri,Montpellier,FRA-Ligue 1,2425,3
+9490.0,Matthis Abline,Nantes,FRA-Ligue 1,2425,2
+7169.0,Moses Simon,Nantes,FRA-Ligue 1,2425,0
+10831.0,Mostafa Mohamed,Nantes,FRA-Ligue 1,2425,2
+11062.0,Badredine Bouanani,Nice,FRA-Ligue 1,2425,0
+8006.0,Evann Guessand,Nice,FRA-Ligue 1,2425,2
+3746.0,Gaëtan Laborde,Nice,FRA-Ligue 1,2425,4
+3544.0,Jeremie Boga,Nice,FRA-Ligue 1,2425,1
+6846.0,Sofiane Diop,Nice,FRA-Ligue 1,2425,1
+10920.0,Junya Ito,Reims,FRA-Ligue 1,2425,0
+11755.0,Keito Nakamura,Reims,FRA-Ligue 1,2425,2
+11753.0,Oumar Diakité,Reims,FRA-Ligue 1,2425,2
+3475.0,Ludovic Blas,Rennes,FRA-Ligue 1,2425,0
+5724.0,Irvin Cardona,Saint-Étienne,FRA-Ligue 1,2425,2
+13057.0,Lucas Stassin,Saint-Étienne,FRA-Ligue 1,2425,2
+7652.0,Zuriko Davitashvili,Saint-Étienne,FRA-Ligue 1,2425,0
+11817.0,Emanuel Emegha,Strasbourg,FRA-Ligue 1,2425,4
+10057.0,Félix Lemaréchal,Strasbourg,FRA-Ligue 1,2425,3
+9767.0,Habib Diarra,Strasbourg,FRA-Ligue 1,2425,3
+12970.0,Sebastian Nanasi,Strasbourg,FRA-Ligue 1,2425,1
+10193.0,Frank Magri,Toulouse,FRA-Ligue 1,2425,2
+465.0,Joshua King,Toulouse,FRA-Ligue 1,2425,2
+6874.0,Yann Gboho,Toulouse,FRA-Ligue 1,2425,3
+10796.0,Zakaria Aboukhlal,Toulouse,FRA-Ligue 1,2425,2
+2655.0,Alfreð Finnbogason,Augsburg,GER-Bundesliga,1718,4
+272.0,Caiuby,Augsburg,GER-Bundesliga,1718,3
+171.0,Michael Gregoritsch,Augsburg,GER-Bundesliga,1718,2
+392.0,Arjen Robben,Bayern Munich,GER-Bundesliga,1718,1
+329.0,Franck Ribéry,Bayern Munich,GER-Bundesliga,1718,1
+226.0,Kingsley Coman,Bayern Munich,GER-Bundesliga,1718,1
+227.0,Robert Lewandowski,Bayern Munich,GER-Bundesliga,1718,4
+224.0,Thomas Müller,Bayern Munich,GER-Bundesliga,1718,1
+1852.0,Ante Rebić,Eintracht Frankfurt,GER-Bundesliga,1718,3
+1819.0,Kevin-Prince Boateng,Eintracht Frankfurt,GER-Bundesliga,1718,3
+6228.0,Luka Jović,Eintracht Frankfurt,GER-Bundesliga,1718,4
+6144.0,Sébastien Haller,Eintracht Frankfurt,GER-Bundesliga,1718,3
+4271.0,Janik Haberer,Freiburg,GER-Bundesliga,1718,3
+6475.0,Lucas Höler,Freiburg,GER-Bundesliga,1718,3
+5287.0,Marco Terrazzino,Freiburg,GER-Bundesliga,1718,3
+4248.0,Nils Petersen,Freiburg,GER-Bundesliga,1718,2
+6142.0,Tim Kleindienst,Freiburg,GER-Bundesliga,1718,3
+412.0,André Hahn,Hamburger SV,GER-Bundesliga,1718,3
+5224.0,Bobby Wood,Hamburger SV,GER-Bundesliga,1718,3
+64.0,Filip Kostić,Hamburger SV,GER-Bundesliga,1718,3
+169.0,Lewis Holtby,Hamburger SV,GER-Bundesliga,1718,3
+350.0,Felix Klaus,Hannover 96,GER-Bundesliga,1718,3
+6271.0,Ihlas Bebou,Hannover 96,GER-Bundesliga,1718,3
+407.0,Martin Harnik,Hannover 96,GER-Bundesliga,1718,2
+6098.0,Niclas Füllkrug,Hannover 96,GER-Bundesliga,1718,2
+956.0,Andrej Kramarić,Hoffenheim,GER-Bundesliga,1718,1
+88.0,Mark Uth,Hoffenheim,GER-Bundesliga,1718,2
+993.0,Serge Gnabry,Hoffenheim,GER-Bundesliga,1718,1
+118.0,Levin Öztunalı,Mainz 05,GER-Bundesliga,1718,3
+44.0,Pablo de Blasis,Mainz 05,GER-Bundesliga,1718,3
+1275.0,Robin Quaison,Mainz 05,GER-Bundesliga,1718,2
+47.0,Yoshinori Mutō,Mainz 05,GER-Bundesliga,1718,3
+5717.0,Amine Harit,Schalke 04,GER-Bundesliga,1718,3
+5356.0,Breel Embolo,Schalke 04,GER-Bundesliga,1718,2
+341.0,Franco Di Santo,Schalke 04,GER-Bundesliga,1718,3
+5302.0,Guido Burgstaller,Schalke 04,GER-Bundesliga,1718,2
+2068.0,Yevhen Konoplyanka,Schalke 04,GER-Bundesliga,1718,0
+115.0,Fin Bartels,Werder Bremen,GER-Bundesliga,1718,0
+5231.0,Florian Kainz,Werder Bremen,GER-Bundesliga,1718,0
+3834.0,Ishak Belfodil,Werder Bremen,GER-Bundesliga,1718,2
+155.0,Max Kruse,Werder Bremen,GER-Bundesliga,1718,0
+301.0,Zlatko Junuzović,Werder Bremen,GER-Bundesliga,1718,0
+484.0,Divock Origi,Wolfsburg,GER-Bundesliga,1718,2
+6102.0,Landry Dimata,Wolfsburg,GER-Bundesliga,1718,3
+45.0,Yunus Mallı,Wolfsburg,GER-Bundesliga,1718,3
+2655.0,Alfreð Finnbogason,Augsburg,GER-Bundesliga,1819,4
+412.0,André Hahn,Augsburg,GER-Bundesliga,1819,3
+272.0,Caiuby,Augsburg,GER-Bundesliga,1819,3
+6357.0,Marco Richter,Augsburg,GER-Bundesliga,1819,3
+171.0,Michael Gregoritsch,Augsburg,GER-Bundesliga,1819,2
+329.0,Franck Ribéry,Bayern Munich,GER-Bundesliga,1819,1
+226.0,Kingsley Coman,Bayern Munich,GER-Bundesliga,1819,1
+227.0,Robert Lewandowski,Bayern Munich,GER-Bundesliga,1819,4
+993.0,Serge Gnabry,Bayern Munich,GER-Bundesliga,1819,1
+1852.0,Ante Rebić,Eintracht Frankfurt,GER-Bundesliga,1819,4
+6228.0,Luka Jović,Eintracht Frankfurt,GER-Bundesliga,1819,4
+6144.0,Sébastien Haller,Eintracht Frankfurt,GER-Bundesliga,1819,4
+306.0,Florian Niederlechner,Freiburg,GER-Bundesliga,1819,2
+6475.0,Lucas Höler,Freiburg,GER-Bundesliga,1819,2
+4248.0,Nils Petersen,Freiburg,GER-Bundesliga,1819,2
+5266.0,Vincenzo Grifo,Freiburg,GER-Bundesliga,1819,1
+5224.0,Bobby Wood,Hannover 96,GER-Bundesliga,1819,3
+7046.0,Hendrik Weydandt,Hannover 96,GER-Bundesliga,1819,2
+6271.0,Ihlas Bebou,Hannover 96,GER-Bundesliga,1819,2
+6638.0,Linton Maina,Hannover 96,GER-Bundesliga,1819,3
+6098.0,Niclas Füllkrug,Hannover 96,GER-Bundesliga,1819,2
+956.0,Andrej Kramarić,Hoffenheim,GER-Bundesliga,1819,4
+3834.0,Ishak Belfodil,Hoffenheim,GER-Bundesliga,1819,4
+87.0,Joelinton,Hoffenheim,GER-Bundesliga,1819,1
+360.0,Ádám Szalai,Hoffenheim,GER-Bundesliga,1819,4
+7107.0,Jean-Paul Boëtius,Mainz 05,GER-Bundesliga,1819,3
+5735.0,Jean-Philippe Mateta,Mainz 05,GER-Bundesliga,1819,2
+2631.0,Karim Onisiwo,Mainz 05,GER-Bundesliga,1819,1
+118.0,Levin Öztunalı,Mainz 05,GER-Bundesliga,1819,3
+1275.0,Robin Quaison,Mainz 05,GER-Bundesliga,1819,2
+5717.0,Amine Harit,Schalke 04,GER-Bundesliga,1819,3
+5356.0,Breel Embolo,Schalke 04,GER-Bundesliga,1819,2
+5302.0,Guido Burgstaller,Schalke 04,GER-Bundesliga,1819,2
+88.0,Mark Uth,Schalke 04,GER-Bundesliga,1819,3
+6084.0,Johannes Eggestein,Werder Bremen,GER-Bundesliga,1819,2
+155.0,Max Kruse,Werder Bremen,GER-Bundesliga,1819,1
+6523.0,Milot Rashica,Werder Bremen,GER-Bundesliga,1819,1
+135.0,Yuya Osako,Werder Bremen,GER-Bundesliga,1819,3
+194.0,Admir Mehmedi,Wolfsburg,GER-Bundesliga,1819,0
+426.0,Daniel Ginczek,Wolfsburg,GER-Bundesliga,1819,2
+5353.0,Josip Brekalo,Wolfsburg,GER-Bundesliga,1819,3
+6484.0,Renato Steffen,Wolfsburg,GER-Bundesliga,1819,3
+7052.0,Wout Weghorst,Wolfsburg,GER-Bundesliga,1819,2
+2655.0,Alfreð Finnbogason,Augsburg,GER-Bundesliga,1920,2
+306.0,Florian Niederlechner,Augsburg,GER-Bundesliga,1920,2
+448.0,Ivan Perišić,Bayern Munich,GER-Bundesliga,1920,1
+226.0,Kingsley Coman,Bayern Munich,GER-Bundesliga,1920,1
+227.0,Robert Lewandowski,Bayern Munich,GER-Bundesliga,1920,4
+993.0,Serge Gnabry,Bayern Munich,GER-Bundesliga,1920,1
+6170.0,André Silva,Eintracht Frankfurt,GER-Bundesliga,1920,4
+158.0,Bas Dost,Eintracht Frankfurt,GER-Bundesliga,1920,2
+6145.0,Daichi Kamada,Eintracht Frankfurt,GER-Bundesliga,1920,0
+7051.0,Gonçalo Paciência,Eintracht Frankfurt,GER-Bundesliga,1920,4
+4271.0,Janik Haberer,Freiburg,GER-Bundesliga,1920,3
+6475.0,Lucas Höler,Freiburg,GER-Bundesliga,1920,2
+4248.0,Nils Petersen,Freiburg,GER-Bundesliga,1920,2
+956.0,Andrej Kramarić,Hoffenheim,GER-Bundesliga,1920,4
+7422.0,Christoph Baumgartner,Hoffenheim,GER-Bundesliga,1920,4
+6271.0,Ihlas Bebou,Hoffenheim,GER-Bundesliga,1920,3
+7107.0,Jean-Paul Boëtius,Mainz 05,GER-Bundesliga,1920,3
+5735.0,Jean-Philippe Mateta,Mainz 05,GER-Bundesliga,1920,2
+2631.0,Karim Onisiwo,Mainz 05,GER-Bundesliga,1920,3
+1275.0,Robin Quaison,Mainz 05,GER-Bundesliga,1920,2
+360.0,Ádám Szalai,Mainz 05,GER-Bundesliga,1920,2
+5717.0,Amine Harit,Schalke 04,GER-Bundesliga,1920,3
+7059.0,Benito Raman,Schalke 04,GER-Bundesliga,1920,2
+5302.0,Guido Burgstaller,Schalke 04,GER-Bundesliga,1920,2
+7394.0,Rabbi Matondo,Schalke 04,GER-Bundesliga,1920,3
+119.0,Anthony Ujah,Union Berlin,GER-Bundesliga,1920,2
+7883.0,Marcus Ingvartsen,Union Berlin,GER-Bundesliga,1920,3
+7879.0,Marius Bülter,Union Berlin,GER-Bundesliga,1920,3
+7880.0,Sebastian Andersson,Union Berlin,GER-Bundesliga,1920,2
+6523.0,Milot Rashica,Werder Bremen,GER-Bundesliga,1920,0
+135.0,Yuya Osako,Werder Bremen,GER-Bundesliga,1920,2
+194.0,Admir Mehmedi,Wolfsburg,GER-Bundesliga,1920,3
+5353.0,Josip Brekalo,Wolfsburg,GER-Bundesliga,1920,0
+6484.0,Renato Steffen,Wolfsburg,GER-Bundesliga,1920,3
+7052.0,Wout Weghorst,Wolfsburg,GER-Bundesliga,1920,2
+412.0,André Hahn,Augsburg,GER-Bundesliga,2021,3
+306.0,Florian Niederlechner,Augsburg,GER-Bundesliga,2021,2
+6357.0,Marco Richter,Augsburg,GER-Bundesliga,2021,2
+7810.0,Ruben Vargas,Augsburg,GER-Bundesliga,2021,3
+227.0,Robert Lewandowski,Bayern Munich,GER-Bundesliga,2021,4
+6170.0,André Silva,Eintracht Frankfurt,GER-Bundesliga,2021,4
+5235.0,Aymen Barkok,Eintracht Frankfurt,GER-Bundesliga,2021,0
+6496.0,Ermedin Demirović,Freiburg,GER-Bundesliga,2021,2
+6475.0,Lucas Höler,Freiburg,GER-Bundesliga,2021,3
+4248.0,Nils Petersen,Freiburg,GER-Bundesliga,2021,2
+1277.0,Roland Sallai,Freiburg,GER-Bundesliga,2021,2
+5266.0,Vincenzo Grifo,Freiburg,GER-Bundesliga,2021,0
+956.0,Andrej Kramarić,Hoffenheim,GER-Bundesliga,2021,4
+7422.0,Christoph Baumgartner,Hoffenheim,GER-Bundesliga,2021,3
+6271.0,Ihlas Bebou,Hoffenheim,GER-Bundesliga,2021,2
+7867.0,Robert Skov,Hoffenheim,GER-Bundesliga,2021,0
+7107.0,Jean-Paul Boëtius,Mainz 05,GER-Bundesliga,2021,3
+5735.0,Jean-Philippe Mateta,Mainz 05,GER-Bundesliga,2021,4
+7108.0,Jonathan Burkardt,Mainz 05,GER-Bundesliga,2021,3
+2631.0,Karim Onisiwo,Mainz 05,GER-Bundesliga,2021,3
+1275.0,Robin Quaison,Mainz 05,GER-Bundesliga,2021,2
+5717.0,Amine Harit,Schalke 04,GER-Bundesliga,2021,0
+7059.0,Benito Raman,Schalke 04,GER-Bundesliga,2021,3
+88.0,Mark Uth,Schalke 04,GER-Bundesliga,2021,3
+9160.0,Matthew Hoppe,Schalke 04,GER-Bundesliga,2021,2
+7879.0,Marius Bülter,Union Berlin,GER-Bundesliga,2021,3
+155.0,Max Kruse,Union Berlin,GER-Bundesliga,2021,2
+7882.0,Sheraldo Becker,Union Berlin,GER-Bundesliga,2021,0
+7814.0,Taiwo Awoniyi,Union Berlin,GER-Bundesliga,2021,2
+6523.0,Milot Rashica,Werder Bremen,GER-Bundesliga,2021,3
+9069.0,Romano Schmid,Werder Bremen,GER-Bundesliga,2021,3
+5353.0,Josip Brekalo,Wolfsburg,GER-Bundesliga,2021,0
+7052.0,Wout Weghorst,Wolfsburg,GER-Bundesliga,2021,4
+9099.0,Andi Zeqiri,Augsburg,GER-Bundesliga,2122,2
+412.0,André Hahn,Augsburg,GER-Bundesliga,2122,3
+306.0,Florian Niederlechner,Augsburg,GER-Bundesliga,2122,2
+171.0,Michael Gregoritsch,Augsburg,GER-Bundesliga,2122,2
+7810.0,Ruben Vargas,Augsburg,GER-Bundesliga,2122,3
+226.0,Kingsley Coman,Bayern Munich,GER-Bundesliga,2122,1
+227.0,Robert Lewandowski,Bayern Munich,GER-Bundesliga,2122,4
+7798.0,Christopher Antwi-Adjei,Bochum,GER-Bundesliga,2122,3
+5270.0,Gerrit Holtmann,Bochum,GER-Bundesliga,2122,0
+378.0,Miloš Pantović,Bochum,GER-Bundesliga,2122,0
+7881.0,Sebastian Polter,Bochum,GER-Bundesliga,2122,2
+6087.0,Takuma Asano,Bochum,GER-Bundesliga,2122,3
+8974.0,Jens Petter Hauge,Eintracht Frankfurt,GER-Bundesliga,2122,3
+9752.0,Jesper Lindstrøm,Eintracht Frankfurt,GER-Bundesliga,2122,0
+6475.0,Lucas Höler,Freiburg,GER-Bundesliga,2122,3
+1277.0,Roland Sallai,Freiburg,GER-Bundesliga,2122,3
+5266.0,Vincenzo Grifo,Freiburg,GER-Bundesliga,2122,0
+956.0,Andrej Kramarić,Hoffenheim,GER-Bundesliga,2122,1
+6937.0,Georginio Rutter,Hoffenheim,GER-Bundesliga,2122,2
+6271.0,Ihlas Bebou,Hoffenheim,GER-Bundesliga,2122,2
+7108.0,Jonathan Burkardt,Mainz 05,GER-Bundesliga,2122,2
+2631.0,Karim Onisiwo,Mainz 05,GER-Bundesliga,2122,1
+155.0,Max Kruse,Union Berlin,GER-Bundesliga,2122,1
+7882.0,Sheraldo Becker,Union Berlin,GER-Bundesliga,2122,0
+7814.0,Taiwo Awoniyi,Union Berlin,GER-Bundesliga,2122,4
+10394.0,Jonas Wind,Wolfsburg,GER-Bundesliga,2122,2
+6544.0,Lukas Nmecha,Wolfsburg,GER-Bundesliga,2122,2
+7052.0,Wout Weghorst,Wolfsburg,GER-Bundesliga,2122,2
+6496.0,Ermedin Demirović,Augsburg,GER-Bundesliga,2223,2
+306.0,Florian Niederlechner,Augsburg,GER-Bundesliga,2223,2
+7197.0,Fredrik Jensen,Augsburg,GER-Bundesliga,2223,3
+11092.0,Mergim Berisha,Augsburg,GER-Bundesliga,2223,2
+339.0,Eric Maxim Choupo-Moting,Bayern Munich,GER-Bundesliga,2223,4
+838.0,Sadio Mané,Bayern Munich,GER-Bundesliga,2223,4
+993.0,Serge Gnabry,Bayern Munich,GER-Bundesliga,2223,4
+224.0,Thomas Müller,Bayern Munich,GER-Bundesliga,2223,1
+7798.0,Christopher Antwi-Adjei,Bochum,GER-Bundesliga,2223,3
+5270.0,Gerrit Holtmann,Bochum,GER-Bundesliga,2223,3
+10736.0,Philipp Hofmann,Bochum,GER-Bundesliga,2223,2
+139.0,Simon Zoller,Bochum,GER-Bundesliga,2223,2
+6087.0,Takuma Asano,Bochum,GER-Bundesliga,2223,2
+5743.0,Randal Kolo Muani,Eintracht Frankfurt,GER-Bundesliga,2223,2
+6475.0,Lucas Höler,Freiburg,GER-Bundesliga,2223,3
+171.0,Michael Gregoritsch,Freiburg,GER-Bundesliga,2223,2
+8791.0,Ritsu Doan,Freiburg,GER-Bundesliga,2223,3
+1277.0,Roland Sallai,Freiburg,GER-Bundesliga,2223,2
+5266.0,Vincenzo Grifo,Freiburg,GER-Bundesliga,2223,0
+956.0,Andrej Kramarić,Hoffenheim,GER-Bundesliga,2223,2
+7422.0,Christoph Baumgartner,Hoffenheim,GER-Bundesliga,2223,3
+6937.0,Georginio Rutter,Hoffenheim,GER-Bundesliga,2223,2
+6271.0,Ihlas Bebou,Hoffenheim,GER-Bundesliga,2223,2
+2631.0,Karim Onisiwo,Mainz 05,GER-Bundesliga,2223,2
+6905.0,Ludovic Ajorque,Mainz 05,GER-Bundesliga,2223,2
+7883.0,Marcus Ingvartsen,Mainz 05,GER-Bundesliga,2223,2
+98.0,Kenan Karaman,Schalke 04,GER-Bundesliga,2223,3
+7879.0,Marius Bülter,Schalke 04,GER-Bundesliga,2223,2
+10850.0,Rodrigo Zalazar,Schalke 04,GER-Bundesliga,2223,0
+6090.0,Simon Terodde,Schalke 04,GER-Bundesliga,2223,2
+9712.0,Kevin Behrens,Union Berlin,GER-Bundesliga,2223,2
+7882.0,Sheraldo Becker,Union Berlin,GER-Bundesliga,2223,0
+4329.0,Marvin Ducksch,Werder Bremen,GER-Bundesliga,2223,2
+6098.0,Niclas Füllkrug,Werder Bremen,GER-Bundesliga,2223,2
+9069.0,Romano Schmid,Werder Bremen,GER-Bundesliga,2223,3
+10732.0,Jakub Kamiński,Wolfsburg,GER-Bundesliga,2223,3
+10394.0,Jonas Wind,Wolfsburg,GER-Bundesliga,2223,2
+8393.0,Omar Marmoush,Wolfsburg,GER-Bundesliga,2223,2
+9730.0,Patrick Wimmer,Wolfsburg,GER-Bundesliga,2223,0
+5298.0,Arne Maier,Augsburg,GER-Bundesliga,2324,0
+6496.0,Ermedin Demirović,Augsburg,GER-Bundesliga,2324,2
+11845.0,Phillip Tietz,Augsburg,GER-Bundesliga,2324,2
+7810.0,Ruben Vargas,Augsburg,GER-Bundesliga,2324,3
+647.0,Harry Kane,Bayern Munich,GER-Bundesliga,2324,4
+9780.0,Mathys Tel,Bayern Munich,GER-Bundesliga,2324,1
+7798.0,Christopher Antwi-Adjei,Bochum,GER-Bundesliga,2324,0
+11983.0,Matúš Bero,Bochum,GER-Bundesliga,2324,3
+11336.0,Moritz Broschinski,Bochum,GER-Bundesliga,2324,3
+10736.0,Philipp Hofmann,Bochum,GER-Bundesliga,2324,2
+6087.0,Takuma Asano,Bochum,GER-Bundesliga,2324,2
+8989.0,Ansgar Knauff,Eintracht Frankfurt,GER-Bundesliga,2324,3
+10792.0,Fares Chaïbi,Eintracht Frankfurt,GER-Bundesliga,2324,0
+8393.0,Omar Marmoush,Eintracht Frankfurt,GER-Bundesliga,2324,2
+6475.0,Lucas Höler,Freiburg,GER-Bundesliga,2324,3
+11331.0,Merlin Röhl,Freiburg,GER-Bundesliga,2324,3
+171.0,Michael Gregoritsch,Freiburg,GER-Bundesliga,2324,4
+1277.0,Roland Sallai,Freiburg,GER-Bundesliga,2324,1
+956.0,Andrej Kramarić,Hoffenheim,GER-Bundesliga,2324,1
+6271.0,Ihlas Bebou,Hoffenheim,GER-Bundesliga,2324,2
+8137.0,Maximilian Beier,Hoffenheim,GER-Bundesliga,2324,2
+7052.0,Wout Weghorst,Hoffenheim,GER-Bundesliga,2324,2
+11310.0,Brajan Gruda,Mainz 05,GER-Bundesliga,2324,1
+7108.0,Jonathan Burkardt,Mainz 05,GER-Bundesliga,2324,2
+2631.0,Karim Onisiwo,Mainz 05,GER-Bundesliga,2324,3
+6905.0,Ludovic Ajorque,Mainz 05,GER-Bundesliga,2324,2
+11981.0,Benedict Hollerbach,Union Berlin,GER-Bundesliga,2324,2
+10751.0,Brenden Aaronson,Union Berlin,GER-Bundesliga,2324,3
+9712.0,Kevin Behrens,Union Berlin,GER-Bundesliga,2324,4
+83.0,Kevin Volland,Union Berlin,GER-Bundesliga,2324,2
+10585.0,Justin Njinmah,Werder Bremen,GER-Bundesliga,2324,2
+4329.0,Marvin Ducksch,Werder Bremen,GER-Bundesliga,2324,1
+8117.0,Nick Woltemade,Werder Bremen,GER-Bundesliga,2324,3
+9069.0,Romano Schmid,Werder Bremen,GER-Bundesliga,2324,0
+10394.0,Jonas Wind,Wolfsburg,GER-Bundesliga,2324,2
+9931.0,Lovro Majer,Wolfsburg,GER-Bundesliga,2324,0
+10367.0,Tiago Tomás,Wolfsburg,GER-Bundesliga,2324,2
+11851.0,Václav Černý,Wolfsburg,GER-Bundesliga,2324,0
+11845.0,Phillip Tietz,Augsburg,GER-Bundesliga,2425,2
+12922.0,Samuel Essende,Augsburg,GER-Bundesliga,2425,2
+647.0,Harry Kane,Bayern Munich,GER-Bundesliga,2425,4
+993.0,Serge Gnabry,Bayern Munich,GER-Bundesliga,2425,1
+224.0,Thomas Müller,Bayern Munich,GER-Bundesliga,2425,1
+13018.0,Dani de Wit,Bochum,GER-Bundesliga,2425,3
+13461.0,Giorgos Masouras,Bochum,GER-Bundesliga,2425,2
+11336.0,Moritz Broschinski,Bochum,GER-Bundesliga,2425,3
+9612.0,Myron Boadu,Bochum,GER-Bundesliga,2425,4
+10736.0,Philipp Hofmann,Bochum,GER-Bundesliga,2425,3
+8995.0,Hugo Ekitike,Eintracht Frankfurt,GER-Bundesliga,2425,4
+8393.0,Omar Marmoush,Eintracht Frankfurt,GER-Bundesliga,2425,4
+12069.0,Junior Adamu,Freiburg,GER-Bundesliga,2425,2
+6475.0,Lucas Höler,Freiburg,GER-Bundesliga,2425,2
+10774.0,Adam Hložek,Hoffenheim,GER-Bundesliga,2425,2
+7879.0,Marius Bülter,Hoffenheim,GER-Bundesliga,2425,3
+12936.0,Alexander Bernhardsson,Holstein Kiel,GER-Bundesliga,2425,2
+13075.0,Phil Harres,Holstein Kiel,GER-Bundesliga,2425,2
+12934.0,Shuto Machino,Holstein Kiel,GER-Bundesliga,2425,2
+7054.0,Steven Skrzybski,Holstein Kiel,GER-Bundesliga,2425,0
+7108.0,Jonathan Burkardt,Mainz 05,GER-Bundesliga,2425,4
+12421.0,Andrej Ilic,Union Berlin,GER-Bundesliga,2425,2
+11981.0,Benedict Hollerbach,Union Berlin,GER-Bundesliga,2425,2
+10926.0,Tim Skarke,Union Berlin,GER-Bundesliga,2425,3
+10585.0,Justin Njinmah,Werder Bremen,GER-Bundesliga,2425,2
+12924.0,Marco Grüll,Werder Bremen,GER-Bundesliga,2425,2
+4329.0,Marvin Ducksch,Werder Bremen,GER-Bundesliga,2425,1
+5256.0,Oliver Burke,Werder Bremen,GER-Bundesliga,2425,4
+10394.0,Jonas Wind,Wolfsburg,GER-Bundesliga,2425,2
+9730.0,Patrick Wimmer,Wolfsburg,GER-Bundesliga,2425,3
+10367.0,Tiago Tomás,Wolfsburg,GER-Bundesliga,2425,3
+1493.0,Andrea Petagna,Atalanta,ITA-Serie A,1718,2
+6156.0,Andreas Cornelius,Atalanta,ITA-Serie A,1718,2
+1426.0,Josip Iličić,Atalanta,ITA-Serie A,1718,1
+1218.0,Cristiano Lombardi,Benevento,ITA-Serie A,1718,3
+6199.0,Enrico Brignola,Benevento,ITA-Serie A,1718,3
+6502.0,Guilherme,Benevento,ITA-Serie A,1718,0
+1502.0,Marco D'Alessandro,Benevento,ITA-Serie A,1718,3
+3832.0,Massimo Coda,Benevento,ITA-Serie A,1718,2
+1449.0,Federico Di Francesco,Bologna,ITA-Serie A,1718,3
+1580.0,Mattia Destro,Bologna,ITA-Serie A,1718,2
+1518.0,Rodrigo Palacio,Bologna,ITA-Serie A,1718,3
+1445.0,Simone Verdi,Bologna,ITA-Serie A,1718,0
+1605.0,Diego Farias,Cagliari,ITA-Serie A,1718,3
+1592.0,João Pedro,Cagliari,ITA-Serie A,1718,3
+1104.0,Leonardo Pavoletti,Cagliari,ITA-Serie A,1718,2
+1406.0,Marco Sau,Cagliari,ITA-Serie A,1718,3
+1033.0,Emanuele Giaccherini,Chievo,ITA-Serie A,1718,3
+1318.0,Manuel Pucciarelli,Chievo,ITA-Serie A,1718,3
+1340.0,Roberto Inglese,Chievo,ITA-Serie A,1718,2
+1336.0,Valter Birsa,Chievo,ITA-Serie A,1718,0
+1363.0,Adrian Stoian,Crotone,ITA-Serie A,1718,3
+1528.0,Andrea Nalini,Crotone,ITA-Serie A,1718,3
+1235.0,Ante Budimir,Crotone,ITA-Serie A,1718,2
+1470.0,Federico Ricci,Crotone,ITA-Serie A,1718,0
+1369.0,Marcello Trotta,Crotone,ITA-Serie A,1718,3
+1147.0,Cyril Théréau,Fiorentina,ITA-Serie A,1718,1
+1433.0,Federico Chiesa,Fiorentina,ITA-Serie A,1718,0
+1102.0,Giovanni Simeone,Fiorentina,ITA-Serie A,1718,2
+1313.0,Riccardo Saponara,Fiorentina,ITA-Serie A,1718,0
+4450.0,Adel Taarabt,Genoa,ITA-Serie A,1718,0
+1136.0,Gianluca Lapadula,Genoa,ITA-Serie A,1718,2
+1115.0,Goran Pandev,Genoa,ITA-Serie A,1718,2
+1513.0,Mauro Icardi,Inter,ITA-Serie A,1718,4
+393.0,Douglas Costa,Juventus,ITA-Serie A,1718,0
+1293.0,Gonzalo Higuaín,Juventus,ITA-Serie A,1718,2
+1089.0,Juan Cuadrado,Juventus,ITA-Serie A,1718,0
+1295.0,Mario Mandžukić,Juventus,ITA-Serie A,1718,3
+1294.0,Paulo Dybala,Juventus,ITA-Serie A,1718,4
+1209.0,Ciro Immobile,Lazio,ITA-Serie A,1718,4
+1208.0,Felipe Anderson,Lazio,ITA-Serie A,1718,0
+1219.0,Luis Alberto,Lazio,ITA-Serie A,1718,0
+1384.0,Dries Mertens,Napoli,ITA-Serie A,1718,4
+1382.0,José Callejón,Napoli,ITA-Serie A,1718,0
+1393.0,Lorenzo Insigne,Napoli,ITA-Serie A,1718,1
+1386.0,Piotr Zieliński,Napoli,ITA-Serie A,1718,3
+6162.0,Cengiz Ünder,Roma,ITA-Serie A,1718,2
+1539.0,Diego Perotti,Roma,ITA-Serie A,1718,0
+1253.0,Edin Džeko,Roma,ITA-Serie A,1718,4
+1258.0,Gerson,Roma,ITA-Serie A,1718,3
+1236.0,Patrik Schick,Roma,ITA-Serie A,1718,2
+1252.0,Stephan El Shaarawy,Roma,ITA-Serie A,1718,2
+1148.0,Duván Zapata,Sampdoria,ITA-Serie A,1718,2
+1230.0,Fabio Quagliarella,Sampdoria,ITA-Serie A,1718,4
+1170.0,Gianluca Caprari,Sampdoria,ITA-Serie A,1718,1
+1472.0,Alessandro Matri,Sassuolo,ITA-Serie A,1718,2
+1612.0,Domenico Berardi,Sassuolo,ITA-Serie A,1718,0
+1473.0,Matteo Politano,Sassuolo,ITA-Serie A,1718,0
+1187.0,Adem Ljajić,Torino,ITA-Serie A,1718,0
+1186.0,Andrea Belotti,Torino,ITA-Serie A,1718,2
+1185.0,Iago Falque,Torino,ITA-Serie A,1718,0
+1126.0,M'Baye Niang,Torino,ITA-Serie A,1718,3
+5091.0,Álex Berenguer,Torino,ITA-Serie A,1718,0
+1146.0,Jakub Jankto,Udinese,ITA-Serie A,1718,0
+1903.0,Kevin Lasagna,Udinese,ITA-Serie A,1718,2
+1188.0,Maxi López,Udinese,ITA-Serie A,1718,3
+1145.0,Rodrigo De Paul,Udinese,ITA-Serie A,1718,0
+1154.0,Stipe Perica,Udinese,ITA-Serie A,1718,3
+1148.0,Duván Zapata,Atalanta,ITA-Serie A,1819,4
+1426.0,Josip Iličić,Atalanta,ITA-Serie A,1819,1
+6972.0,Federico Santander,Bologna,ITA-Serie A,1819,2
+1826.0,Nicola Sansone,Bologna,ITA-Serie A,1819,3
+6160.0,Riccardo Orsolini,Bologna,ITA-Serie A,1819,3
+1518.0,Rodrigo Palacio,Bologna,ITA-Serie A,1819,3
+1592.0,João Pedro,Cagliari,ITA-Serie A,1819,2
+1104.0,Leonardo Pavoletti,Cagliari,ITA-Serie A,1819,2
+1033.0,Emanuele Giaccherini,Chievo,ITA-Serie A,1819,0
+5718.0,Mariusz Stępiński,Chievo,ITA-Serie A,1819,2
+1337.0,Riccardo Meggiorini,Chievo,ITA-Serie A,1819,3
+1347.0,Sergio Pellissier,Chievo,ITA-Serie A,1819,2
+6980.0,Francesco Caputo,Empoli,ITA-Serie A,1819,2
+4937.0,Miha Zajc,Empoli,ITA-Serie A,1819,1
+1433.0,Federico Chiesa,Fiorentina,ITA-Serie A,1819,2
+1258.0,Gerson,Fiorentina,ITA-Serie A,1819,3
+1102.0,Giovanni Simeone,Fiorentina,ITA-Serie A,1819,2
+595.0,Kevin Mirallas,Fiorentina,ITA-Serie A,1819,0
+1229.0,Luis Muriel,Fiorentina,ITA-Serie A,1819,2
+4895.0,Andrea Pinamonti,Frosinone,ITA-Serie A,1819,2
+7015.0,Camillo Ciano,Frosinone,ITA-Serie A,1819,0
+1868.0,Daniel Ciofani,Frosinone,ITA-Serie A,1819,2
+7091.0,Christian Kouamé,Genoa,ITA-Serie A,1819,3
+1106.0,Darko Lazović,Genoa,ITA-Serie A,1819,0
+1115.0,Goran Pandev,Genoa,ITA-Serie A,1819,3
+448.0,Ivan Perišić,Inter,ITA-Serie A,1819,0
+7006.0,Lautaro Martínez,Inter,ITA-Serie A,1819,2
+1473.0,Matteo Politano,Inter,ITA-Serie A,1819,0
+1513.0,Mauro Icardi,Inter,ITA-Serie A,1819,2
+2371.0,Cristiano Ronaldo,Juventus,ITA-Serie A,1819,4
+1424.0,Federico Bernardeschi,Juventus,ITA-Serie A,1819,0
+1295.0,Mario Mandžukić,Juventus,ITA-Serie A,1819,3
+1294.0,Paulo Dybala,Juventus,ITA-Serie A,1819,0
+1209.0,Ciro Immobile,Lazio,ITA-Serie A,1819,4
+2116.0,Felipe Caicedo,Lazio,ITA-Serie A,1819,2
+1809.0,Joaquín Correa,Lazio,ITA-Serie A,1819,1
+1219.0,Luis Alberto,Lazio,ITA-Serie A,1819,0
+1583.0,Arkadiusz Milik,Napoli,ITA-Serie A,1819,4
+1384.0,Dries Mertens,Napoli,ITA-Serie A,1819,1
+1382.0,José Callejón,Napoli,ITA-Serie A,1819,1
+1393.0,Lorenzo Insigne,Napoli,ITA-Serie A,1819,1
+6162.0,Cengiz Ünder,Roma,ITA-Serie A,1819,1
+1253.0,Edin Džeko,Roma,ITA-Serie A,1819,4
+6963.0,Justin Kluivert,Roma,ITA-Serie A,1819,0
+6686.0,Nicolò Zaniolo,Roma,ITA-Serie A,1819,3
+1236.0,Patrik Schick,Roma,ITA-Serie A,1819,2
+1252.0,Stephan El Shaarawy,Roma,ITA-Serie A,1819,1
+1230.0,Fabio Quagliarella,Sampdoria,ITA-Serie A,1819,4
+1170.0,Gianluca Caprari,Sampdoria,ITA-Serie A,1819,3
+1468.0,Grégoire Defrel,Sampdoria,ITA-Serie A,1819,2
+1612.0,Domenico Berardi,Sassuolo,ITA-Serie A,1819,1
+1449.0,Federico Di Francesco,Sassuolo,ITA-Serie A,1819,2
+3544.0,Jeremie Boga,Sassuolo,ITA-Serie A,1819,3
+1819.0,Kevin-Prince Boateng,Sassuolo,ITA-Serie A,1819,2
+1434.0,Khouma Babacar,Sassuolo,ITA-Serie A,1819,2
+1186.0,Andrea Belotti,Torino,ITA-Serie A,1819,2
+1185.0,Iago Falque,Torino,ITA-Serie A,1819,1
+1642.0,Simone Zaza,Torino,ITA-Serie A,1819,2
+5091.0,Álex Berenguer,Torino,ITA-Serie A,1819,0
+6997.0,Ignacio Pussetto,Udinese,ITA-Serie A,1819,3
+1903.0,Kevin Lasagna,Udinese,ITA-Serie A,1819,2
+1145.0,Rodrigo De Paul,Udinese,ITA-Serie A,1819,0
+1763.0,Stefano Okaka,Udinese,ITA-Serie A,1819,2
+1148.0,Duván Zapata,Atalanta,ITA-Serie A,1920,4
+1426.0,Josip Iličić,Atalanta,ITA-Serie A,1920,1
+1229.0,Luis Muriel,Atalanta,ITA-Serie A,1920,4
+1826.0,Nicola Sansone,Bologna,ITA-Serie A,1920,1
+6160.0,Riccardo Orsolini,Bologna,ITA-Serie A,1920,0
+1518.0,Rodrigo Palacio,Bologna,ITA-Serie A,1920,1
+7961.0,Alfredo Donnarumma,Brescia,ITA-Serie A,1920,2
+7993.0,Ernesto Torregrossa,Brescia,ITA-Serie A,1920,2
+7960.0,Florian Ayé,Brescia,ITA-Serie A,1920,3
+1817.0,Mario Balotelli,Brescia,ITA-Serie A,1920,2
+1102.0,Giovanni Simeone,Cagliari,ITA-Serie A,1920,2
+1592.0,João Pedro,Cagliari,ITA-Serie A,1920,2
+7084.0,Dušan Vlahović,Fiorentina,ITA-Serie A,1920,2
+1433.0,Federico Chiesa,Fiorentina,ITA-Serie A,1920,1
+329.0,Franck Ribéry,Fiorentina,ITA-Serie A,1920,3
+4895.0,Andrea Pinamonti,Genoa,ITA-Serie A,1920,3
+2217.0,Antonio Sanabria,Genoa,ITA-Serie A,1920,2
+1115.0,Goran Pandev,Genoa,ITA-Serie A,1920,2
+498.0,Alexis Sánchez,Inter,ITA-Serie A,1920,1
+7006.0,Lautaro Martínez,Inter,ITA-Serie A,1920,4
+594.0,Romelu Lukaku,Inter,ITA-Serie A,1920,4
+504.0,Aaron Ramsey,Juventus,ITA-Serie A,1920,3
+2371.0,Cristiano Ronaldo,Juventus,ITA-Serie A,1920,4
+1424.0,Federico Bernardeschi,Juventus,ITA-Serie A,1920,0
+1293.0,Gonzalo Higuaín,Juventus,ITA-Serie A,1920,4
+1089.0,Juan Cuadrado,Juventus,ITA-Serie A,1920,3
+1294.0,Paulo Dybala,Juventus,ITA-Serie A,1920,1
+1209.0,Ciro Immobile,Lazio,ITA-Serie A,1920,4
+2116.0,Felipe Caicedo,Lazio,ITA-Serie A,1920,2
+1809.0,Joaquín Correa,Lazio,ITA-Serie A,1920,2
+1979.0,Filippo Falco,Lecce,ITA-Serie A,1920,0
+1136.0,Gianluca Lapadula,Lecce,ITA-Serie A,1920,2
+1434.0,Khouma Babacar,Lecce,ITA-Serie A,1920,2
+1583.0,Arkadiusz Milik,Napoli,ITA-Serie A,1920,4
+1384.0,Dries Mertens,Napoli,ITA-Serie A,1920,1
+7999.0,Hirving Lozano,Napoli,ITA-Serie A,1920,1
+1382.0,José Callejón,Napoli,ITA-Serie A,1920,0
+1393.0,Lorenzo Insigne,Napoli,ITA-Serie A,1920,1
+1253.0,Edin Džeko,Roma,ITA-Serie A,1920,4
+1230.0,Fabio Quagliarella,Sampdoria,ITA-Serie A,1920,2
+952.0,Gastón Ramírez,Sampdoria,ITA-Serie A,1920,0
+1383.0,Manolo Gabbiadini,Sampdoria,ITA-Serie A,1920,2
+1612.0,Domenico Berardi,Sassuolo,ITA-Serie A,1920,1
+6980.0,Francesco Caputo,Sassuolo,ITA-Serie A,1920,2
+1468.0,Grégoire Defrel,Sassuolo,ITA-Serie A,1920,2
+3544.0,Jeremie Boga,Sassuolo,ITA-Serie A,1920,2
+1186.0,Andrea Belotti,Torino,ITA-Serie A,1920,2
+1445.0,Simone Verdi,Torino,ITA-Serie A,1920,0
+1642.0,Simone Zaza,Torino,ITA-Serie A,1920,2
+5091.0,Álex Berenguer,Torino,ITA-Serie A,1920,0
+1272.0,Ilija Nestorovski,Udinese,ITA-Serie A,1920,2
+1903.0,Kevin Lasagna,Udinese,ITA-Serie A,1920,2
+1763.0,Stefano Okaka,Udinese,ITA-Serie A,1920,2
+1148.0,Duván Zapata,Atalanta,ITA-Serie A,2021,4
+1426.0,Josip Iličić,Atalanta,ITA-Serie A,2021,1
+1229.0,Luis Muriel,Atalanta,ITA-Serie A,2021,4
+1170.0,Gianluca Caprari,Benevento,ITA-Serie A,2021,0
+1136.0,Gianluca Lapadula,Benevento,ITA-Serie A,2021,2
+1617.0,Roberto Insigne,Benevento,ITA-Serie A,2021,0
+6512.0,Musa Barrow,Bologna,ITA-Serie A,2021,0
+1518.0,Rodrigo Palacio,Bologna,ITA-Serie A,2021,1
+1102.0,Giovanni Simeone,Cagliari,ITA-Serie A,2021,2
+1592.0,João Pedro,Cagliari,ITA-Serie A,2021,2
+1104.0,Leonardo Pavoletti,Cagliari,ITA-Serie A,2021,2
+8838.0,Junior Messias,Crotone,ITA-Serie A,2021,3
+7091.0,Christian Kouamé,Fiorentina,ITA-Serie A,2021,2
+7084.0,Dušan Vlahović,Fiorentina,ITA-Serie A,2021,2
+329.0,Franck Ribéry,Fiorentina,ITA-Serie A,2021,3
+5954.0,Eldor Shomurodov,Genoa,ITA-Serie A,2021,2
+6253.0,Gianluca Scamacca,Genoa,ITA-Serie A,2021,2
+1115.0,Goran Pandev,Genoa,ITA-Serie A,2021,2
+1577.0,Marko Pjaca,Genoa,ITA-Serie A,2021,3
+1580.0,Mattia Destro,Genoa,ITA-Serie A,2021,2
+498.0,Alexis Sánchez,Inter,ITA-Serie A,2021,1
+7006.0,Lautaro Martínez,Inter,ITA-Serie A,2021,4
+594.0,Romelu Lukaku,Inter,ITA-Serie A,2021,4
+2371.0,Cristiano Ronaldo,Juventus,ITA-Serie A,2021,4
+6691.0,Dejan Kulusevski,Juventus,ITA-Serie A,2021,0
+1294.0,Paulo Dybala,Juventus,ITA-Serie A,2021,1
+1804.0,Álvaro Morata,Juventus,ITA-Serie A,2021,4
+1209.0,Ciro Immobile,Lazio,ITA-Serie A,2021,4
+2116.0,Felipe Caicedo,Lazio,ITA-Serie A,2021,2
+1809.0,Joaquín Correa,Lazio,ITA-Serie A,2021,2
+1493.0,Andrea Petagna,Napoli,ITA-Serie A,2021,1
+1384.0,Dries Mertens,Napoli,ITA-Serie A,2021,1
+7999.0,Hirving Lozano,Napoli,ITA-Serie A,2021,1
+5322.0,Victor Osimhen,Napoli,ITA-Serie A,2021,4
+2252.0,Borja Mayoral,Roma,ITA-Serie A,2021,2
+1253.0,Edin Džeko,Roma,ITA-Serie A,2021,4
+1230.0,Fabio Quagliarella,Sampdoria,ITA-Serie A,2021,2
+952.0,Gastón Ramírez,Sampdoria,ITA-Serie A,2021,0
+8859.0,Mikkel Damsgaard,Sampdoria,ITA-Serie A,2021,3
+6980.0,Francesco Caputo,Sassuolo,ITA-Serie A,2021,2
+7500.0,Giacomo Raspadori,Sassuolo,ITA-Serie A,2021,2
+1468.0,Grégoire Defrel,Sassuolo,ITA-Serie A,2021,3
+2044.0,Daniele Verde,Spezia,ITA-Serie A,2021,2
+1605.0,Diego Farias,Spezia,ITA-Serie A,2021,0
+8913.0,Emmanuel Gyasi,Spezia,ITA-Serie A,2021,3
+8010.0,Kevin Agudelo,Spezia,ITA-Serie A,2021,3
+9018.0,M'Bala Nzola,Spezia,ITA-Serie A,2021,2
+1186.0,Andrea Belotti,Torino,ITA-Serie A,2021,2
+2217.0,Antonio Sanabria,Torino,ITA-Serie A,2021,2
+1445.0,Simone Verdi,Torino,ITA-Serie A,2021,0
+1642.0,Simone Zaza,Torino,ITA-Serie A,2021,2
+1903.0,Kevin Lasagna,Udinese,ITA-Serie A,2021,4
+1723.0,Roberto Pereyra,Udinese,ITA-Serie A,2021,3
+1763.0,Stefano Okaka,Udinese,ITA-Serie A,2021,2
+1148.0,Duván Zapata,Atalanta,ITA-Serie A,2122,4
+1229.0,Luis Muriel,Atalanta,ITA-Serie A,2122,1
+1134.0,Mario Pašalić,Atalanta,ITA-Serie A,2122,1
+7013.0,Matteo Pessina,Atalanta,ITA-Serie A,2122,3
+865.0,Marko Arnautović,Bologna,ITA-Serie A,2122,2
+6512.0,Musa Barrow,Bologna,ITA-Serie A,2122,0
+6160.0,Riccardo Orsolini,Bologna,ITA-Serie A,2122,3
+8289.0,Gastón Pereiro,Cagliari,ITA-Serie A,2122,0
+1592.0,João Pedro,Cagliari,ITA-Serie A,2122,2
+1104.0,Leonardo Pavoletti,Cagliari,ITA-Serie A,2122,2
+4895.0,Andrea Pinamonti,Empoli,ITA-Serie A,2122,2
+1449.0,Federico Di Francesco,Empoli,ITA-Serie A,2122,3
+4918.0,Patrick Cutrone,Empoli,ITA-Serie A,2122,2
+7084.0,Dušan Vlahović,Fiorentina,ITA-Serie A,2122,4
+1382.0,José Callejón,Fiorentina,ITA-Serie A,2122,0
+7074.0,Nicolás González,Fiorentina,ITA-Serie A,2122,3
+1313.0,Riccardo Saponara,Fiorentina,ITA-Serie A,2122,0
+6672.0,Riccardo Sottil,Fiorentina,ITA-Serie A,2122,3
+9843.0,Caleb Ekuban,Genoa,ITA-Serie A,2122,3
+1580.0,Mattia Destro,Genoa,ITA-Serie A,2122,2
+1253.0,Edin Džeko,Inter,ITA-Serie A,2122,4
+1809.0,Joaquín Correa,Inter,ITA-Serie A,2122,4
+7006.0,Lautaro Martínez,Inter,ITA-Serie A,2122,4
+1424.0,Federico Bernardeschi,Juventus,ITA-Serie A,2122,3
+1304.0,Moise Kean,Juventus,ITA-Serie A,2122,2
+1294.0,Paulo Dybala,Juventus,ITA-Serie A,2122,1
+1804.0,Álvaro Morata,Juventus,ITA-Serie A,2122,1
+1209.0,Ciro Immobile,Lazio,ITA-Serie A,2122,4
+1208.0,Felipe Anderson,Lazio,ITA-Serie A,2122,3
+1958.0,Mattia Zaccagni,Lazio,ITA-Serie A,2122,3
+687.0,Pedro,Lazio,ITA-Serie A,2122,3
+1384.0,Dries Mertens,Napoli,ITA-Serie A,2122,1
+7999.0,Hirving Lozano,Napoli,ITA-Serie A,2122,1
+1393.0,Lorenzo Insigne,Napoli,ITA-Serie A,2122,1
+1473.0,Matteo Politano,Napoli,ITA-Serie A,2122,0
+5322.0,Victor Osimhen,Napoli,ITA-Serie A,2122,4
+6686.0,Nicolò Zaniolo,Roma,ITA-Serie A,2122,3
+702.0,Tammy Abraham,Roma,ITA-Serie A,2122,2
+2019.0,Federico Bonazzoli,Salernitana,ITA-Serie A,2122,2
+329.0,Franck Ribéry,Salernitana,ITA-Serie A,2122,0
+4951.0,Grigoris Kastanos,Salernitana,ITA-Serie A,2122,3
+1230.0,Fabio Quagliarella,Sampdoria,ITA-Serie A,2122,2
+6980.0,Francesco Caputo,Sampdoria,ITA-Serie A,2122,2
+1383.0,Manolo Gabbiadini,Sampdoria,ITA-Serie A,2122,2
+1612.0,Domenico Berardi,Sassuolo,ITA-Serie A,2122,1
+7500.0,Giacomo Raspadori,Sassuolo,ITA-Serie A,2122,2
+6253.0,Gianluca Scamacca,Sassuolo,ITA-Serie A,2122,4
+1468.0,Grégoire Defrel,Sassuolo,ITA-Serie A,2122,2
+2044.0,Daniele Verde,Spezia,ITA-Serie A,2122,0
+8913.0,Emmanuel Gyasi,Spezia,ITA-Serie A,2122,3
+8010.0,Kevin Agudelo,Spezia,ITA-Serie A,2122,3
+9018.0,M'Bala Nzola,Spezia,ITA-Serie A,2122,2
+1570.0,Rey Manaj,Spezia,ITA-Serie A,2122,2
+1186.0,Andrea Belotti,Torino,ITA-Serie A,2122,2
+2217.0,Antonio Sanabria,Torino,ITA-Serie A,2122,2
+9983.0,Beto,Udinese,ITA-Serie A,2122,2
+591.0,Gerard Deulofeu,Udinese,ITA-Serie A,2122,1
+6997.0,Ignacio Pussetto,Udinese,ITA-Serie A,2122,2
+1724.0,Isaac Success,Udinese,ITA-Serie A,2122,1
+1723.0,Roberto Pereyra,Udinese,ITA-Serie A,2122,3
+9905.0,David Okereke,Venezia,ITA-Serie A,2122,2
+9882.0,Dennis Johnsen,Venezia,ITA-Serie A,2122,3
+1566.0,Mattia Aramu,Venezia,ITA-Serie A,2122,0
+4942.0,Sofian Kiyine,Venezia,ITA-Serie A,2122,0
+3751.0,Thomas Henry,Venezia,ITA-Serie A,2122,2
+5556.0,Ademola Lookman,Atalanta,ITA-Serie A,2223,4
+1148.0,Duván Zapata,Atalanta,ITA-Serie A,2223,3
+1229.0,Luis Muriel,Atalanta,ITA-Serie A,2223,0
+11055.0,Rasmus Højlund,Atalanta,ITA-Serie A,2223,2
+865.0,Marko Arnautović,Bologna,ITA-Serie A,2223,2
+10383.0,Michel Aebischer,Bologna,ITA-Serie A,2223,3
+6512.0,Musa Barrow,Bologna,ITA-Serie A,2223,0
+6160.0,Riccardo Orsolini,Bologna,ITA-Serie A,2223,2
+10939.0,Cristian Buonaiuto,Cremonese,ITA-Serie A,2223,0
+10937.0,Cyriel Dessers,Cremonese,ITA-Serie A,2223,2
+1868.0,Daniel Ciofani,Cremonese,ITA-Serie A,2223,2
+9905.0,David Okereke,Cremonese,ITA-Serie A,2223,2
+6558.0,Frank Tsadjout,Cremonese,ITA-Serie A,2223,3
+6980.0,Francesco Caputo,Empoli,ITA-Serie A,2223,2
+9001.0,Martin Satriano,Empoli,ITA-Serie A,2223,3
+9851.0,Nedim Bajrami,Empoli,ITA-Serie A,2223,1
+7576.0,Nicolò Cambiaghi,Empoli,ITA-Serie A,2223,3
+10377.0,Arthur Cabral,Fiorentina,ITA-Serie A,2223,2
+7091.0,Christian Kouamé,Fiorentina,ITA-Serie A,2223,3
+5661.0,Jonathan Ikone,Fiorentina,ITA-Serie A,2223,3
+6228.0,Luka Jović,Fiorentina,ITA-Serie A,2223,2
+7074.0,Nicolás González,Fiorentina,ITA-Serie A,2223,2
+1313.0,Riccardo Saponara,Fiorentina,ITA-Serie A,2223,1
+1253.0,Edin Džeko,Inter,ITA-Serie A,2223,4
+1809.0,Joaquín Correa,Inter,ITA-Serie A,2223,2
+7006.0,Lautaro Martínez,Inter,ITA-Serie A,2223,4
+594.0,Romelu Lukaku,Inter,ITA-Serie A,2223,4
+1583.0,Arkadiusz Milik,Juventus,ITA-Serie A,2223,2
+7084.0,Dušan Vlahović,Juventus,ITA-Serie A,2223,2
+9966.0,Fabio Miretti,Juventus,ITA-Serie A,2223,3
+64.0,Filip Kostić,Juventus,ITA-Serie A,2223,0
+1304.0,Moise Kean,Juventus,ITA-Serie A,2223,4
+3553.0,Ángel Di María,Juventus,ITA-Serie A,2223,0
+1209.0,Ciro Immobile,Lazio,ITA-Serie A,2223,2
+1208.0,Felipe Anderson,Lazio,ITA-Serie A,2223,3
+1958.0,Mattia Zaccagni,Lazio,ITA-Serie A,2223,3
+687.0,Pedro,Lazio,ITA-Serie A,2223,3
+10905.0,Assan Ceesay,Lecce,ITA-Serie A,2223,2
+1449.0,Federico Di Francesco,Lecce,ITA-Serie A,2223,3
+7944.0,Gabriel Strefezza,Lecce,ITA-Serie A,2223,0
+7628.0,Lameck Banda,Lecce,ITA-Serie A,2223,3
+8478.0,Lorenzo Colombo,Lecce,ITA-Serie A,2223,2
+6884.0,Remi Oudin,Lecce,ITA-Serie A,2223,0
+1493.0,Andrea Petagna,Monza,ITA-Serie A,2223,2
+10895.0,Dany Mota,Monza,ITA-Serie A,2223,2
+1170.0,Gianluca Caprari,Monza,ITA-Serie A,2223,3
+7500.0,Giacomo Raspadori,Napoli,ITA-Serie A,2223,1
+7999.0,Hirving Lozano,Napoli,ITA-Serie A,2223,0
+7453.0,Khvicha Kvaratskhelia,Napoli,ITA-Serie A,2223,1
+1473.0,Matteo Politano,Napoli,ITA-Serie A,2223,0
+5322.0,Victor Osimhen,Napoli,ITA-Serie A,2223,4
+1186.0,Andrea Belotti,Roma,ITA-Serie A,2223,2
+1294.0,Paulo Dybala,Roma,ITA-Serie A,2223,1
+702.0,Tammy Abraham,Roma,ITA-Serie A,2223,2
+7224.0,Boulaye Dia,Salernitana,ITA-Serie A,2223,2
+2019.0,Federico Bonazzoli,Salernitana,ITA-Serie A,2223,3
+7090.0,Krzysztof Piątek,Salernitana,ITA-Serie A,2223,2
+1383.0,Manolo Gabbiadini,Sampdoria,ITA-Serie A,2223,2
+4895.0,Andrea Pinamonti,Sassuolo,ITA-Serie A,2223,2
+6697.0,Armand Lauriente,Sassuolo,ITA-Serie A,2223,0
+1612.0,Domenico Berardi,Sassuolo,ITA-Serie A,2223,1
+1468.0,Grégoire Defrel,Sassuolo,ITA-Serie A,2223,2
+2044.0,Daniele Verde,Spezia,ITA-Serie A,2223,0
+8913.0,Emmanuel Gyasi,Spezia,ITA-Serie A,2223,3
+8010.0,Kevin Agudelo,Spezia,ITA-Serie A,2223,3
+9018.0,M'Bala Nzola,Spezia,ITA-Serie A,2223,2
+2217.0,Antonio Sanabria,Torino,ITA-Serie A,2223,2
+7160.0,Nemanja Radonjić,Torino,ITA-Serie A,2223,2
+6276.0,Nikola Vlašić,Torino,ITA-Serie A,2223,3
+9983.0,Beto,Udinese,ITA-Serie A,2223,2
+591.0,Gerard Deulofeu,Udinese,ITA-Serie A,2223,1
+1724.0,Isaac Success,Udinese,ITA-Serie A,2223,3
+8341.0,Lazar Samardzic,Udinese,ITA-Serie A,2223,0
+1723.0,Roberto Pereyra,Udinese,ITA-Serie A,2223,3
+5556.0,Ademola Lookman,Atalanta,ITA-Serie A,2324,1
+10877.0,Charles De Ketelaere,Atalanta,ITA-Serie A,2324,1
+6253.0,Gianluca Scamacca,Atalanta,ITA-Serie A,2324,4
+8662.0,Dan Ndoye,Bologna,ITA-Serie A,2324,3
+8044.0,Joshua Zirkzee,Bologna,ITA-Serie A,2324,2
+9503.0,Kacper Urbanski,Bologna,ITA-Serie A,2324,3
+1493.0,Andrea Petagna,Cagliari,ITA-Serie A,2324,3
+5954.0,Eldor Shomurodov,Cagliari,ITA-Serie A,2324,2
+11958.0,Gaetano Oristanio,Cagliari,ITA-Serie A,2324,3
+1136.0,Gianluca Lapadula,Cagliari,ITA-Serie A,2324,2
+6196.0,Nicolas Viola,Cagliari,ITA-Serie A,2324,0
+6980.0,Francesco Caputo,Empoli,ITA-Serie A,2324,2
+9071.0,Matteo Cancellieri,Empoli,ITA-Serie A,2324,3
+7576.0,Nicolò Cambiaghi,Empoli,ITA-Serie A,2324,3
+1186.0,Andrea Belotti,Fiorentina,ITA-Serie A,2324,4
+11900.0,Lucas Beltrán,Fiorentina,ITA-Serie A,2324,3
+9018.0,M'Bala Nzola,Fiorentina,ITA-Serie A,2324,2
+8825.0,Reinier,Frosinone,ITA-Serie A,2324,3
+11989.0,Walid Cheddira,Frosinone,ITA-Serie A,2324,2
+10366.0,Albert Guðmundsson,Genoa,ITA-Serie A,2324,0
+9843.0,Caleb Ekuban,Genoa,ITA-Serie A,2324,2
+8838.0,Junior Messias,Genoa,ITA-Serie A,2324,3
+11898.0,Mateo Retegui,Genoa,ITA-Serie A,2324,2
+7006.0,Lautaro Martínez,Inter,ITA-Serie A,2324,4
+5992.0,Marcus Thuram,Inter,ITA-Serie A,2324,4
+1583.0,Arkadiusz Milik,Juventus,ITA-Serie A,2324,4
+7084.0,Dušan Vlahović,Juventus,ITA-Serie A,2324,4
+1433.0,Federico Chiesa,Juventus,ITA-Serie A,2324,1
+11942.0,Kenan Yıldız,Juventus,ITA-Serie A,2324,3
+1209.0,Ciro Immobile,Lazio,ITA-Serie A,2324,2
+1208.0,Felipe Anderson,Lazio,ITA-Serie A,2324,3
+11951.0,Gustav Isaksen,Lazio,ITA-Serie A,2324,0
+1958.0,Mattia Zaccagni,Lazio,ITA-Serie A,2324,3
+10948.0,Valentín Castellanos,Lazio,ITA-Serie A,2324,2
+7944.0,Gabriel Strefezza,Lecce,ITA-Serie A,2324,3
+7628.0,Lameck Banda,Lecce,ITA-Serie A,2324,0
+12008.0,Nikola Krstović,Lecce,ITA-Serie A,2324,2
+9061.0,Pontus Almqvist,Lecce,ITA-Serie A,2324,3
+6884.0,Remi Oudin,Lecce,ITA-Serie A,2324,0
+10895.0,Dany Mota,Monza,ITA-Serie A,2324,0
+8478.0,Lorenzo Colombo,Monza,ITA-Serie A,2324,2
+7500.0,Giacomo Raspadori,Napoli,ITA-Serie A,2324,1
+7453.0,Khvicha Kvaratskhelia,Napoli,ITA-Serie A,2324,1
+1473.0,Matteo Politano,Napoli,ITA-Serie A,2324,1
+5322.0,Victor Osimhen,Napoli,ITA-Serie A,2324,4
+9036.0,Nicola Zalewski,Roma,ITA-Serie A,2324,3
+1294.0,Paulo Dybala,Roma,ITA-Serie A,2324,1
+594.0,Romelu Lukaku,Roma,ITA-Serie A,2324,2
+1252.0,Stephan El Shaarawy,Roma,ITA-Serie A,2324,3
+7224.0,Boulaye Dia,Salernitana,ITA-Serie A,2324,2
+12016.0,Chukwubuikem Ikwuemesi,Salernitana,ITA-Serie A,2324,2
+9977.0,Loum Tchaouna,Salernitana,ITA-Serie A,2324,3
+4895.0,Andrea Pinamonti,Sassuolo,ITA-Serie A,2324,2
+6697.0,Armand Lauriente,Sassuolo,ITA-Serie A,2324,0
+1612.0,Domenico Berardi,Sassuolo,ITA-Serie A,2324,0
+9851.0,Nedim Bajrami,Sassuolo,ITA-Serie A,2324,0
+2217.0,Antonio Sanabria,Torino,ITA-Serie A,2324,2
+942.0,Florian Thauvin,Udinese,ITA-Serie A,2324,1
+11936.0,Lorenzo Lucca,Udinese,ITA-Serie A,2324,2
+1723.0,Roberto Pereyra,Udinese,ITA-Serie A,2324,3
+5556.0,Ademola Lookman,Atalanta,ITA-Serie A,2425,1
+10877.0,Charles De Ketelaere,Atalanta,ITA-Serie A,2425,1
+11898.0,Mateo Retegui,Atalanta,ITA-Serie A,2425,4
+8662.0,Dan Ndoye,Bologna,ITA-Serie A,2425,3
+6160.0,Riccardo Orsolini,Bologna,ITA-Serie A,2425,1
+12528.0,Santiago Castro,Bologna,ITA-Serie A,2425,2
+10794.0,Thijs Dallinga,Bologna,ITA-Serie A,2425,2
+7507.0,Gianluca Gaetano,Cagliari,ITA-Serie A,2425,1
+6196.0,Nicolas Viola,Cagliari,ITA-Serie A,2425,0
+7375.0,Roberto Piccoli,Cagliari,ITA-Serie A,2425,2
+12081.0,Assane Diao,Como,ITA-Serie A,2425,2
+7944.0,Gabriel Strefezza,Como,ITA-Serie A,2425,0
+4918.0,Patrick Cutrone,Como,ITA-Serie A,2425,2
+8478.0,Lorenzo Colombo,Empoli,ITA-Serie A,2425,2
+7969.0,Sebastiano Esposito,Empoli,ITA-Serie A,2425,3
+10366.0,Albert Guðmundsson,Fiorentina,ITA-Serie A,2425,2
+11900.0,Lucas Beltrán,Fiorentina,ITA-Serie A,2425,3
+1304.0,Moise Kean,Fiorentina,ITA-Serie A,2425,4
+4895.0,Andrea Pinamonti,Genoa,ITA-Serie A,2425,2
+11380.0,Vitinha,Genoa,ITA-Serie A,2425,0
+7006.0,Lautaro Martínez,Inter,ITA-Serie A,2425,4
+5992.0,Marcus Thuram,Inter,ITA-Serie A,2425,4
+7084.0,Dušan Vlahović,Juventus,ITA-Serie A,2425,4
+7074.0,Nicolás González,Juventus,ITA-Serie A,2425,3
+5743.0,Randal Kolo Muani,Juventus,ITA-Serie A,2425,2
+7224.0,Boulaye Dia,Lazio,ITA-Serie A,2425,2
+1958.0,Mattia Zaccagni,Lazio,ITA-Serie A,2425,0
+687.0,Pedro,Lazio,ITA-Serie A,2425,1
+10948.0,Valentín Castellanos,Lazio,ITA-Serie A,2425,4
+12008.0,Nikola Krstović,Lecce,ITA-Serie A,2425,2
+12362.0,Santiago Pierotti,Lecce,ITA-Serie A,2425,3
+8895.0,Tete Morente,Lecce,ITA-Serie A,2425,3
+10895.0,Dany Mota,Monza,ITA-Serie A,2425,3
+1170.0,Gianluca Caprari,Monza,ITA-Serie A,2425,3
+12993.0,David Neres,Napoli,ITA-Serie A,2425,0
+7500.0,Giacomo Raspadori,Napoli,ITA-Serie A,2425,1
+7453.0,Khvicha Kvaratskhelia,Napoli,ITA-Serie A,2425,1
+1473.0,Matteo Politano,Napoli,ITA-Serie A,2425,0
+594.0,Romelu Lukaku,Napoli,ITA-Serie A,2425,2
+11736.0,Artem Dovbyk,Roma,ITA-Serie A,2425,2
+5954.0,Eldor Shomurodov,Roma,ITA-Serie A,2425,2
+1294.0,Paulo Dybala,Roma,ITA-Serie A,2425,1
+1252.0,Stephan El Shaarawy,Roma,ITA-Serie A,2425,3
+2217.0,Antonio Sanabria,Torino,ITA-Serie A,2425,3
+7700.0,Che Adams,Torino,ITA-Serie A,2425,2
+6276.0,Nikola Vlašić,Torino,ITA-Serie A,2425,3
+5700.0,Yann Karamoh,Torino,ITA-Serie A,2425,3
+11800.0,Arthur Atta,Udinese,ITA-Serie A,2425,3
+942.0,Florian Thauvin,Udinese,ITA-Serie A,2425,1
+1053.0,Keinan Davis,Udinese,ITA-Serie A,2425,2
+11936.0,Lorenzo Lucca,Udinese,ITA-Serie A,2425,2
+11958.0,Gaetano Oristanio,Venezia,ITA-Serie A,2425,3
+5222.0,Joel Pohjanpalo,Venezia,ITA-Serie A,2425,2
+7234.0,John Yeboah,Venezia,ITA-Serie A,2425,3

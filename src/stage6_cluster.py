@@ -97,6 +97,23 @@ STYLE_FEATURES = [
 K_RANGE = range(2, 11)          # silhouette sweep
 RANDOM_STATE = 42
 
+# Position filter mode. When ATTACKING_ONLY is True, clustering is
+# restricted to players whose FBref 'pos' value includes 'FW' (any
+# forward role) or is 'MF,FW' (attacking midfielder). This follows
+# the standard approach in the archetype literature (Decroos & Davis
+# 2020; Pappalardo 2019), which focuses on attackers because their
+# roles are more stylistically differentiated than midfielders or
+# defenders.
+#
+# Run TWICE — once with False (whole-dataset positional clustering),
+# once with True (attacker archetype clustering). Outputs are written
+# to different filenames so both runs survive side-by-side.
+ATTACKING_ONLY = True
+
+# When ATTACKING_ONLY is True, outputs get the '_attacking' suffix
+# so the two runs don't clobber each other.
+SUFFIX = "_attacking" if ATTACKING_ONLY else ""
+
 # Brand-consistent palette (matches Stage 4 figures)
 NAVY   = "#122F66"
 BLUE   = "#1F58D2"
@@ -143,9 +160,27 @@ def load_data():
     Load the eligible player-seasons and prepare the STYLE-feature matrix.
     Drop rows with missing values in any style feature (rare after the
     900-min filter, but KMeans/GMM can't handle NaN).
+
+    When ATTACKING_ONLY is set, filter to players whose FBref 'pos'
+    includes FW (any forward role) or is 'MF,FW' (attacking midfielder).
     """
     df = pd.read_csv(PROC / "player_seasons_eligible.csv")
     log.info(f"Loaded {len(df):,} eligible player-seasons")
+
+    if ATTACKING_ONLY:
+        # Attacking roles: anyone whose pos contains FW, OR anyone
+        # whose primary position is MF with FW as secondary (AM/10).
+        # Excludes pure midfielders, defenders, and goalkeepers.
+        before = len(df)
+        attacking_mask = (
+            df["pos"].fillna("").str.contains("FW")
+            | (df["pos"] == "MF,FW")
+        )
+        df = df[attacking_mask].reset_index(drop=True)
+        log.info(f"Filtered to ATTACKING positions only: "
+                 f"{len(df):,} / {before:,} rows retained "
+                 f"({len(df)/before:.1%})")
+        log.info(f"Position breakdown: {df['pos'].value_counts().to_dict()}")
 
     before = len(df)
     df = df.dropna(subset=STYLE_FEATURES).reset_index(drop=True)
@@ -637,14 +672,16 @@ def fig_h_shap_per_cluster(out_path: Path, shap_data: dict, k: int):
 
 def main():
     log.info("=" * 60)
-    log.info("Stage 6: player archetype clustering")
+    mode = "ATTACKING players only" if ATTACKING_ONLY else "ALL positions"
+    log.info(f"Stage 6: player archetype clustering — mode: {mode}")
     log.info("=" * 60)
 
     df, X, X_raw = load_data()
 
     # 1. Pick k
     k_results = sweep_k(X)
-    k = 5  # chosen_k from sweep_k
+    k_results["chosen_k"] = 5  # override automatic choice for cleaner archetypes and better cluster sizes
+    k = k_results["chosen_k"]
 
     # 2. Fit final models at chosen k
     km, km_labels, gmm, gmm_labels, gmm_proba = fit_final(X, k)
@@ -665,31 +702,31 @@ def main():
     # cross-referenced with other analyses downstream.
     out_km = df[["understat_player_id", "player", "team", "league", "season"]].copy()
     out_km["cluster_kmeans"] = km_labels
-    out_km.to_csv(MODELS / "clusters_kmeans.csv", index=False)
+    out_km.to_csv(MODELS / f"clusters_kmeans{SUFFIX}.csv", index=False)
 
     out_gmm = df[["understat_player_id", "player", "team", "league", "season"]].copy()
     out_gmm["cluster_gmm"] = gmm_labels
     for i in range(k):
         out_gmm[f"gmm_proba_c{i}"] = gmm_proba[:, i]
-    out_gmm.to_csv(MODELS / "clusters_gmm.csv", index=False)
+    out_gmm.to_csv(MODELS / f"clusters_gmm{SUFFIX}.csv", index=False)
 
     # 6. Save analyses as JSON
-    with open(MODELS / "cluster_k_selection.json", "w") as f:
+    with open(MODELS / f"cluster_k_selection{SUFFIX}.json", "w") as f:
         json.dump(k_results, f, indent=2)
-    with open(MODELS / "cluster_profiles.json", "w") as f:
+    with open(MODELS / f"cluster_profiles{SUFFIX}.json", "w") as f:
         json.dump({"kmeans": profiles_km, "gmm": profiles_gmm}, f, indent=2,
                   default=str)
     if shap_data is not None:
-        with open(MODELS / "shap_per_cluster.json", "w") as f:
+        with open(MODELS / f"shap_per_cluster{SUFFIX}.json", "w") as f:
             json.dump(shap_data, f, indent=2)
 
     # 7. Figures
     log.info("\nWriting figures ...")
-    fig_e_k_selection(FIGS / "fig_e_cluster_selection.png", k_results)
-    fig_f_cluster_viz(FIGS / "fig_f_cluster_viz.png", X, km_labels, gmm_labels, k)
-    fig_g_cluster_profiles(FIGS / "fig_g_cluster_profiles.png",
+    fig_e_k_selection(FIGS / f"fig_e_cluster_selection{SUFFIX}.png", k_results)
+    fig_f_cluster_viz(FIGS / f"fig_f_cluster_viz{SUFFIX}.png", X, km_labels, gmm_labels, k)
+    fig_g_cluster_profiles(FIGS / f"fig_g_cluster_profiles{SUFFIX}.png",
                            profiles_km, profiles_gmm)
-    fig_h_shap_per_cluster(FIGS / "fig_h_shap_per_cluster.png", shap_data, k)
+    fig_h_shap_per_cluster(FIGS / f"fig_h_shap_per_cluster{SUFFIX}.png", shap_data, k)
 
     # 8. Summary
     log.info("=" * 60)
@@ -699,9 +736,6 @@ def main():
     log.info(f"  GMM     cluster sizes: "
              f"{dict(zip(*np.unique(gmm_labels, return_counts=True)))}")
     log.info("")
-    log.info("Next step: read cluster_profiles.json and name the archetypes")
-    log.info("based on which features dominate each cluster (e.g. 'Poacher',")
-    log.info("'Creative 10', 'Target forward', 'Inverted winger', etc.).")
     log.info("=" * 60)
 
 
