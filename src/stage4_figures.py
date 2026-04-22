@@ -43,7 +43,7 @@ FIGS = Path("./figures")
 FIGS.mkdir(parents=True, exist_ok=True)
 
 # University of Reading inspired palette. Primary navy is UoR brand;
-# accent reds/greens used sparingly. Keep consistent across all 4 figs.
+# accent reds/greens used sparingly.
 NAVY   = "#122F66"   # primary
 BLUE   = "#1F58D2"   # secondary (header banner)
 LIGHT  = "#E8EFFA"   # very light blue background tint
@@ -58,7 +58,7 @@ CMAP_BLUES = LinearSegmentedColormap.from_list(
 CMAP_DIV = LinearSegmentedColormap.from_list(
     "uor_div", [RED, "#F8F9FA", BLUE])
 
-# Typography. Stick with one family so the four figures look unified.
+# Typography
 plt.rcParams.update({
     "font.family":      "DejaVu Sans",      # ships with matplotlib
     "font.size":        12,
@@ -83,7 +83,7 @@ logging.basicConfig(
 log = logging.getLogger("stage4")
 
 
-# ------------------------------------------------------------------ A) pipeline
+# pipeline
 
 def fig_a_pipeline(out_path: Path, metrics: dict) -> None:
     """
@@ -174,17 +174,31 @@ def fig_a_pipeline(out_path: Path, metrics: dict) -> None:
     log.info(f"  wrote {out_path}")
 
 
-# ------------------------------------------------------------------ B) confusion
+# confusion
 
 def fig_b_confusion(out_path: Path, metrics: dict) -> None:
     """
-    Confusion matrix for the headline RF classifier, with both raw counts
-    and row-normalized percentages in each cell. Headline metrics
-    (accuracy, macro-F1, per-class F1) annotated below.
+    Confusion matrix for the headline classifier (the best one in
+    metrics — works for both baseline RF and tuned RF/XGB outputs).
+    Both raw counts and row-normalized percentages in each cell.
+    Headline metrics annotated below.
     """
-    rf = next(r for r in metrics["classification"] if r["model"] == "RF")
-    cm = np.array(rf["confusion_matrix"])
-    labels = rf["labels"]
+    # Pick the best classifier in this metrics file. For Stage 5
+    # (tuned), the metrics dict has a 'best_classifier' key that
+    # tells us which row to highlight. For Stage 3 (baseline), we
+    # default to the RF row.
+    if "best_classifier" in metrics:
+        best_name = metrics["best_classifier"]
+        # The matching row will be e.g. "RF (tuned)" or "XGB (tuned)"
+        best = next(r for r in metrics["classification"]
+                    if r["model"].startswith(best_name))
+        title_model = f"{best_name} Tuned"
+    else:
+        best = next(r for r in metrics["classification"] if r["model"] == "RF")
+        title_model = "Random Forest Baseline"
+
+    cm = np.array(best["confusion_matrix"])
+    labels = best["labels"]
     cm_pct = cm / cm.sum(axis=1, keepdims=True) * 100
 
     fig, ax = plt.subplots(figsize=(8, 6.5))
@@ -210,8 +224,8 @@ def fig_b_confusion(out_path: Path, metrics: dict) -> None:
 
     # Title with headline metrics
     ax.set_title(
-        f"Next-Season Tertile Classification (Random Forest)\n"
-        f"Accuracy = {rf['accuracy']:.1%}   ·   Macro-F1 = {rf['macro_f1']:.2f}",
+        f"Next-Season Tertile Classification ({title_model})\n"
+        f"Accuracy = {best['accuracy']:.1%}   ·   Macro-F1 = {best['macro_f1']:.2f}",
         pad=18,
     )
 
@@ -220,7 +234,7 @@ def fig_b_confusion(out_path: Path, metrics: dict) -> None:
     # from the 'Predicted next-season tertile' axis label above it.
     FOOTER = "#4A5566"   # darker than GREY, still clearly secondary
     f1s = " · ".join(
-        f"{c.upper()}: F1={rf['report'][c]['f1-score']:.2f}" for c in labels
+        f"{c.upper()}: F1={best['report'][c]['f1-score']:.2f}" for c in labels
     )
     # Move closer to the bottom edge and make the text non-italic so
     # it reads more legibly at poster scale.
@@ -238,9 +252,9 @@ def fig_b_confusion(out_path: Path, metrics: dict) -> None:
     log.info(f"  wrote {out_path}")
 
 
-# ------------------------------------------------------------------ C) SHAP
+# SHAP
 
-def fig_c_shap(out_path: Path) -> None:
+def fig_c_shap(out_path: Path, shap_npz_path: Path) -> None:
     """
     Mean |SHAP| per feature, broken down by predicted class (low/mid/high).
 
@@ -248,7 +262,7 @@ def fig_c_shap(out_path: Path) -> None:
     which features drive predictions for different player profiles —
     directly relevant to the archetype/explainability story.
     """
-    z = np.load(MODELS / "shap_values.npz", allow_pickle=True)
+    z = np.load(shap_npz_path, allow_pickle=True)
     shap_low  = z["shap_low"]
     shap_mid  = z["shap_mid"]
     shap_high = z["shap_high"]
@@ -277,8 +291,9 @@ def fig_c_shap(out_path: Path) -> None:
 
     # Shared x-limit so panels are visually comparable. Without sharing,
     # the LOW panel (big SHAP values) and HIGH panel (small ones) would
-    # show same-length bars for very different magnitudes.
-    xmax = max(lo.max(), md.max(), hi.max()) * 1.15
+    # show same-length bars for very different magnitudes. Extra 25%
+    # margin (rather than 15%) because labels now sit OUTSIDE the bars.
+    xmax = max(lo.max(), md.max(), hi.max()) * 1.25
 
     for ax, title, vals, colour in zip(axes, titles, series, colours):
         bars = ax.barh(feat, vals, color=colour, alpha=0.85,
@@ -289,20 +304,15 @@ def fig_c_shap(out_path: Path) -> None:
         ax.tick_params(axis="x", labelsize=9)
         ax.set_xlabel("mean |SHAP|", fontsize=10)
         ax.grid(axis="x", linestyle=":", alpha=0.4)
-        # Value labels on EVERY bar. Short bars get their label OUTSIDE
-        # the bar in dark text; long bars get it INSIDE in white. This
-        # keeps the figure consistent (all bars labelled) without making
-        # the short bars unreadable.
-        threshold = xmax * 0.22
+        # Value labels on EVERY bar, uniformly styled: all placed just
+        # outside the bar end in dark text at the same size. This avoids
+        # the two-style inconsistency (white-inside for long bars,
+        # dark-outside for short bars) which reads as two different
+        # labelling systems on one chart.
         for bar, v in zip(bars, vals):
-            if v >= threshold:
-                ax.text(v - xmax * 0.015, bar.get_y() + bar.get_height()/2,
-                        f"{v:.3f}", ha="right", va="center",
-                        fontsize=9, color="white", fontweight="bold")
-            else:
-                ax.text(v + xmax * 0.01, bar.get_y() + bar.get_height()/2,
-                        f"{v:.3f}", ha="left", va="center",
-                        fontsize=8, color=DARK_TEXT)
+            ax.text(v + xmax * 0.012, bar.get_y() + bar.get_height()/2,
+                    f"{v:.3f}", ha="left", va="center",
+                    fontsize=9, color=DARK_TEXT, fontweight="bold")
 
     fig.suptitle("Feature Importance by Predicted Class (SHAP)",
                  fontsize=16, fontweight="bold", color=NAVY, y=0.97)
@@ -320,9 +330,9 @@ def fig_c_shap(out_path: Path) -> None:
     log.info(f"  wrote {out_path}")
 
 
-# ------------------------------------------------------------------ D) regression
+# regression
 
-def fig_d_regression(out_path: Path, metrics: dict) -> None:
+def fig_d_regression(out_path: Path, metrics: dict, preds_path: Path) -> None:
     """
     Predicted vs actual G+A/90 on the test set.
 
@@ -332,8 +342,17 @@ def fig_d_regression(out_path: Path, metrics: dict) -> None:
     predicted players annotated by name — grounds the abstract scatter
     in actual football.
     """
-    df = pd.read_csv(MODELS / "test_set_with_preds.csv")
-    rf = next(r for r in metrics["regression"] if r["model"] == "RF")
+    df = pd.read_csv(preds_path)
+
+    # Pick the best regressor (works for both baseline and tuned metrics).
+    if "best_regressor" in metrics:
+        best_name = metrics["best_regressor"]
+        best = next(r for r in metrics["regression"]
+                    if r["model"].startswith(best_name))
+        title_model = f"{best_name} Tuned"
+    else:
+        best = next(r for r in metrics["regression"] if r["model"] == "RF")
+        title_model = "Random Forest Baseline"
 
     x = df["true_GA_p90_nxt"].values
     y = df["pred_GA_p90_nxt"].values
@@ -358,9 +377,9 @@ def fig_d_regression(out_path: Path, metrics: dict) -> None:
     ax.set_xlabel("Actual next-season G+A per 90", fontweight="bold")
     ax.set_ylabel("Predicted next-season G+A per 90", fontweight="bold")
     ax.set_title(
-        f"Regression: Predicting Next-Season G+A/90 (Random Forest)\n"
-        f"R² = {rf['r2']:.3f}   ·   RMSE = {rf['rmse']:.3f}   ·   "
-        f"MAE = {rf['mae']:.3f}",
+        f"Regression: Predicting Next-Season G+A/90 ({title_model})\n"
+        f"R² = {best['r2']:.3f}   ·   RMSE = {best['rmse']:.3f}   ·   "
+        f"MAE = {best['mae']:.3f}",
         pad=18,
     )
     ax.grid(linestyle=":", alpha=0.4)
@@ -393,19 +412,33 @@ def fig_d_regression(out_path: Path, metrics: dict) -> None:
     log.info(f"  wrote {out_path}")
 
 
-# ------------------------------------------------------------------ main
+# main
 
 def main():
     log.info("=" * 60)
     log.info("Stage 4: poster figures")
     log.info("=" * 60)
 
-    metrics = json.load(open(MODELS / "metrics.json"))
+    # Prefer tuned outputs if Stage 5 has run; fall back to baseline
+    # if not. This way the same script regenerates the right figures
+    # whether you've tuned or not.
+    if (MODELS / "metrics_tuned.json").exists():
+        log.info("Using TUNED model outputs from Stage 5")
+        metrics_path = MODELS / "metrics_tuned.json"
+        shap_path    = MODELS / "shap_values_tuned.npz"
+        preds_path   = MODELS / "test_set_with_preds_tuned.csv"
+    else:
+        log.info("Using BASELINE model outputs from Stage 3")
+        metrics_path = MODELS / "metrics.json"
+        shap_path    = MODELS / "shap_values.npz"
+        preds_path   = MODELS / "test_set_with_preds.csv"
+
+    metrics = json.load(open(metrics_path))
 
     fig_a_pipeline (FIGS / "fig_a_pipeline.png",  metrics)
     fig_b_confusion(FIGS / "fig_b_confusion.png", metrics)
-    fig_c_shap     (FIGS / "fig_c_shap.png")
-    fig_d_regression(FIGS / "fig_d_regression.png", metrics)
+    fig_c_shap     (FIGS / "fig_c_shap.png",      shap_path)
+    fig_d_regression(FIGS / "fig_d_regression.png", metrics, preds_path)
 
     log.info("=" * 60)
     log.info("Done. Files:")
