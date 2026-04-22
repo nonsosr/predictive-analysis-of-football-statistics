@@ -1,0 +1,176 @@
+{
+  "classification": [
+    {
+      "model": "RF",
+      "accuracy": 0.6761517615176151,
+      "macro_f1": 0.6732292515586448,
+      "confusion_matrix": [
+        [
+          162,
+          81,
+          7
+        ],
+        [
+          58,
+          127,
+          51
+        ],
+        [
+          0,
+          42,
+          210
+        ]
+      ],
+      "labels": [
+        "low",
+        "mid",
+        "high"
+      ],
+      "report": {
+        "low": {
+          "precision": 0.7363636363636363,
+          "recall": 0.648,
+          "f1-score": 0.6893617021276596,
+          "support": 250.0
+        },
+        "mid": {
+          "precision": 0.508,
+          "recall": 0.538135593220339,
+          "f1-score": 0.522633744855967,
+          "support": 236.0
+        },
+        "high": {
+          "precision": 0.7835820895522388,
+          "recall": 0.8333333333333334,
+          "f1-score": 0.8076923076923077,
+          "support": 252.0
+        },
+        "accuracy": 0.6761517615176151,
+        "macro avg": {
+          "precision": 0.6759819086386251,
+          "recall": 0.6731563088512241,
+          "f1-score": 0.6732292515586448,
+          "support": 738.0
+        },
+        "weighted avg": {
+          "precision": 0.6794601567182565,
+          "recall": 0.6761517615176151,
+          "f1-score": 0.6764504754151554,
+          "support": 738.0
+        }
+      }
+    },
+    {
+      "model": "LogReg (baseline)",
+      "accuracy": 0.6815718157181572,
+      "macro_f1": 0.677875015311607,
+      "confusion_matrix": [
+        [
+          178,
+          68,
+          4
+        ],
+        [
+          73,
+          120,
+          43
+        ],
+        [
+          0,
+          47,
+          205
+        ]
+      ],
+      "labels": [
+        "low",
+        "mid",
+        "high"
+      ],
+      "report": {
+        "low": {
+          "precision": 0.7091633466135459,
+          "recall": 0.712,
+          "f1-score": 0.7105788423153693,
+          "support": 250.0
+        },
+        "mid": {
+          "precision": 0.5106382978723404,
+          "recall": 0.5084745762711864,
+          "f1-score": 0.5095541401273885,
+          "support": 236.0
+        },
+        "high": {
+          "precision": 0.8134920634920635,
+          "recall": 0.8134920634920635,
+          "f1-score": 0.8134920634920635,
+          "support": 252.0
+        },
+        "accuracy": 0.6815718157181572,
+        "macro avg": {
+          "precision": 0.6777645693259832,
+          "recall": 0.6779888799210833,
+          "f1-score": 0.677875015311607,
+          "support": 738.0
+        },
+        "weighted avg": {
+          "precision": 0.6813028115870715,
+          "recall": 0.6815718157181572,
+          "f1-score": 0.6814356201204689,
+          "support": 738.0
+        }
+      }
+    }
+  ],
+  "regression": [
+    {
+      "model": "RF",
+      "r2": 0.6656210057335841,
+      "rmse": 0.14314926782592002,
+      "mae": 0.09349707440929256
+    },
+    {
+      "model": "Linear (baseline)",
+      "r2": 0.6729080236866742,
+      "rmse": 0.14158087201737432,
+      "mae": 0.09454977325255481
+    }
+  ],
+  "split": {
+    "train_seasons": [
+      1718,
+      1819,
+      1920,
+      2021,
+      2122,
+      2223
+    ],
+    "test_season": 2324,
+    "n_train": 4574,
+    "n_test": 738
+  },
+  "features": [
+    "npxG_p90",
+    "xA_p90",
+    "npxG_plus_xA_p90",
+    "xG_p90",
+    "key_passes_p90",
+    "xGChain_p90",
+    "xGBuildup_p90",
+    "shots_p90",
+    "shots_on_target_p90",
+    "xG_per_shot",
+    "GA_p90",
+    "np_goals_p90",
+    "crosses_p90",
+    "interceptions_p90",
+    "tackles_won_p90",
+    "fouls_drawn_p90",
+    "offsides_p90",
+    "team_goals_p90",
+    "team_possession",
+    "share_team_goals",
+    "share_team_shots",
+    "minutes_pct",
+    "age"
+  ]
+}
