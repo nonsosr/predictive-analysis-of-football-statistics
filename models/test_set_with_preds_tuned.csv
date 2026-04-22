@@ -1,0 +1,739 @@
+player,team,league,season,GA_p90,npxG_plus_xA_p90,age,pred_tertile,true_tertile,true_GA_p90_nxt,pred_GA_p90_nxt
+Ben White,Arsenal,ENG-Premier League,2324,0.24,0.2040586056165307,25.0,mid,mid,0.15,0.19596474
+Bukayo Saka,Arsenal,ENG-Premier League,2324,0.77,0.7265990657036989,21.0,high,high,0.83,0.61809945
+David Raya,Arsenal,ENG-Premier League,2324,0.0,0.0,27.0,low,low,0.0,0.0073517184
+Declan Rice,Arsenal,ENG-Premier League,2324,0.42,0.2534268801035576,24.0,high,high,0.35,0.2951657
+Eddie Nketiah,Arsenal,ENG-Premier League,2324,0.58,0.5212890557504075,24.0,high,high,0.35,0.5261805
+Gabriel Martinelli,Arsenal,ENG-Premier League,2324,0.45,0.5546480443544498,22.0,high,high,0.47,0.5221151
+Jakub Kiwior,Arsenal,ENG-Premier League,2324,0.38,0.2001885436160242,23.0,mid,mid,0.08,0.18054561
+Kai Havertz,Arsenal,ENG-Premier League,2324,0.68,0.6327653174333121,24.0,high,high,0.58,0.55529976
+Leandro Trossard,Arsenal,ENG-Premier League,2324,0.71,0.7001247515889497,28.0,high,high,0.53,0.55467856
+Martin Ødegaard,Arsenal,ENG-Premier League,2324,0.52,0.5161044846729664,24.0,high,high,0.43,0.49951842
+William Saliba,Arsenal,ENG-Premier League,2324,0.08,0.0688447501069228,22.0,low,low,0.06,0.07241848
+Boubacar Kamara,Aston Villa,ENG-Premier League,2324,0.05,0.0675314495939824,23.0,low,low,0.05,0.09943408
+Clément Lenglet,Aston Villa,ENG-Premier League,2324,0.08,0.1436045069929215,28.0,mid,mid,0.14,0.07002097
+Emiliano Martínez,Aston Villa,ENG-Premier League,2324,0.0,0.000550881306182,30.0,low,low,0.0,0.005272558
+John McGinn,Aston Villa,ENG-Premier League,2324,0.3,0.3090769582915282,28.0,high,mid,0.2,0.2606678
+Leon Bailey,Aston Villa,ENG-Premier League,2324,0.83,0.7296059260998691,25.0,high,mid,0.24,0.53536063
+Lucas Digne,Aston Villa,ENG-Premier League,2324,0.15,0.1578904836287884,30.0,mid,mid,0.15,0.17297092
+Ollie Watkins,Aston Villa,ENG-Premier League,2324,0.9,0.7556514956409104,27.0,high,high,0.83,0.71081287
+Pau Torres,Aston Villa,ENG-Premier League,2324,0.07,0.0786596521479682,26.0,low,low,0.0,0.07991191
+Youri Tielemans,Aston Villa,ENG-Premier League,2324,0.44,0.2252362374648102,26.0,mid,high,0.3,0.21054156
+Álex Moreno,Aston Villa,ENG-Premier League,2324,0.17,0.2272146450451401,30.0,mid,mid,0.09,0.16067171
+Adam Smith,Bournemouth,ENG-Premier League,2324,0.08,0.0628453065143075,32.0,low,low,0.0,0.06740876
+Antoine Semenyo,Bournemouth,ENG-Premier League,2324,0.43,0.4371109661732462,23.0,high,high,0.45,0.41647613
+Dango Ouattara,Bournemouth,ENG-Premier League,2324,0.22,0.3304761136594805,21.0,high,high,0.49,0.27842084
+Illia Zabarnyi,Bournemouth,ENG-Premier League,2324,0.03,0.0572891186520054,20.0,low,low,0.03,0.070483014
+Justin Kluivert,Bournemouth,ENG-Premier League,2324,0.38,0.4211680419910271,24.0,high,high,0.69,0.3974741
+Lewis Cook,Bournemouth,ENG-Premier League,2324,0.1,0.1321363108525452,26.0,mid,mid,0.12,0.122146055
+Lloyd Kelly,Bournemouth,ENG-Premier League,2324,0.06,0.113142405859433,24.0,mid,low,0.0,0.088192575
+Marcos Senesi,Bournemouth,ENG-Premier League,2324,0.36,0.1706351618549182,26.0,mid,low,0.0,0.14231192
+Marcus Tavernier,Bournemouth,ENG-Premier League,2324,0.3,0.4525461097751815,24.0,high,high,0.37,0.38880104
+Milos Kerkez,Bournemouth,ENG-Premier League,2324,0.05,0.1411122705380853,19.0,mid,mid,0.19,0.13409701
+Ryan Christie,Bournemouth,ENG-Premier League,2324,0.15,0.2598164851082368,28.0,mid,mid,0.21,0.2269985
+Bryan Mbeumo,Brentford,ENG-Premier League,2324,0.69,0.5517110720238819,23.0,high,high,0.71,0.58640707
+Christian Nørgaard,Brentford,ENG-Premier League,2324,0.11,0.2207064895282783,29.0,mid,high,0.29,0.17898561
+Ethan Pinnock,Brentford,ENG-Premier League,2324,0.07,0.1415682599637088,30.0,low,mid,0.09,0.07525175
+Frank Onyeka,Brentford,ENG-Premier League,2324,0.23,0.2988009546096473,25.0,high,low,0.03,0.30331016
+Keane Lewis-Potter,Brentford,ENG-Premier League,2324,0.25,0.6368338896283501,22.0,high,mid,0.12,0.44981644
+Kristoffer Ajer,Brentford,ENG-Premier League,2324,0.15,0.1998658370181885,25.0,mid,low,0.0,0.12952977
+Mads Roerslev,Brentford,ENG-Premier League,2324,0.14,0.1447664885605762,24.0,mid,mid,0.16,0.103292376
+Mark Flekken,Brentford,ENG-Premier League,2324,0.03,0.0079776777388298,30.0,low,low,0.05,0.0030543795
+Nathan Collins,Brentford,ENG-Premier League,2324,0.07,0.1364181620148916,22.0,mid,mid,0.13,0.08022021
+Neal Maupay,Brentford,ENG-Premier League,2324,0.61,0.6549233679196471,26.0,high,high,0.69,0.52853405
+Vitaly Janelt,Brentford,ENG-Premier League,2324,0.12,0.1865565537224379,25.0,mid,mid,0.16,0.14644298
+Yoane Wissa,Brentford,ENG-Premier League,2324,0.54,0.5414628436526667,26.0,high,high,0.71,0.5121647
+Bart Verbruggen,Brighton,ENG-Premier League,2324,0.0,0.0,20.0,low,low,0.03,0.010993208
+Billy Gilmour,Brighton,ENG-Premier League,2324,0.04,0.1196754718845147,22.0,mid,low,0.08,0.17641279
+Carlos Baleba,Brighton,ENG-Premier League,2324,0.0,0.0828265365388876,19.0,mid,mid,0.14,0.12435312
+Danny Welbeck,Brighton,ENG-Premier League,2324,0.32,0.4481524859466499,32.0,high,high,0.6,0.40499428
+Jan Paul van Hecke,Brighton,ENG-Premier League,2324,0.0,0.078720767451973,23.0,low,low,0.06,0.08544393
+João Pedro,Brighton,ENG-Premier League,2324,0.53,0.5956952414113328,21.0,high,high,0.74,0.51600075
+Joël Veltman,Brighton,ENG-Premier League,2324,0.11,0.0717947390036052,31.0,low,low,0.0,0.08328704
+Kaoru Mitoma,Brighton,ENG-Premier League,2324,0.42,0.4886201312351835,26.0,high,high,0.48,0.47742182
+Lewis Dunk,Brighton,ENG-Premier League,2324,0.13,0.1297030852845931,31.0,mid,low,0.0,0.09040376
+Simon Adingra,Brighton,ENG-Premier League,2324,0.28,0.3401836056285726,21.0,high,high,0.33,0.41632232
+Lorenz Assignon,Burnley,ENG-Premier League,2324,0.22,0.1811507564019925,23.0,mid,mid,0.27,0.13471337
+Sander Berge,Burnley,ENG-Premier League,2324,0.09,0.1589466375786928,25.0,mid,low,0.0,0.12173668
+Cole Palmer,Chelsea,ENG-Premier League,2324,1.14,0.7888729564879858,21.0,high,high,0.65,0.88131005
+Conor Gallagher,Chelsea,ENG-Premier League,2324,0.35,0.302405613849697,23.0,high,high,0.33,0.31652528
+Enzo Fernández,Chelsea,ENG-Premier League,2324,0.2,0.3334390493586234,22.0,high,high,0.4,0.39120176
+Levi Colwill,Chelsea,ENG-Premier League,2324,0.1,0.1008690088265925,20.0,mid,mid,0.09,0.111462586
+Malo Gusto,Chelsea,ENG-Premier League,2324,0.31,0.370473478421322,20.0,mid,low,0.05,0.28378588
+Marc Cucurella,Chelsea,ENG-Premier League,2324,0.1,0.136788221490052,25.0,mid,mid,0.18,0.16104716
+Moisés Caicedo,Chelsea,ENG-Premier League,2324,0.13,0.0878113992716948,21.0,low,mid,0.08,0.111465365
+Nicolas Jackson,Chelsea,ENG-Premier League,2324,0.61,0.8084981387834456,22.0,high,high,0.61,0.64721954
+Noni Madueke,Chelsea,ENG-Premier League,2324,0.6,0.376334533923202,21.0,high,high,0.44,0.4477395
+Robert Sánchez,Chelsea,ENG-Premier League,2324,0.0,0.0,25.0,low,low,0.0,0.009294508
+Trevoh Chalobah,Chelsea,ENG-Premier League,2324,0.09,0.0410347293764978,24.0,low,mid,0.1,0.07471929
+Adam Wharton,Crystal Palace,ENG-Premier League,2324,0.21,0.2020517386691379,19.0,mid,mid,0.14,0.15274622
+Chris Richards,Crystal Palace,ENG-Premier League,2324,0.09,0.0566123053564938,23.0,low,low,0.05,0.07068643
+Daniel Muñoz,Crystal Palace,ENG-Premier League,2324,0.25,0.3027357471960546,27.0,mid,mid,0.25,0.21581465
+Dean Henderson,Crystal Palace,ENG-Premier League,2324,0.0,0.0,26.0,low,low,0.0,0.0073014167
+Eberechi Eze,Crystal Palace,ENG-Premier League,2324,0.66,0.6769389989819841,25.0,high,high,0.56,0.5485248
+Jean-Philippe Mateta,Crystal Palace,ENG-Premier League,2324,0.83,0.5637915798452316,26.0,high,high,0.54,0.61775935
+Jefferson Lerma,Crystal Palace,ENG-Premier League,2324,0.07,0.1808731536730192,28.0,mid,low,0.04,0.17815106
+Marc Guéhi,Crystal Palace,ENG-Premier League,2324,0.04,0.0646371172279311,23.0,low,mid,0.15,0.06275543
+Michael Olise,Crystal Palace,ENG-Premier League,2324,1.13,0.7145582849926808,21.0,high,high,1.04,0.6472309
+Tyrick Mitchell,Crystal Palace,ENG-Premier League,2324,0.14,0.1642768551187401,23.0,mid,mid,0.15,0.14815845
+Will Hughes,Crystal Palace,ENG-Premier League,2324,0.05,0.0955553265265816,28.0,mid,mid,0.13,0.095978305
+Abdoulaye Doucouré,Everton,ENG-Premier League,2324,0.27,0.4367227844763568,30.0,high,mid,0.18,0.38341463
+Amadou Onana,Everton,ENG-Premier League,2324,0.09,0.2138013682105021,21.0,mid,mid,0.17,0.1791753
+Ashley Young,Everton,ENG-Premier League,2324,0.0,0.1200101306343353,38.0,mid,mid,0.19,0.09938804
+Beto,Everton,ENG-Premier League,2324,0.28,0.719244729753948,25.0,high,high,0.47,0.46809268
+Dominic Calvert-Lewin,Everton,ENG-Premier League,2324,0.37,0.6290208907087537,26.0,high,mid,0.22,0.4488318
+Dwight McNeil,Everton,ENG-Premier League,2324,0.28,0.4346231662733983,23.0,high,high,0.66,0.31879425
+Jack Harrison,Everton,ENG-Premier League,2324,0.24,0.3454071388587476,26.0,mid,low,0.04,0.23606032
+James Garner,Everton,ENG-Premier League,2324,0.09,0.2250727693105089,22.0,mid,low,0.06,0.2092659
+James Tarkowski,Everton,ENG-Premier League,2324,0.05,0.1658764241318294,30.0,mid,low,0.06,0.099333435
+Jarrad Branthwaite,Everton,ENG-Premier League,2324,0.09,0.0821113697834796,21.0,low,low,0.04,0.0626714
+Jordan Pickford,Everton,ENG-Premier League,2324,0.0,0.0035685243722247,29.0,low,low,0.03,0.0026879725
+Andreas Pereira,Fulham,ENG-Premier League,2324,0.34,0.4158640200064766,27.0,high,mid,0.27,0.42673585
+Antonee Robinson,Fulham,ENG-Premier League,2324,0.17,0.1273729806283851,25.0,mid,high,0.28,0.10763842
+Bernd Leno,Fulham,ENG-Premier League,2324,0.0,0.0,31.0,low,low,0.03,0.0034125987
+Calvin Bassey,Fulham,ENG-Premier League,2324,0.04,0.0185411425790241,23.0,low,low,0.03,0.060588885
+Harry Wilson,Fulham,ENG-Premier League,2324,0.56,0.3316721857214967,26.0,high,high,0.54,0.38095206
+Issa Diop,Fulham,ENG-Premier League,2324,0.0,0.0169846046260777,26.0,low,low,0.0,0.0498012
+Raúl Jiménez,Fulham,ENG-Premier League,2324,0.45,0.4956418017466222,32.0,high,high,0.54,0.46245417
+Rodrigo Muniz,Fulham,ENG-Premier League,2324,0.56,0.5576437149765128,22.0,high,high,0.84,0.57710415
+Saša Lukić,Fulham,ENG-Premier League,2324,0.08,0.1518071000090735,26.0,mid,mid,0.08,0.12704517
+Timothy Castagne,Fulham,ENG-Premier League,2324,0.14,0.0998029111649052,27.0,mid,low,0.05,0.091695674
+Tosin Adarabioyo,Fulham,ENG-Premier League,2324,0.11,0.0603499486938754,25.0,low,mid,0.13,0.06648025
+Alexis Mac Allister,Liverpool,ENG-Premier League,2324,0.35,0.2360259727067835,24.0,mid,high,0.35,0.24727459
+Alisson,Liverpool,ENG-Premier League,2324,0.0,0.0,30.0,low,low,0.0,0.009246279
+Andrew Robertson,Liverpool,ENG-Premier League,2324,0.27,0.4831188318154038,29.0,high,low,0.04,0.29050526
+Caoimhín Kelleher,Liverpool,ENG-Premier League,2324,0.0,0.0044807832688093,24.0,low,low,0.0,0.010380441
+Cody Gakpo,Liverpool,ENG-Premier League,2324,0.71,0.7094134742099274,24.0,high,high,0.65,0.6088602
+Curtis Jones,Liverpool,ENG-Premier League,2324,0.15,0.2648807890655755,22.0,high,high,0.32,0.27923852
+Darwin Núñez,Liverpool,ENG-Premier League,2324,0.84,1.0717843082593776,24.0,high,high,0.56,0.73074806
+Diogo Jota,Liverpool,ENG-Premier League,2324,1.02,0.7798304566096792,26.0,high,high,0.68,0.78172123
+Dominik Szoboszlai,Liverpool,ENG-Premier League,2324,0.21,0.3925396942581358,22.0,high,high,0.43,0.39494044
+Ibrahima Konaté,Liverpool,ENG-Premier League,2324,0.0,0.0604910061196477,24.0,low,mid,0.11,0.09851131
+Luis Díaz,Liverpool,ENG-Premier League,2324,0.45,0.6623104932945052,26.0,high,high,0.68,0.63016754
+Mohamed Salah,Liverpool,ENG-Premier League,2324,0.99,1.028046176210928,31.0,high,high,1.25,0.8799747
+Ryan Gravenberch,Liverpool,ENG-Premier League,2324,0.08,0.2252245659339278,21.0,high,mid,0.11,0.2708897
+Trent Alexander-Arnold,Liverpool,ENG-Premier League,2324,0.29,0.4638601605307199,24.0,high,high,0.34,0.30151603
+Virgil van Dijk,Liverpool,ENG-Premier League,2324,0.11,0.1462614608179282,32.0,mid,mid,0.11,0.13412014
+Bernardo Silva,Manchester City,ENG-Premier League,2324,0.52,0.4407603721458774,28.0,high,mid,0.27,0.3362485
+Ederson,Manchester City,ENG-Premier League,2324,0.0,0.0,29.0,low,mid,0.16,0.0097031295
+Erling Haaland,Manchester City,ENG-Premier League,2324,1.13,1.0691521025472976,23.0,high,high,0.82,0.9075154
+Jeremy Doku,Manchester City,ENG-Premier League,2324,0.62,0.5217124757161336,21.0,high,high,0.53,0.59883726
+Joško Gvardiol,Manchester City,ENG-Premier League,2324,0.19,0.2009290028915538,21.0,mid,mid,0.14,0.20071948
+Julián Álvarez,Manchester City,ENG-Premier League,2324,0.65,0.6349418513669657,23.0,high,high,0.75,0.6972528
+Kevin De Bruyne,Manchester City,ENG-Premier League,2324,1.03,1.073057153777057,32.0,high,high,0.58,0.88826424
+Kyle Walker,Manchester City,ENG-Premier League,2324,0.13,0.1205839097996642,33.0,mid,low,0.0,0.11383519
+Manuel Akanji,Manchester City,ENG-Premier League,2324,0.07,0.0977390965840722,28.0,mid,low,0.0,0.10608342
+Mateo Kovačić,Manchester City,ENG-Premier League,2324,0.06,0.1807539443516062,29.0,mid,high,0.33,0.18494946
+Phil Foden,Manchester City,ENG-Premier League,2324,0.85,0.624494024206541,23.0,high,high,0.46,0.7841571
+Rúben Dias,Manchester City,ENG-Premier League,2324,0.0,0.0854146901675328,26.0,mid,low,0.0,0.09857142
+Alexander Isak,Newcastle United,ENG-Premier League,2324,0.92,0.8444950709784375,23.0,high,high,0.95,0.7178652
+Anthony Gordon,Newcastle United,ENG-Premier League,2324,0.65,0.6030827238124546,22.0,high,high,0.41,0.52774537
+Bruno Guimarães,Newcastle United,ENG-Premier League,2324,0.41,0.3549001307389121,25.0,high,high,0.3,0.31681395
+Dan Burn,Newcastle United,ENG-Premier League,2324,0.13,0.1983524398756591,31.0,mid,low,0.05,0.108387634
+Elliot Anderson,Newcastle United,ENG-Premier League,2324,0.18,0.2510323393056142,20.0,high,mid,0.26,0.29389474
+Fabian Schär,Newcastle United,ENG-Premier League,2324,0.15,0.1150683902317478,31.0,mid,mid,0.12,0.09578118
+Jacob Murphy,Newcastle United,ENG-Premier League,2324,0.76,0.6149109504189534,28.0,high,high,0.76,0.48087904
+Joelinton,Newcastle United,ENG-Premier League,2324,0.21,0.3882830502629932,26.0,high,mid,0.26,0.2559672
+Kieran Trippier,Newcastle United,ENG-Premier League,2324,0.44,0.3719047975871372,32.0,high,mid,0.21,0.27622196
+Martin Dúbravka,Newcastle United,ENG-Premier League,2324,0.0,0.0054420031213039,34.0,low,low,0.0,0.004152212
+Nick Pope,Newcastle United,ENG-Premier League,2324,0.0,0.0011039976044436,31.0,low,low,0.0,0.012463998
+Valentino Livramento,Newcastle United,ENG-Premier League,2324,0.07,0.139857859746234,20.0,mid,low,0.03,0.14155531
+Anthony Elanga,Nottingham Forest,ENG-Premier League,2324,0.52,0.5128522253791663,21.0,high,high,0.61,0.4936604
+Callum Hudson-Odoi,Nottingham Forest,ENG-Premier League,2324,0.44,0.2964525947401535,22.0,high,high,0.29,0.39881775
+Chris Wood,Nottingham Forest,ENG-Premier League,2324,0.75,0.7624819993491699,31.0,high,high,0.7,0.6568853
+Matz Sels,Nottingham Forest,ENG-Premier League,2324,0.0,0.0043532918207347,31.0,low,low,0.0,0.0047347336
+Morgan Gibbs-White,Nottingham Forest,ENG-Premier League,2324,0.43,0.4229265497289173,23.0,high,high,0.48,0.39975494
+Moussa Niakhate,Nottingham Forest,ENG-Premier League,2324,0.06,0.0779499095571163,27.0,low,low,0.0,0.07938404
+Murillo,Nottingham Forest,ENG-Premier League,2324,0.06,0.0930137834259582,21.0,low,low,0.06,0.07003221
+Neco Williams,Nottingham Forest,ENG-Premier League,2324,0.05,0.112472608259941,22.0,mid,mid,0.14,0.12277299
+Nicolás Domínguez,Nottingham Forest,ENG-Premier League,2324,0.24,0.1571912050222274,25.0,mid,low,0.05,0.13681385
+Ola Aina,Nottingham Forest,ENG-Premier League,2324,0.11,0.0546428731127463,26.0,low,mid,0.09,0.07142127
+Orel Mangala,Nottingham Forest,ENG-Premier League,2324,0.06,0.0678978621201757,25.0,low,low,0.07,0.061761223
+Ryan Yates,Nottingham Forest,ENG-Premier League,2324,0.09,0.1639514905961612,25.0,mid,mid,0.14,0.11207017
+Oliver McBurnie,Sheffield United,ENG-Premier League,2324,0.63,0.5694593227672158,27.0,high,high,0.44,0.5394917
+Alex Sola,Alavés,ESP-La Liga,2324,0.21,0.3531359965586814,24.0,high,mid,0.09,0.3066725
+Ander Guevara,Alavés,ESP-La Liga,2324,0.03,0.0477968122159597,26.0,low,low,0.05,0.07482256
+Andoni Gorosabel,Alavés,ESP-La Liga,2324,0.03,0.0832323923272347,26.0,low,mid,0.12,0.07856993
+Antonio Blanco,Alavés,ESP-La Liga,2324,0.04,0.0791932828954719,23.0,mid,low,0.03,0.09567819
+Antonio Sivera,Alavés,ESP-La Liga,2324,0.0,0.0026539946796701,26.0,low,low,0.0,0.0032234816
+Carlos Vicente,Alavés,ESP-La Liga,2324,0.48,0.5362301030408597,24.0,high,high,0.29,0.4159155
+Jon Guridi,Alavés,ESP-La Liga,2324,0.24,0.3077177260498098,28.0,high,mid,0.17,0.20815074
+Nahuel Tenaglia,Alavés,ESP-La Liga,2324,0.08,0.0990353938678604,27.0,mid,mid,0.09,0.0910543
+Sergio Akieme,Almería,ESP-La Liga,2324,0.11,0.207121265523914,25.0,mid,mid,0.18,0.15758121
+Aitor Paredes,Athletic Club,ESP-La Liga,2324,0.03,0.0492593575855882,23.0,low,mid,0.15,0.06506392
+Beñat Prados,Athletic Club,ESP-La Liga,2324,0.0,0.0516182833252856,22.0,low,low,0.05,0.0937432
+Gorka Guruzeta,Athletic Club,ESP-La Liga,2324,0.77,0.6250876438059165,26.0,high,high,0.44,0.59621733
+Iñaki Williams,Athletic Club,ESP-La Liga,2324,0.47,0.5577204152175426,29.0,high,high,0.48,0.60298866
+Iñigo Ruiz de Galarreta,Athletic Club,ESP-La Liga,2324,0.09,0.1275776084405577,29.0,mid,high,0.24,0.110743955
+Mikel Vesga,Athletic Club,ESP-La Liga,2324,0.23,0.1482476973529745,30.0,mid,low,0.0,0.12665123
+Nico Williams,Athletic Club,ESP-La Liga,2324,0.64,0.554217882470857,21.0,high,high,0.45,0.5542272
+Oihan Sancet,Athletic Club,ESP-La Liga,2324,0.41,0.541293807044814,23.0,high,high,0.89,0.4300238
+Unai Simón,Athletic Club,ESP-La Liga,2324,0.0,0.0007195363382005,26.0,low,low,0.0,0.007097321
+Yeray Álvarez,Athletic Club,ESP-La Liga,2324,0.0,0.0291602712241001,28.0,low,low,0.05,0.058947146
+Álex Berenguer,Athletic Club,ESP-La Liga,2324,0.57,0.5552819857476794,28.0,high,high,0.5,0.54213095
+Antoine Griezmann,Atlético Madrid,ESP-La Liga,2324,0.75,0.5424823692285438,32.0,high,high,0.55,0.6552176
+Jan Oblak,Atlético Madrid,ESP-La Liga,2324,0.0,0.0,30.0,low,low,0.0,0.004769438
+Koke,Atlético Madrid,ESP-La Liga,2324,0.14,0.1519914781035929,31.0,mid,mid,0.09,0.11074457
+Marcos Llorente,Atlético Madrid,ESP-La Liga,2324,0.35,0.4041647543117665,28.0,high,mid,0.21,0.36933017
+Nahuel Molina,Atlético Madrid,ESP-La Liga,2324,0.24,0.1969836114304337,25.0,mid,mid,0.17,0.19046763
+Rodrigo De Paul,Atlético Madrid,ESP-La Liga,2324,0.35,0.363022965120982,29.0,high,high,0.34,0.30269557
+Samuel Lino,Atlético Madrid,ESP-La Liga,2324,0.39,0.4986284654139756,23.0,high,high,0.41,0.44220766
+Saúl Ñíguez,Atlético Madrid,ESP-La Liga,2324,0.33,0.3140251062338659,28.0,mid,high,0.41,0.22680978
+Fermin López,Barcelona,ESP-La Liga,2324,0.5,0.6146991413272144,20.0,high,high,0.79,0.6105892
+Ferrán Torres,Barcelona,ESP-La Liga,2324,0.67,0.6106436030337823,23.0,high,high,1.3,0.5887012
+Frenkie de Jong,Barcelona,ESP-La Liga,2324,0.11,0.196610102202,26.0,mid,high,0.31,0.18470977
+Gavi,Barcelona,ESP-La Liga,2324,0.19,0.2333143023553036,18.0,mid,mid,0.17,0.23049513
+Iñaki Peña,Barcelona,ESP-La Liga,2324,0.0,0.0,24.0,low,low,0.0,0.012942639
+Iñigo Martínez,Barcelona,ESP-La Liga,2324,0.0,0.0405061980968134,32.0,low,mid,0.14,0.08000634
+Jules Koundé,Barcelona,ESP-La Liga,2324,0.09,0.1312791473621251,24.0,mid,mid,0.17,0.14206256
+Lamine Yamal,Barcelona,ESP-La Liga,2324,0.41,0.5109026620476788,16.0,high,high,0.69,0.5055806
+Oriol Romeu,Barcelona,ESP-La Liga,2324,0.1,0.1518859742925717,31.0,mid,low,0.0,0.13202581
+Pau Cubarsí,Barcelona,ESP-La Liga,2324,0.0,0.0339745355480672,16.0,low,mid,0.1,0.07083777
+Pedri,Barcelona,ESP-La Liga,2324,0.37,0.48577142402348,20.0,high,high,0.28,0.3084724
+Raphinha,Barcelona,ESP-La Liga,2324,0.99,0.86909456631953,26.0,high,high,0.86,0.8039647
+Robert Lewandowski,Barcelona,ESP-La Liga,2324,0.88,0.6559041440419175,34.0,high,high,0.98,0.760707
+İlkay Gündoğan,Barcelona,ESP-La Liga,2324,0.42,0.4915216245234968,32.0,high,high,0.28,0.3818272
+Carl Starfelt,Celta Vigo,ESP-La Liga,2324,0.04,0.089877907443953,28.0,low,low,0.04,0.05841366
+Carlos Dominguez,Celta Vigo,ESP-La Liga,2324,0.0,0.0216804885051467,22.0,low,low,0.0,0.048082706
+Fran Beltrán,Celta Vigo,ESP-La Liga,2324,0.0,0.0694126471005613,24.0,mid,mid,0.11,0.11820994
+Iago Aspas,Celta Vigo,ESP-La Liga,2324,0.63,0.6263399020864001,35.0,high,high,0.77,0.58793503
+Renato Tapia,Celta Vigo,ESP-La Liga,2324,0.0,0.1145854952871219,28.0,low,low,0.04,0.09030405
+Vicente Guaita,Celta Vigo,ESP-La Liga,2324,0.0,0.0,36.0,low,low,0.0,0.003317337
+Óscar Mingueza,Celta Vigo,ESP-La Liga,2324,0.12,0.2208094071227811,24.0,mid,high,0.33,0.22575119
+Javi Hernández,Cádiz,ESP-La Liga,2324,0.11,0.1490092761970185,25.0,mid,mid,0.11,0.15623747
+Roberto Navarro,Cádiz,ESP-La Liga,2324,0.1,0.3213453133564868,21.0,high,low,0.07,0.25859907
+Borja Mayoral,Getafe,ESP-La Liga,2324,0.67,0.448948050699038,26.0,high,high,0.48,0.45883378
+Carles Aleñá,Getafe,ESP-La Liga,2324,0.18,0.305395978886415,25.0,high,mid,0.17,0.26066437
+David Soria,Getafe,ESP-La Liga,2324,0.0,0.0,30.0,low,low,0.0,0.004262495
+Diego Rico,Getafe,ESP-La Liga,2324,0.25,0.1760395112827684,30.0,mid,mid,0.1,0.15947904
+Domingos Duarte,Getafe,ESP-La Liga,2324,0.0,0.0180772583327916,28.0,low,low,0.05,0.03726325
+Luis Milla,Getafe,ESP-La Liga,2324,0.04,0.1027488519457426,28.0,mid,mid,0.16,0.1222872
+Mason Greenwood,Getafe,ESP-La Liga,2324,0.47,0.4235207746407138,21.0,high,high,0.83,0.44777638
+Omar Alderete,Getafe,ESP-La Liga,2324,0.04,0.1264355797787326,26.0,mid,low,0.03,0.09643812
+Arnau Martinez,Girona,ESP-La Liga,2324,0.15,0.132970700556777,20.0,mid,mid,0.14,0.112200014
+Artem Dovbyk,Girona,ESP-La Liga,2324,1.11,0.8306693926757431,26.0,high,high,0.52,0.7033626
+Daley Blind,Girona,ESP-La Liga,2324,0.09,0.1011545539389879,33.0,mid,low,0.06,0.1103897
+David López,Girona,ESP-La Liga,2324,0.14,0.1254424763317326,33.0,low,low,0.07,0.07666498
+Iván Martín,Girona,ESP-La Liga,2324,0.3,0.2204082499999797,24.0,mid,mid,0.09,0.16743487
+Miguel Gutiérrez,Girona,ESP-La Liga,2324,0.27,0.3723671983363534,22.0,high,mid,0.22,0.28851247
+Paulo Gazzaniga,Girona,ESP-La Liga,2324,0.0,0.0071791699646334,31.0,low,low,0.0,0.005272558
+Sávio,Girona,ESP-La Liga,2324,0.57,0.4425222686615832,19.0,high,high,0.46,0.43570864
+Yangel Herrera,Girona,ESP-La Liga,2324,0.21,0.3489122535051238,25.0,high,high,0.28,0.36119568
+Augusto Batalla,Granada,ESP-La Liga,2324,0.0,0.0043761163730831,27.0,low,low,0.0,0.008472017
+Bryan Zaragoza,Granada,ESP-La Liga,2324,0.44,0.3323884463899738,21.0,high,high,0.34,0.35763687
+Alberto Moleiro,Las Palmas,ESP-La Liga,2324,0.3,0.2174722484333096,19.0,high,mid,0.23,0.29819843
+Kirian Rodríguez,Las Palmas,ESP-La Liga,2324,0.22,0.1050541920274756,27.0,mid,mid,0.15,0.1606644
+Mika Mármol,Las Palmas,ESP-La Liga,2324,0.03,0.0274951538350022,22.0,low,low,0.04,0.043759055
+Máximo Perrone,Las Palmas,ESP-La Liga,2324,0.0,0.030433734940871,20.0,low,mid,0.15,0.07466808
+Sandro Ramírez,Las Palmas,ESP-La Liga,2324,0.2,0.3482514988750516,28.0,high,high,0.53,0.43602604
+Saúl Coco,Las Palmas,ESP-La Liga,2324,0.04,0.034047085536169,24.0,low,low,0.06,0.07091519
+Sergi Cardona,Las Palmas,ESP-La Liga,2324,0.1,0.1770172434757703,24.0,mid,high,0.24,0.18094793
+Álex Suárez,Las Palmas,ESP-La Liga,2324,0.07,0.0867790610374625,30.0,low,low,0.0,0.087018296
+Antonio Sánchez,Mallorca,ESP-La Liga,2324,0.25,0.2139183379371058,26.0,mid,low,0.0,0.1837182
+Copete,Mallorca,ESP-La Liga,2324,0.14,0.0732818967610351,23.0,low,low,0.0,0.0854936
+Cyle Larin,Mallorca,ESP-La Liga,2324,0.25,0.4605865048717664,28.0,high,high,0.46,0.40374085
+Dani Rodríguez,Mallorca,ESP-La Liga,2324,0.21,0.2385280809185359,35.0,mid,high,0.46,0.2104092
+Martin Valjent,Mallorca,ESP-La Liga,2324,0.04,0.0400200449429823,27.0,low,mid,0.1,0.051953774
+Matija Nastasić,Mallorca,ESP-La Liga,2324,0.08,0.0671145801603187,30.0,low,low,0.04,0.058886956
+Omar Mascarell,Mallorca,ESP-La Liga,2324,0.0,0.0136527325305909,30.0,low,low,0.05,0.030475505
+Pablo Maffeo,Mallorca,ESP-La Liga,2324,0.19,0.1125563334153537,26.0,mid,mid,0.08,0.11668515
+Samu Costa,Mallorca,ESP-La Liga,2324,0.08,0.0797030045535646,22.0,mid,low,0.07,0.110651985
+Sergi Darder,Mallorca,ESP-La Liga,2324,0.29,0.320251035311043,29.0,high,high,0.26,0.27555722
+Vedat Muriqi,Mallorca,ESP-La Liga,2324,0.35,0.4724698789861192,29.0,high,high,0.39,0.460838
+Aimar Oroz,Osasuna,ESP-La Liga,2324,0.12,0.1773152481876043,21.0,mid,high,0.27,0.18646514
+Ante Budimir,Osasuna,ESP-La Liga,2324,0.7,0.5380470453507173,32.0,high,high,0.76,0.48775485
+Jesús Areso,Osasuna,ESP-La Liga,2324,0.24,0.1252835608731703,24.0,mid,mid,0.09,0.11197006
+Johan Mojica,Osasuna,ESP-La Liga,2324,0.13,0.1919672379588698,30.0,mid,mid,0.1,0.15417343
+Jon Moncayola,Osasuna,ESP-La Liga,2324,0.2,0.176373674115166,25.0,mid,low,0.0,0.1685927
+Jorge Herrando,Osasuna,ESP-La Liga,2324,0.05,0.0774120145484152,22.0,low,low,0.07,0.061386265
+Lucas Torró,Osasuna,ESP-La Liga,2324,0.05,0.108204752100544,29.0,mid,mid,0.09,0.1042329
+Pablo Ibáñez,Osasuna,ESP-La Liga,2324,0.23,0.2642547657887917,24.0,high,mid,0.14,0.2731205
+Rubén García,Osasuna,ESP-La Liga,2324,0.29,0.3881774371780055,30.0,high,high,0.37,0.28818008
+Sergio Herrera,Osasuna,ESP-La Liga,2324,0.0,0.000219738851673,30.0,low,low,0.0,0.0040902086
+Abdul Mumin,Rayo Vallecano,ESP-La Liga,2324,0.05,0.0607132659554305,25.0,low,mid,0.13,0.05377761
+Aridane Hernández,Rayo Vallecano,ESP-La Liga,2324,0.0,0.0334324619661156,34.0,low,low,0.0,0.04293306
+Florian Lejeune,Rayo Vallecano,ESP-La Liga,2324,0.11,0.1055248655845739,32.0,mid,mid,0.14,0.09165407
+Iván Balliu,Rayo Vallecano,ESP-La Liga,2324,0.03,0.1079633117585679,31.0,mid,low,0.0,0.08454293
+Jorge de Frutos,Rayo Vallecano,ESP-La Liga,2324,0.12,0.3184596676646393,26.0,high,high,0.32,0.34469488
+Pathé Ciss,Rayo Vallecano,ESP-La Liga,2324,0.05,0.0986477409661837,29.0,mid,mid,0.21,0.110211134
+Pep Chavarría,Rayo Vallecano,ESP-La Liga,2324,0.15,0.1523042386780782,25.0,mid,low,0.03,0.16524065
+Sergio Camello,Rayo Vallecano,ESP-La Liga,2324,0.22,0.33351667727748,22.0,high,high,0.4,0.36396742
+Unai López,Rayo Vallecano,ESP-La Liga,2324,0.13,0.1504559994037254,27.0,mid,mid,0.21,0.17145169
+Álvaro García,Rayo Vallecano,ESP-La Liga,2324,0.25,0.3930999904870987,30.0,high,high,0.32,0.39968574
+Óscar Valentín,Rayo Vallecano,ESP-La Liga,2324,0.03,0.1094203752902838,28.0,low,low,0.0,0.06540634
+Abner,Real Betis,ESP-La Liga,2324,0.06,0.0924818759251918,23.0,low,mid,0.17,0.07454122
+Aitor Ruibal,Real Betis,ESP-La Liga,2324,0.27,0.2092557445794871,27.0,mid,high,0.27,0.159334
+Assane Diao,Real Betis,ESP-La Liga,2324,0.17,0.3358341750994552,17.0,high,high,0.65,0.29590988
+Ayoze Pérez,Real Betis,ESP-La Liga,2324,0.39,0.518027301382439,30.0,high,high,0.96,0.43328774
+Isco,Real Betis,ESP-La Liga,2324,0.5,0.6392479661502976,31.0,high,high,0.99,0.5046299
+Johnny Cardoso,Real Betis,ESP-La Liga,2324,0.2,0.1259127138911869,21.0,mid,mid,0.17,0.08984129
+Juan Miranda,Real Betis,ESP-La Liga,2324,0.1,0.2340126143637102,23.0,mid,mid,0.24,0.18194231
+Marc Roca,Real Betis,ESP-La Liga,2324,0.18,0.1377391828732057,26.0,mid,high,0.4,0.15108351
+Pablo Fornals,Real Betis,ESP-La Liga,2324,0.39,0.411695070217529,27.0,high,mid,0.1,0.2819898
+Rui Silva,Real Betis,ESP-La Liga,2324,0.0,0.0,29.0,low,low,0.0,0.0029356745
+Youssouf Sabaly,Real Betis,ESP-La Liga,2324,0.09,0.0679871025290447,30.0,low,low,0.06,0.047183007
+Antonio Rüdiger,Real Madrid,ESP-La Liga,2324,0.03,0.0976191600320545,30.0,low,low,0.0,0.09795623
+Aurélien Tchouaméni,Real Madrid,ESP-La Liga,2324,0.18,0.0971469699035323,23.0,mid,low,0.0,0.14661017
+Brahim Díaz,Real Madrid,ESP-La Liga,2324,0.82,0.7088144980190159,23.0,high,high,0.39,0.60196614
+Eduardo Camavinga,Real Madrid,ESP-La Liga,2324,0.1,0.129962905607892,20.0,mid,high,0.25,0.17543375
+Federico Valverde,Real Madrid,ESP-La Liga,2324,0.28,0.323037461296863,25.0,high,high,0.3,0.34282428
+Ferland Mendy,Real Madrid,ESP-La Liga,2324,0.0,0.0719733450691713,28.0,low,mid,0.09,0.087632194
+Fran Garcia,Real Madrid,ESP-La Liga,2324,0.39,0.2232214120764269,23.0,mid,mid,0.08,0.23844014
+Jude Bellingham,Real Madrid,ESP-La Liga,2324,0.97,0.7046720603597603,20.0,high,high,0.61,0.7549882
+Lucas Vázquez,Real Madrid,ESP-La Liga,2324,0.57,0.4176143241995044,32.0,high,high,0.25,0.27459735
+Luka Modrić,Real Madrid,ESP-La Liga,2324,0.43,0.473598393030085,37.0,high,high,0.39,0.30185232
+Rodrygo,Real Madrid,ESP-La Liga,2324,0.57,0.6092653888895982,22.0,high,high,0.51,0.5868959
+Vinicius Júnior,Real Madrid,ESP-La Liga,2324,0.97,0.950667636554944,23.0,high,high,0.76,0.74045753
+Aihen Muñoz,Real Sociedad,ESP-La Liga,2324,0.16,0.1536201031923214,25.0,mid,low,0.0,0.11574322
+Ander Barrenetxea,Real Sociedad,ESP-La Liga,2324,0.32,0.3461899525814212,21.0,high,high,0.29,0.34727037
+Beñat Turrientes,Real Sociedad,ESP-La Liga,2324,0.05,0.0640353098761226,21.0,mid,low,0.0,0.13781261
+Brais Méndez,Real Sociedad,ESP-La Liga,2324,0.41,0.3484693290167857,26.0,high,high,0.29,0.3684899
+Igor Zubeldia,Real Sociedad,ESP-La Liga,2324,0.07,0.0486988960739411,26.0,low,low,0.0,0.0485661
+Martín Zubimendi,Real Sociedad,ESP-La Liga,2324,0.17,0.1370105362471302,24.0,mid,mid,0.09,0.11140987
+Mikel Merino,Real Sociedad,ESP-La Liga,2324,0.29,0.231911078212508,27.0,mid,high,0.51,0.22340964
+Mikel Oyarzabal,Real Sociedad,ESP-La Liga,2324,0.5,0.4528070117929235,26.0,high,high,0.48,0.55253714
+Robin Le Normand,Real Sociedad,ESP-La Liga,2324,0.07,0.0349631735020716,26.0,low,low,0.04,0.05781746
+Takefusa Kubo,Real Sociedad,ESP-La Liga,2324,0.46,0.4914359069840852,22.0,high,mid,0.19,0.48334506
+Adrià Pedrosa,Sevilla,ESP-La Liga,2324,0.26,0.2257077719833483,25.0,mid,mid,0.08,0.20801702
+Djibril Sow,Sevilla,ESP-La Liga,2324,0.12,0.1631579780951142,26.0,mid,mid,0.13,0.15305954
+Dodi Lukebakio,Sevilla,ESP-La Liga,2324,0.48,0.574129287302494,25.0,high,high,0.38,0.47632635
+Isaac Romero,Sevilla,ESP-La Liga,2324,0.69,1.012117340766374,23.0,high,high,0.25,0.61405927
+Juanlu Sánchez,Sevilla,ESP-La Liga,2324,0.15,0.1214699382017619,19.0,mid,high,0.42,0.16855954
+Kike Salas,Sevilla,ESP-La Liga,2324,0.17,0.0725188155214641,21.0,low,mid,0.2,0.066114284
+Loïc Bade,Sevilla,ESP-La Liga,2324,0.04,0.0410251031913187,23.0,low,low,0.07,0.064729236
+Marko Dmitrović,Sevilla,ESP-La Liga,2324,0.0,0.0,31.0,low,low,0.0,0.002848782
+Nemanja Gudelj,Sevilla,ESP-La Liga,2324,0.1,0.0754546893527464,31.0,low,low,0.07,0.07280831
+Ørjan Nyland,Sevilla,ESP-La Liga,2324,0.0,0.0139958227518945,32.0,low,low,0.0,0.0014237205
+Cristhian Mosquera,Valencia,ESP-La Liga,2324,0.0,0.0312562097136567,19.0,low,low,0.03,0.059742298
+Diego López,Valencia,ESP-La Liga,2324,0.3,0.3532951654296884,21.0,high,high,0.43,0.276984
+Dimitri Foulquier,Valencia,ESP-La Liga,2324,0.0,0.0853707451913323,30.0,low,low,0.04,0.07190027
+Giorgi Mamardashvili,Valencia,ESP-La Liga,2324,0.0,0.0074064151875121,22.0,low,low,0.0,0.011096092
+Hugo Duro,Valencia,ESP-La Liga,2324,0.45,0.3924947141128923,23.0,high,high,0.54,0.48580217
+Javier Guerra,Valencia,ESP-La Liga,2324,0.18,0.1438612378895091,20.0,mid,mid,0.21,0.14072478
+Alberto Moreno,Villarreal,ESP-La Liga,2324,0.24,0.1786172985679136,31.0,mid,low,0.0,0.1881168
+Alex Baena,Villarreal,ESP-La Liga,2324,0.56,0.5810419035141622,22.0,high,high,0.55,0.48373228
+Alexander Sørloth,Villarreal,ESP-La Liga,2324,1.05,0.7046208766694287,27.0,high,high,1.26,0.7038051
+Aïssa Mandi,Villarreal,ESP-La Liga,2324,0.08,0.0979010158311324,31.0,low,low,0.0,0.06702237
+Daniel Parejo,Villarreal,ESP-La Liga,2324,0.28,0.1495733530000718,34.0,mid,high,0.24,0.14378253
+Juan Foyth,Villarreal,ESP-La Liga,2324,0.17,0.1457204162222096,25.0,mid,low,0.06,0.09614715
+Kiko Femenía,Villarreal,ESP-La Liga,2324,0.0,0.0414124409363982,32.0,low,low,0.04,0.0580193
+Raúl Albiol,Villarreal,ESP-La Liga,2324,0.04,0.0754116323296437,37.0,low,low,0.0,0.042003945
+Brendan Chardonnet,Brest,FRA-Ligue 1,2324,0.06,0.1038464820859107,28.0,low,low,0.04,0.077363655
+Hugo Magnetti,Brest,FRA-Ligue 1,2324,0.08,0.1371084626477498,25.0,mid,low,0.04,0.1902968
+Kenny Lala,Brest,FRA-Ligue 1,2324,0.15,0.1275677412155677,31.0,mid,mid,0.17,0.12869146
+Mahdi Camara,Brest,FRA-Ligue 1,2324,0.45,0.3452884468001009,25.0,high,mid,0.27,0.37927917
+Marco Bizot,Brest,FRA-Ligue 1,2324,0.0,0.004119046397704,32.0,low,low,0.0,0.00624523
+Pierre Lees-Melou,Brest,FRA-Ligue 1,2324,0.14,0.194111069491193,30.0,mid,mid,0.24,0.23700283
+Romain Del Castillo,Brest,FRA-Ligue 1,2324,0.58,0.4816139206136579,27.0,high,high,0.71,0.4156879
+Chrislain Matsima,Clermont Foot,FRA-Ligue 1,2324,0.08,0.0245678957741139,21.0,low,low,0.07,0.06070975
+Jim Allevinah,Clermont Foot,FRA-Ligue 1,2324,0.15,0.1989034328795869,28.0,mid,mid,0.21,0.21142784
+Abdoulaye Touré,Le Havre,FRA-Ligue 1,2324,0.08,0.0755489085990146,29.0,mid,high,0.43,0.105877645
+André Ayew,Le Havre,FRA-Ligue 1,2324,0.41,0.4154627197725778,33.0,high,high,0.31,0.39242464
+Arouna Sangante,Le Havre,FRA-Ligue 1,2324,0.0,0.0641415382943046,21.0,low,mid,0.22,0.08470339
+Arthur Desmas,Le Havre,FRA-Ligue 1,2324,0.0,0.0052908586733268,29.0,low,low,0.0,0.0024200138
+Christopher Operi,Le Havre,FRA-Ligue 1,2324,0.26,0.2223107697545019,26.0,mid,mid,0.15,0.21151122
+Gautier Lloris,Le Havre,FRA-Ligue 1,2324,0.06,0.0779578267027408,28.0,low,mid,0.1,0.05601732
+Josué Casimir,Le Havre,FRA-Ligue 1,2324,0.22,0.2613570805156737,21.0,mid,high,0.36,0.21315959
+Loïc Nego,Le Havre,FRA-Ligue 1,2324,0.17,0.1451569905207467,32.0,mid,low,0.0,0.13120356
+Yassine Kechta,Le Havre,FRA-Ligue 1,2324,0.15,0.1604951820711531,21.0,mid,mid,0.09,0.16468553
+Adrien Thomasson,Lens,FRA-Ligue 1,2324,0.23,0.6712037376038361,29.0,high,high,0.34,0.39586183
+Andy Diouf,Lens,FRA-Ligue 1,2324,0.07,0.1779750661210042,20.0,mid,mid,0.12,0.25824857
+Angelo Fulgini,Lens,FRA-Ligue 1,2324,0.2,0.4833525216049882,26.0,high,mid,0.17,0.4011761
+Brice Samba,Lens,FRA-Ligue 1,2324,0.0,0.0054670045095862,29.0,low,low,0.0,0.0017780683
+Deiver Machado,Lens,FRA-Ligue 1,2324,0.32,0.2434702711909002,29.0,mid,mid,0.25,0.2554697
+Facundo Medina,Lens,FRA-Ligue 1,2324,0.13,0.1050032800998244,24.0,mid,low,0.04,0.14577499
+Florian Sotoca,Lens,FRA-Ligue 1,2324,0.45,0.45605768118372,32.0,high,mid,0.1,0.4990691
+Jonathan Gradit,Lens,FRA-Ligue 1,2324,0.04,0.015098440926522,30.0,low,low,0.0,0.045484684
+Kevin Danso,Lens,FRA-Ligue 1,2324,0.03,0.0882625380941366,24.0,low,low,0.0,0.08749674
+Neil El Aynaoui,Lens,FRA-Ligue 1,2324,0.17,0.2097940339503446,22.0,mid,high,0.51,0.19437093
+Przemysław Frankowski,Lens,FRA-Ligue 1,2324,0.21,0.3047870078385828,28.0,mid,high,0.39,0.26860997
+Ruben Aguilar,Lens,FRA-Ligue 1,2324,0.19,0.2308563105703858,30.0,mid,mid,0.24,0.15407227
+Wesley Saïd,Lens,FRA-Ligue 1,2324,0.71,0.6939531325307838,28.0,high,high,0.3,0.66288686
+Alexsandro Ribeiro,Lille,FRA-Ligue 1,2324,0.0,0.1400862897217676,23.0,low,low,0.07,0.09114186
+Bafodé Diakité,Lille,FRA-Ligue 1,2324,0.37,0.2491085430088822,22.0,mid,mid,0.16,0.22012542
+Benjamin André,Lille,FRA-Ligue 1,2324,0.14,0.1804271355445282,32.0,mid,mid,0.1,0.1537435
+Edon Zhegrova,Lille,FRA-Ligue 1,2324,0.47,0.4991651326051581,24.0,high,high,0.46,0.53054094
+Gabriel Gudmundsson,Lille,FRA-Ligue 1,2324,0.07,0.21078446088322,24.0,mid,mid,0.1,0.19404896
+Hákon Haraldsson,Lille,FRA-Ligue 1,2324,0.14,0.207160990075948,20.0,mid,high,0.41,0.2003094
+Ismaily,Lille,FRA-Ligue 1,2324,0.07,0.0749208919900426,33.0,low,mid,0.1,0.077441566
+Lucas Chevalier,Lille,FRA-Ligue 1,2324,0.0,0.0035351528367356,21.0,low,low,0.0,0.013094282
+Rémy Cabella,Lille,FRA-Ligue 1,2324,0.24,0.5472652278222603,33.0,high,mid,0.27,0.45821324
+Ainsley Maitland-Niles,Lyon,FRA-Ligue 1,2324,0.31,0.274814270064755,25.0,mid,mid,0.23,0.23907286
+Alexandre Lacazette,Lyon,FRA-Ligue 1,2324,0.82,0.5864367664479306,32.0,high,high,0.75,0.54620165
+Anthony Lopes,Lyon,FRA-Ligue 1,2324,0.0,0.0087414874184516,32.0,low,low,0.0,0.002318963
+Clinton Mata,Lyon,FRA-Ligue 1,2324,0.12,0.1216919034266391,30.0,mid,mid,0.15,0.07837192
+Corentin Tolisso,Lyon,FRA-Ligue 1,2324,0.21,0.2259220529212854,28.0,high,high,0.43,0.3171654
+Duje Ćaleta-Car,Lyon,FRA-Ligue 1,2324,0.0,0.0835366396778307,26.0,low,low,0.06,0.0548058
+Ernest Nuamah,Lyon,FRA-Ligue 1,2324,0.24,0.4481303844584702,19.0,high,high,0.34,0.4384361
+Jake O'Brien,Lyon,FRA-Ligue 1,2324,0.23,0.1851909364066128,22.0,mid,mid,0.11,0.11892497
+Maxence Caqueret,Lyon,FRA-Ligue 1,2324,0.12,0.255652750485708,23.0,mid,high,0.41,0.2133136
+Nemanja Matić,Lyon,FRA-Ligue 1,2324,0.0,0.1348118309564353,34.0,mid,low,0.04,0.12082046
+Nicolás Tagliafico,Lyon,FRA-Ligue 1,2324,0.17,0.176396604045678,30.0,mid,mid,0.19,0.13309179
+Sael Kumbedi,Lyon,FRA-Ligue 1,2324,0.1,0.0895027698670792,18.0,mid,low,0.0,0.08694768
+Geoffrey Kondogbia,Marseille,FRA-Ligue 1,2324,0.0,0.0682773247872996,30.0,low,low,0.0,0.07515275
+Iliman Ndiaye,Marseille,FRA-Ligue 1,2324,0.33,0.4211885373399343,23.0,high,high,0.33,0.35677543
+Ismaila Sarr,Marseille,FRA-Ligue 1,2324,0.44,0.4240392578177477,25.0,high,high,0.46,0.42910185
+Jonathan Clauss,Marseille,FRA-Ligue 1,2324,0.3,0.2504173352165108,30.0,high,high,0.43,0.25381076
+Jordan Veretout,Marseille,FRA-Ligue 1,2324,0.12,0.3211437599849513,30.0,high,mid,0.12,0.2795435
+Leonardo Balerdi,Marseille,FRA-Ligue 1,2324,0.08,0.0687472149668214,24.0,low,low,0.0,0.07533623
+Ulisses Garcia,Marseille,FRA-Ligue 1,2324,0.0,0.1455104647401646,27.0,mid,high,0.39,0.19299191
+Vitinha,Marseille,FRA-Ligue 1,2324,0.49,0.8142053864428113,23.0,high,high,0.34,0.49580607
+Arthur Atta,Metz,FRA-Ligue 1,2324,0.29,0.286531466779045,20.0,mid,low,0.07,0.21750404
+Fali Candé,Metz,FRA-Ligue 1,2324,0.05,0.0497769056721159,25.0,low,mid,0.12,0.06601634
+Georges Mikautadze,Metz,FRA-Ligue 1,2324,0.88,0.4964928429639878,22.0,high,high,1.06,0.5452709
+Lamine Camara,Metz,FRA-Ligue 1,2324,0.2,0.184394499014427,19.0,mid,high,0.39,0.2160052
+Aleksandr Golovin,Monaco,FRA-Ligue 1,2324,0.5,0.3974661532517056,27.0,high,mid,0.23,0.39912695
+Denis Zakaria,Monaco,FRA-Ligue 1,2324,0.17,0.1401773626686439,26.0,mid,high,0.42,0.12517013
+Guillermo Maripán,Monaco,FRA-Ligue 1,2324,0.05,0.067680293017388,29.0,low,low,0.08,0.05931754
+Maghnes Akliouche,Monaco,FRA-Ligue 1,2324,0.61,0.5163322690982887,21.0,high,high,0.56,0.4280882
+Mohammed Salisu,Monaco,FRA-Ligue 1,2324,0.09,0.0567872042403272,24.0,low,mid,0.09,0.06220918
+Philipp Köhn,Monaco,FRA-Ligue 1,2324,0.0,0.0,25.0,low,low,0.0,0.007154597
+Radosław Majecki,Monaco,FRA-Ligue 1,2324,0.0,0.0,23.0,low,low,0.0,0.012057943
+Soungoutou Magassa,Monaco,FRA-Ligue 1,2324,0.0,0.0471483886706882,19.0,low,mid,0.09,0.072787315
+Takumi Minamino,Monaco,FRA-Ligue 1,2324,0.64,0.5235416414352538,28.0,high,high,0.36,0.5131967
+Thilo Kehrer,Monaco,FRA-Ligue 1,2324,0.14,0.1256375643899854,26.0,mid,mid,0.15,0.07899703
+Vanderson,Monaco,FRA-Ligue 1,2324,0.22,0.2657384486780442,22.0,mid,mid,0.17,0.22875777
+Akor Adams,Montpellier,FRA-Ligue 1,2324,0.36,0.6269007872998529,23.0,high,high,0.33,0.5072162
+Arnaud Nordin,Montpellier,FRA-Ligue 1,2324,0.58,0.466767404270306,25.0,high,high,0.39,0.40112033
+Becir Omeragic,Montpellier,FRA-Ligue 1,2324,0.0,0.0448450277266205,21.0,low,low,0.0,0.06253589
+Benjamin Lecomte,Montpellier,FRA-Ligue 1,2324,0.03,0.008678828831762,32.0,low,low,0.0,0.0039283973
+Falaye Sacko,Montpellier,FRA-Ligue 1,2324,0.07,0.0257039242511677,28.0,low,low,0.07,0.061001528
+Issiaga Sylla,Montpellier,FRA-Ligue 1,2324,0.19,0.1490513636663402,29.0,mid,low,0.08,0.1275541
+Jordan Ferri,Montpellier,FRA-Ligue 1,2324,0.09,0.1191697203096117,31.0,mid,mid,0.1,0.09021226
+Joris Chotard,Montpellier,FRA-Ligue 1,2324,0.1,0.0889261033019511,21.0,mid,low,0.05,0.10623466
+Khalil Fayad,Montpellier,FRA-Ligue 1,2324,0.26,0.2667475630143067,19.0,high,low,0.0,0.23406601
+Modibo Sagnan,Montpellier,FRA-Ligue 1,2324,0.17,0.1756637170689933,24.0,low,low,0.08,0.09429695
+Téji Savanier,Montpellier,FRA-Ligue 1,2324,0.49,0.406112977018947,31.0,high,mid,0.27,0.44892538
+Wahbi Khazri,Montpellier,FRA-Ligue 1,2324,0.08,0.4579841608394046,32.0,high,mid,0.16,0.35343045
+Alban Lafont,Nantes,FRA-Ligue 1,2324,0.0,0.0,24.0,low,low,0.0,0.0054012816
+Jean-Charles Castelletto,Nantes,FRA-Ligue 1,2324,0.07,0.0552125410259967,28.0,low,low,0.0,0.0653119
+Marcus Coco,Nantes,FRA-Ligue 1,2324,0.06,0.1307576534242082,27.0,mid,mid,0.09,0.09661567
+Matthis Abline,Nantes,FRA-Ligue 1,2324,0.43,0.4950379688646002,20.0,high,high,0.36,0.41921392
+Moses Simon,Nantes,FRA-Ligue 1,2324,0.4,0.3964674207319399,28.0,high,high,0.62,0.39071962
+Mostafa Mohamed,Nantes,FRA-Ligue 1,2324,0.45,0.3756889306496341,25.0,high,high,0.36,0.40532127
+Nathan Zeze,Nantes,FRA-Ligue 1,2324,0.0,0.0130347326423411,18.0,low,low,0.0,0.03425968
+Nicolas Pallois,Nantes,FRA-Ligue 1,2324,0.06,0.0418003249264048,35.0,low,mid,0.09,0.058147885
+Pedro Chirivella,Nantes,FRA-Ligue 1,2324,0.07,0.0748980288309782,26.0,mid,low,0.08,0.08973157
+Dante,Nice,FRA-Ligue 1,2324,0.06,0.0768247703919098,39.0,low,low,0.0,0.07257462
+Evann Guessand,Nice,FRA-Ligue 1,2324,0.35,0.5617931974885046,22.0,high,high,0.7,0.5612403
+Gaëtan Laborde,Nice,FRA-Ligue 1,2324,0.33,0.4252009018512925,29.0,high,high,0.74,0.42585525
+Jeremie Boga,Nice,FRA-Ligue 1,2324,0.54,0.4571983771113393,26.0,high,mid,0.26,0.48658964
+Marcin Bułka,Nice,FRA-Ligue 1,2324,0.0,0.0015821238870129,23.0,low,low,0.0,0.00992724
+Melvin Bard,Nice,FRA-Ligue 1,2324,0.1,0.1121755493152114,22.0,mid,mid,0.14,0.11539097
+Pablo Rosario,Nice,FRA-Ligue 1,2324,0.0,0.1028904774272142,26.0,mid,mid,0.2,0.1021163
+Youssouf Ndayishimiye,Nice,FRA-Ligue 1,2324,0.0,0.1063612207093615,24.0,mid,mid,0.14,0.10384142
+Amir Richardson,Reims,FRA-Ligue 1,2324,0.27,0.2177068362971382,21.0,mid,mid,0.16,0.19008286
+Azor Matusiwa,Reims,FRA-Ligue 1,2324,0.06,0.1471116025982566,25.0,mid,mid,0.17,0.14125459
+Emmanuel Agbadou,Reims,FRA-Ligue 1,2324,0.07,0.1166093111101348,26.0,mid,low,0.0,0.08071889
+Joseph Okumu,Reims,FRA-Ligue 1,2324,0.05,0.0601442447397056,26.0,low,low,0.05,0.06302829
+Junya Ito,Reims,FRA-Ligue 1,2324,0.33,0.5405175185288105,30.0,high,mid,0.23,0.4030423
+Keito Nakamura,Reims,FRA-Ligue 1,2324,0.33,0.3474622379359907,23.0,high,high,0.44,0.3860364
+Marshall Munetsi,Reims,FRA-Ligue 1,2324,0.29,0.378260145965043,27.0,high,high,0.32,0.34088376
+Oumar Diakité,Reims,FRA-Ligue 1,2324,0.34,0.4367232389795104,19.0,high,high,0.28,0.4394338
+Yehvann Diouf,Reims,FRA-Ligue 1,2324,0.0,0.0,23.0,low,low,0.0,0.0110208765
+Yunis Abdelhamid,Reims,FRA-Ligue 1,2324,0.13,0.0906721941982079,35.0,low,low,0.0,0.07263284
+Adrien Truffert,Rennes,FRA-Ligue 1,2324,0.13,0.1678077331581315,21.0,mid,mid,0.13,0.16958216
+Amine Gouiri,Rennes,FRA-Ligue 1,2324,0.44,0.4720021656569748,23.0,high,high,1.12,0.3920137
+Arthur Theate,Rennes,FRA-Ligue 1,2324,0.08,0.1079745839965669,23.0,low,low,0.0,0.08957253
+Baptiste Santamaria,Rennes,FRA-Ligue 1,2324,0.05,0.1279005078842567,28.0,mid,low,0.0,0.11990113
+Christopher Wooh,Rennes,FRA-Ligue 1,2324,0.06,0.1346804414169932,21.0,low,low,0.0,0.076369755
+Guela Doué,Rennes,FRA-Ligue 1,2324,0.15,0.1247764374786079,20.0,mid,mid,0.1,0.14627881
+Lorenz Assignon,Rennes,FRA-Ligue 1,2324,0.18,0.1981565405446096,23.0,mid,mid,0.27,0.22996618
+Ludovic Blas,Rennes,FRA-Ligue 1,2324,0.29,0.2999097314053671,25.0,high,high,0.55,0.3773401
+Steve Mandanda,Rennes,FRA-Ligue 1,2324,0.0,0.0,38.0,low,low,0.0,0.0054144724
+Abakar Sylla,Strasbourg,FRA-Ligue 1,2324,0.1,0.1236988469411569,20.0,low,mid,0.09,0.0745428
+Dilane Bakwa,Strasbourg,FRA-Ligue 1,2324,0.37,0.3867719276967771,20.0,high,high,0.5,0.39075077
+Emanuel Emegha,Strasbourg,FRA-Ligue 1,2324,0.39,0.4484614094493406,20.0,high,high,0.67,0.47927207
+Frederic Guilbert,Strasbourg,FRA-Ligue 1,2324,0.07,0.0798041246696767,28.0,mid,low,0.04,0.09326484
+Habib Diarra,Strasbourg,FRA-Ligue 1,2324,0.16,0.1554312522032191,19.0,mid,high,0.34,0.20540841
+Ibrahima Sissoko,Strasbourg,FRA-Ligue 1,2324,0.05,0.1532240766276413,25.0,mid,mid,0.1,0.10786066
+Ismaël Doukouré,Strasbourg,FRA-Ligue 1,2324,0.0,0.0229636325156721,20.0,low,low,0.07,0.059188735
+Junior Mwanga,Strasbourg,FRA-Ligue 1,2324,0.12,0.1276392372581979,20.0,mid,high,0.28,0.11853151
+Matz Sels,Strasbourg,FRA-Ligue 1,2324,0.0,0.0203368648102408,31.0,low,low,0.0,0.0068307845
+Aron Dønnum,Toulouse,FRA-Ligue 1,2324,0.06,0.2082875680388608,25.0,high,mid,0.17,0.24246554
+Cristian Cásseres Jr.,Toulouse,FRA-Ligue 1,2324,0.18,0.1613965733043795,23.0,mid,mid,0.13,0.13936748
+Frank Magri,Toulouse,FRA-Ligue 1,2324,0.44,0.3286139785165747,23.0,high,high,0.36,0.4152875
+Gabriel Suazo,Toulouse,FRA-Ligue 1,2324,0.15,0.1349310685813705,25.0,mid,mid,0.25,0.13326916
+Guillaume Restes,Toulouse,FRA-Ligue 1,2324,0.0,0.0,18.0,low,low,0.04,0.013336883
+Logan Costa,Toulouse,FRA-Ligue 1,2324,0.07,0.0733400488342597,22.0,low,mid,0.1,0.077706076
+Moussa Diarra,Toulouse,FRA-Ligue 1,2324,0.19,0.1117175408694346,22.0,mid,low,0.0,0.09654564
+Thijs Dallinga,Toulouse,FRA-Ligue 1,2324,0.57,0.5521524543113324,22.0,high,high,0.39,0.532441
+Vincent Sierro,Toulouse,FRA-Ligue 1,2324,0.32,0.1496961484558152,27.0,mid,mid,0.22,0.21521156
+Warren Kamanzi,Toulouse,FRA-Ligue 1,2324,0.23,0.2241623179128718,22.0,mid,mid,0.18,0.1438356
+Yann Gboho,Toulouse,FRA-Ligue 1,2324,0.38,0.2721197238661917,22.0,high,high,0.35,0.3623397
+Arne Maier,Augsburg,GER-Bundesliga,2324,0.54,0.3060018307977873,24.0,high,low,0.0,0.3675622
+Elvis Rexhbeçaj,Augsburg,GER-Bundesliga,2324,0.09,0.0610257861314702,25.0,mid,mid,0.1,0.112355486
+Finn Dahmen,Augsburg,GER-Bundesliga,2324,0.0,0.0011000785856477,25.0,low,low,0.0,0.0054457053
+Jeffrey Gouweleeuw,Augsburg,GER-Bundesliga,2324,0.03,0.0920915729023237,32.0,low,mid,0.15,0.08724359
+Kristijan Jakić,Augsburg,GER-Bundesliga,2324,0.26,0.1021832454733401,26.0,mid,low,0.04,0.10004797
+Phillip Tietz,Augsburg,GER-Bundesliga,2324,0.45,0.4513325184461677,26.0,high,high,0.48,0.48229307
+Aleksandar Pavlovic,Bayern Munich,GER-Bundesliga,2324,0.29,0.2096499919363076,19.0,mid,low,0.06,0.1726038
+Alphonso Davies,Bayern Munich,GER-Bundesliga,2324,0.31,0.1799696788155715,22.0,mid,mid,0.17,0.16931334
+Eric Dier,Bayern Munich,GER-Bundesliga,2324,0.0,0.0934283264415853,29.0,low,mid,0.18,0.09567631
+Harry Kane,Bayern Munich,GER-Bundesliga,2324,1.39,1.14479081009099,30.0,high,high,1.32,1.1338233
+Jamal Musiala,Bayern Munich,GER-Bundesliga,2324,0.77,0.7503909439039536,20.0,high,high,0.7,0.7272967
+Joshua Kimmich,Bayern Munich,GER-Bundesliga,2324,0.29,0.3800709939755239,28.0,high,high,0.32,0.33648756
+Kim Min-jae,Bayern Munich,GER-Bundesliga,2324,0.09,0.0777190800680575,26.0,low,low,0.08,0.08130535
+Kingsley Coman,Bayern Munich,GER-Bundesliga,2324,0.49,0.5332774956612736,27.0,high,high,0.63,0.53297246
+Konrad Laimer,Bayern Munich,GER-Bundesliga,2324,0.15,0.2426668343083768,26.0,mid,mid,0.21,0.20227371
+Leon Goretzka,Bayern Munich,GER-Bundesliga,2324,0.52,0.4124900515389491,28.0,high,high,0.34,0.36327296
+Leroy Sané,Bayern Munich,GER-Bundesliga,2324,0.8,0.9168481850490204,27.0,high,high,0.88,0.768854
+Manuel Neuer,Bayern Munich,GER-Bundesliga,2324,0.0,0.0,37.0,low,low,0.0,0.008891931
+Raphaël Guerreiro,Bayern Munich,GER-Bundesliga,2324,0.23,0.3179655531397845,29.0,high,high,0.46,0.25957692
+Thomas Müller,Bayern Munich,GER-Bundesliga,2324,0.76,0.8643360392042991,33.0,high,high,0.37,0.7148382
+Anthony Losilla,Bochum,GER-Bundesliga,2324,0.1,0.1313467954989719,37.0,mid,low,0.0,0.09724101
+Bernardo,Bochum,GER-Bundesliga,2324,0.03,0.0718676136671559,28.0,low,low,0.0,0.08490191
+Erhan Mašović,Bochum,GER-Bundesliga,2324,0.0,0.1000835873906799,24.0,low,mid,0.2,0.07354567
+Felix Passlack,Bochum,GER-Bundesliga,2324,0.37,0.2613374509674031,25.0,mid,mid,0.27,0.24395575
+Ivan Ordets,Bochum,GER-Bundesliga,2324,0.05,0.0712725346551296,31.0,low,low,0.0,0.06645809
+Keven Schlotterbeck,Bochum,GER-Bundesliga,2324,0.25,0.127899811690507,26.0,low,mid,0.28,0.10644046
+Matúš Bero,Bochum,GER-Bundesliga,2324,0.11,0.284160485015683,27.0,high,mid,0.25,0.22813988
+Maximilian Wittek,Bochum,GER-Bundesliga,2324,0.34,0.1988396686893478,27.0,high,low,0.0,0.27640766
+Moritz Broschinski,Bochum,GER-Bundesliga,2324,0.36,0.3793139074150093,22.0,high,mid,0.26,0.3996822
+Patrick Osterhage,Bochum,GER-Bundesliga,2324,0.15,0.0951894897164868,23.0,mid,low,0.04,0.12000643
+Philipp Hofmann,Bochum,GER-Bundesliga,2324,0.34,0.4590929656530796,30.0,high,mid,0.24,0.42663187
+Takuma Asano,Bochum,GER-Bundesliga,2324,0.32,0.5254353286580287,28.0,high,high,0.26,0.42761052
+Ansgar Knauff,Eintracht Frankfurt,GER-Bundesliga,2324,0.38,0.4151200213248326,21.0,high,high,0.51,0.33306357
+Aurélio Buta,Eintracht Frankfurt,GER-Bundesliga,2324,0.1,0.05197648978429,26.0,mid,low,0.05,0.08629091
+Ellyes Skhiri,Eintracht Frankfurt,GER-Bundesliga,2324,0.17,0.2036526225888723,28.0,mid,mid,0.12,0.1399404
+Fares Chaïbi,Eintracht Frankfurt,GER-Bundesliga,2324,0.28,0.5435320654802149,20.0,high,high,0.36,0.47994202
+Hugo Larsson,Eintracht Frankfurt,GER-Bundesliga,2324,0.14,0.137034768766051,19.0,mid,mid,0.15,0.102028675
+Kevin Trapp,Eintracht Frankfurt,GER-Bundesliga,2324,0.0,0.0,33.0,low,low,0.0,0.0017079036
+Mario Götze,Eintracht Frankfurt,GER-Bundesliga,2324,0.22,0.2847273598156682,31.0,mid,mid,0.29,0.21243425
+Omar Marmoush,Eintracht Frankfurt,GER-Bundesliga,2324,0.7,0.5703651935415832,24.0,high,high,0.54,0.57820916
+Omar Marmoush,Eintracht Frankfurt,GER-Bundesliga,2324,0.7,0.5703651935415832,24.0,high,high,1.49,0.57820916
+Omar Marmoush,Eintracht Frankfurt,GER-Bundesliga,2324,0.7,0.5703651935415832,24.0,high,high,0.54,0.57820916
+Omar Marmoush,Eintracht Frankfurt,GER-Bundesliga,2324,0.7,0.5703651935415832,24.0,high,high,1.49,0.57820916
+Robin Koch,Eintracht Frankfurt,GER-Bundesliga,2324,0.07,0.1374614324047889,27.0,mid,mid,0.1,0.0947507
+Tuta,Eintracht Frankfurt,GER-Bundesliga,2324,0.1,0.1322301594253916,24.0,mid,mid,0.12,0.0755272
+Christian Günter,Freiburg,GER-Bundesliga,2324,0.25,0.2347402826549028,30.0,mid,mid,0.16,0.18766713
+Lucas Höler,Freiburg,GER-Bundesliga,2324,0.35,0.3276645652464957,29.0,high,high,0.48,0.37024406
+Lukas Kübler,Freiburg,GER-Bundesliga,2324,0.05,0.0395143809907327,30.0,low,mid,0.29,0.06960643
+Matthias Ginter,Freiburg,GER-Bundesliga,2324,0.09,0.1073739055195561,29.0,low,mid,0.11,0.070843056
+Maximilian Eggestein,Freiburg,GER-Bundesliga,2324,0.09,0.1534468114507744,26.0,mid,low,0.06,0.11804415
+Merlin Röhl,Freiburg,GER-Bundesliga,2324,0.37,0.337608849330879,21.0,high,mid,0.09,0.29687774
+Noah Atubolu,Freiburg,GER-Bundesliga,2324,0.0,0.0,21.0,low,low,0.0,0.011253533
+Philipp Lienhart,Freiburg,GER-Bundesliga,2324,0.07,0.2057520261277323,27.0,mid,low,0.03,0.10351303
+Ritsu Doan,Freiburg,GER-Bundesliga,2324,0.36,0.3669530626109412,25.0,high,high,0.53,0.3466548
+Vincenzo Grifo,Freiburg,GER-Bundesliga,2324,0.62,0.4389192247342679,30.0,high,high,0.7,0.4585692
+Andrej Kramarić,Hoffenheim,GER-Bundesliga,2324,0.86,0.708523535463161,32.0,high,high,0.62,0.73313206
+Anton Stach,Hoffenheim,GER-Bundesliga,2324,0.19,0.2068359890486443,24.0,mid,mid,0.1,0.20895189
+Kevin Akpoguma,Hoffenheim,GER-Bundesliga,2324,0.0,0.0754579141355691,28.0,low,low,0.0,0.06171723
+Kevin Vogt,Hoffenheim,GER-Bundesliga,2324,0.0,0.0501158412255013,31.0,low,low,0.07,0.067640685
+Marius Bülter,Hoffenheim,GER-Bundesliga,2324,0.33,0.3573978541737393,30.0,high,high,0.47,0.2889132
+Oliver Baumann,Hoffenheim,GER-Bundesliga,2324,0.03,0.0090109811109655,33.0,low,low,0.0,0.004769438
+Pavel Kadeřábek,Hoffenheim,GER-Bundesliga,2324,0.26,0.2830311808901936,31.0,mid,mid,0.11,0.2259502
+Andreas Hanche-Olsen,Mainz 05,GER-Bundesliga,2324,0.09,0.0915472072759462,26.0,low,mid,0.14,0.058289684
+Anthony Caci,Mainz 05,GER-Bundesliga,2324,0.18,0.1738643311323749,26.0,mid,mid,0.27,0.17087996
+Dominik Kohr,Mainz 05,GER-Bundesliga,2324,0.04,0.1143833901925053,29.0,mid,low,0.08,0.111779146
+Edimilson Fernandes,Mainz 05,GER-Bundesliga,2324,0.14,0.0937047194646194,27.0,mid,low,0.08,0.099882
+Jonathan Burkardt,Mainz 05,GER-Bundesliga,2324,0.59,0.5119559323046992,23.0,high,high,0.85,0.4519194
+Ludovic Ajorque,Mainz 05,GER-Bundesliga,2324,0.13,0.3348194161868271,29.0,high,high,0.54,0.40485153
+Robin Zentner,Mainz 05,GER-Bundesliga,2324,0.0,0.0015464071805278,28.0,low,low,0.0,0.004362478
+Sepp van den Berg,Mainz 05,GER-Bundesliga,2324,0.1,0.1352627900392656,21.0,low,low,0.0,0.08361137
+Tom Krauß,Mainz 05,GER-Bundesliga,2324,0.2,0.0823185239596095,22.0,mid,low,0.0,0.106114015
+Alex Král,Union Berlin,GER-Bundesliga,2324,0.0,0.1271853193463961,25.0,mid,low,0.03,0.09580872
+András Schäfer,Union Berlin,GER-Bundesliga,2324,0.22,0.2862681005199177,24.0,mid,mid,0.12,0.22178899
+Benedict Hollerbach,Union Berlin,GER-Bundesliga,2324,0.35,0.4050852449584677,22.0,high,high,0.35,0.34249592
+Christopher Trimmel,Union Berlin,GER-Bundesliga,2324,0.11,0.1506492903202609,36.0,mid,mid,0.16,0.16957372
+Danilho Doekhi,Union Berlin,GER-Bundesliga,2324,0.08,0.0584464434844752,25.0,low,low,0.06,0.06439773
+Diogo Leite,Union Berlin,GER-Bundesliga,2324,0.0,0.0371110589442696,24.0,low,mid,0.11,0.057514068
+Frederik Rønnow,Union Berlin,GER-Bundesliga,2324,0.0,0.0104287671997691,30.0,low,low,0.0,0.013020272
+Janik Haberer,Union Berlin,GER-Bundesliga,2324,0.15,0.1365856603199858,29.0,mid,low,0.0,0.13233571
+Josip Juranović,Union Berlin,GER-Bundesliga,2324,0.14,0.2366607687241718,27.0,mid,low,0.08,0.21870768
+Rani Khedira,Union Berlin,GER-Bundesliga,2324,0.0,0.0250657712479003,29.0,low,low,0.07,0.0563338
+Robin Gosens,Union Berlin,GER-Bundesliga,2324,0.35,0.2320979382602911,29.0,mid,high,0.36,0.24946347
+Anthony Jung,Werder Bremen,GER-Bundesliga,2324,0.03,0.0350492878933662,31.0,low,low,0.0,0.06073193
+Felix Agu,Werder Bremen,GER-Bundesliga,2324,0.0,0.100167723109454,23.0,low,mid,0.15,0.08787578
+Jens Stage,Werder Bremen,GER-Bundesliga,2324,0.15,0.2784204057753598,26.0,mid,high,0.61,0.21037228
+Justin Njinmah,Werder Bremen,GER-Bundesliga,2324,0.71,0.5978583966887842,22.0,high,high,0.47,0.5441976
+Leonardo Bittencourt,Werder Bremen,GER-Bundesliga,2324,0.17,0.3492195741184933,29.0,high,mid,0.27,0.24786589
+Marco Friedl,Werder Bremen,GER-Bundesliga,2324,0.04,0.0130589329584598,25.0,low,low,0.0,0.038206592
+Marvin Ducksch,Werder Bremen,GER-Bundesliga,2324,0.7,0.5378529553865401,29.0,high,high,0.6,0.5542676
+Michael Zetterer,Werder Bremen,GER-Bundesliga,2324,0.0,0.0084449401884167,28.0,low,low,0.0,0.0069907797
+Miloš Veljković,Werder Bremen,GER-Bundesliga,2324,0.14,0.0871413188724545,27.0,low,mid,0.09,0.07955129
+Mitchell Weiser,Werder Bremen,GER-Bundesliga,2324,0.34,0.3167267470254544,29.0,mid,high,0.44,0.25007024
+Niklas Stark,Werder Bremen,GER-Bundesliga,2324,0.17,0.0336892240225364,28.0,low,low,0.04,0.044637285
+Romano Schmid,Werder Bremen,GER-Bundesliga,2324,0.35,0.4000490373741694,23.0,high,mid,0.29,0.32549462
+Senne Lynen,Werder Bremen,GER-Bundesliga,2324,0.15,0.1050845237265345,24.0,low,low,0.03,0.07604381
+Cedric Zesiger,Wolfsburg,GER-Bundesliga,2324,0.0,0.0527268553248434,25.0,low,mid,0.15,0.06858588
+Joakim Mæhle,Wolfsburg,GER-Bundesliga,2324,0.18,0.1772638832501532,26.0,mid,mid,0.29,0.15872397
+Jonas Wind,Wolfsburg,GER-Bundesliga,2324,0.61,0.5133859564327843,24.0,high,high,0.55,0.47596043
+Mattias Svanberg,Wolfsburg,GER-Bundesliga,2324,0.21,0.298342409350912,24.0,high,high,0.3,0.27409258
+Maxence Lacroix,Wolfsburg,GER-Bundesliga,2324,0.19,0.063044335022821,23.0,low,low,0.06,0.06515548
+Maximilian Arnold,Wolfsburg,GER-Bundesliga,2324,0.11,0.1798309508974218,29.0,mid,high,0.31,0.22143315
+Moritz Jenz,Wolfsburg,GER-Bundesliga,2324,0.05,0.0536136573713046,24.0,low,low,0.0,0.054172333
+Tiago Tomás,Wolfsburg,GER-Bundesliga,2324,0.17,0.3413143943518746,21.0,high,high,0.33,0.41274443
+Yannick Gerhardt,Wolfsburg,GER-Bundesliga,2324,0.17,0.169513817145232,29.0,mid,mid,0.12,0.16985331
+Ademola Lookman,Atalanta,ITA-Serie A,2324,0.86,0.8259309061882583,25.0,high,high,0.8,0.57144433
+Charles De Ketelaere,Atalanta,ITA-Serie A,2324,0.8,0.6436386841615002,22.0,high,high,0.61,0.5495937
+Davide Zappacosta,Atalanta,ITA-Serie A,2324,0.14,0.2505716796062516,31.0,high,high,0.26,0.24501438
+Emil Holm,Atalanta,ITA-Serie A,2324,0.19,0.4338174289310746,23.0,high,mid,0.16,0.3487333
+Hans Hateboer,Atalanta,ITA-Serie A,2324,0.08,0.2244145320251463,29.0,mid,low,0.0,0.19975442
+Isak Hien,Atalanta,ITA-Serie A,2324,0.1,0.0386455999001494,24.0,low,low,0.0,0.06478922
+Marco Carnesecchi,Atalanta,ITA-Serie A,2324,0.0,0.0,23.0,low,low,0.0,0.01287676
+Mario Pašalić,Atalanta,ITA-Serie A,2324,0.53,0.5075969884007704,28.0,high,high,0.32,0.45370433
+Marten de Roon,Atalanta,ITA-Serie A,2324,0.17,0.0744587146304762,32.0,mid,mid,0.24,0.08904995
+Matteo Ruggeri,Atalanta,ITA-Serie A,2324,0.15,0.116704210712015,21.0,mid,mid,0.15,0.13154611
+Sead Kolašinac,Atalanta,ITA-Serie A,2324,0.04,0.07938782037967,30.0,low,mid,0.09,0.07100779
+Teun Koopmeiners,Atalanta,ITA-Serie A,2324,0.58,0.4043355208956666,25.0,high,high,0.27,0.41599777
+Éderson,Atalanta,ITA-Serie A,2324,0.22,0.1906156061563229,24.0,mid,mid,0.16,0.16172141
+Dan Ndoye,Bologna,ITA-Serie A,2324,0.1,0.423577960553242,22.0,high,high,0.5,0.4356468
+Giovanni Fabbian,Bologna,ITA-Serie A,2324,0.6,0.569469714669428,20.0,high,high,0.35,0.553683
+Jhon Lucumí,Bologna,ITA-Serie A,2324,0.0,0.0480238790592337,25.0,low,low,0.03,0.06551281
+Lewis Ferguson,Bologna,ITA-Serie A,2324,0.3,0.3231716968337552,23.0,high,mid,0.18,0.3691026
+Remo Freuler,Bologna,ITA-Serie A,2324,0.07,0.0941673830355994,31.0,mid,low,0.08,0.09226813
+Riccardo Calafiori,Bologna,ITA-Serie A,2324,0.27,0.1182448437216181,21.0,mid,mid,0.27,0.100629255
+Riccardo Orsolini,Bologna,ITA-Serie A,2324,0.6,0.5949566663756352,26.0,high,high,0.91,0.5395712
+Sam Beukema,Bologna,ITA-Serie A,2324,0.07,0.1150387128183203,24.0,low,low,0.03,0.066334486
+Łukasz Skorupski,Bologna,ITA-Serie A,2324,0.0,0.0,32.0,low,low,0.0,0.0035796813
+Adam Obert,Cagliari,ITA-Serie A,2324,0.0,0.0933432653665099,20.0,low,mid,0.17,0.09093218
+Alberto Dossena,Cagliari,ITA-Serie A,2324,0.18,0.1460587400799134,24.0,low,mid,0.1,0.07333618
+Alessandro Deiola,Cagliari,ITA-Serie A,2324,0.06,0.2186457820778796,27.0,mid,mid,0.19,0.1875711
+Antoine Makoumbou,Cagliari,ITA-Serie A,2324,0.03,0.0607331015712834,25.0,low,mid,0.13,0.07854843
+Edoardo Goldaniga,Cagliari,ITA-Serie A,2324,0.0,0.0678448124238751,29.0,low,low,0.04,0.07935363
+Eldor Shomurodov,Cagliari,ITA-Serie A,2324,0.58,0.5039808600066373,28.0,high,high,0.66,0.3980484
+Gabriele Zappa,Cagliari,ITA-Serie A,2324,0.14,0.1644815537716345,23.0,mid,low,0.06,0.1488844
+Gaetano Oristanio,Cagliari,ITA-Serie A,2324,0.24,0.2340690287984097,20.0,high,mid,0.23,0.26297072
+Nicolas Viola,Cagliari,ITA-Serie A,2324,0.52,0.52847082326968,33.0,high,high,0.28,0.4146988
+Simone Scuffet,Cagliari,ITA-Serie A,2324,0.0,0.0,27.0,low,low,0.0,0.0038602538
+Tommaso Augello,Cagliari,ITA-Serie A,2324,0.07,0.1230622759948556,28.0,mid,mid,0.23,0.12712789
+Yerry Mina,Cagliari,ITA-Serie A,2324,0.15,0.0480720811971911,28.0,low,low,0.04,0.056126747
+Alberto Grassi,Empoli,ITA-Serie A,2324,0.05,0.0870545852648977,28.0,low,low,0.04,0.06896399
+Ardian Ismajli,Empoli,ITA-Serie A,2324,0.0,0.0153677520458301,26.0,low,low,0.0,0.035389677
+Elia Caprile,Empoli,ITA-Serie A,2324,0.0,0.0085154294805682,21.0,low,low,0.0,0.009472368
+Emmanuel Gyasi,Empoli,ITA-Serie A,2324,0.14,0.2148873292300265,29.0,mid,low,0.08,0.18971737
+Giuseppe Pezzella,Empoli,ITA-Serie A,2324,0.0,0.0465284332821858,25.0,mid,mid,0.09,0.11567138
+Jacopo Fazzini,Empoli,ITA-Serie A,2324,0.15,0.2302967104909627,20.0,high,high,0.33,0.2641737
+Liberato Cacace,Empoli,ITA-Serie A,2324,0.05,0.1094632254178912,22.0,mid,mid,0.24,0.105507396
+Răzvan Marin,Empoli,ITA-Serie A,2324,0.15,0.2138476755866541,27.0,mid,high,0.32,0.26007357
+Sebastiano Luperto,Empoli,ITA-Serie A,2324,0.05,0.0734395622393347,26.0,low,mid,0.11,0.06440935
+Youssef Maleh,Empoli,ITA-Serie A,2324,0.03,0.1068192586871143,24.0,mid,low,0.06,0.101792656
+Alfred Duncan,Fiorentina,ITA-Serie A,2324,0.33,0.1695869095481427,30.0,mid,low,0.0,0.2050306
+Fabiano Parisi,Fiorentina,ITA-Serie A,2324,0.06,0.2038727422594573,22.0,mid,mid,0.16,0.1982637
+Luca Ranieri,Fiorentina,ITA-Serie A,2324,0.13,0.0847779067445176,24.0,low,mid,0.12,0.08214225
+Lucas Beltrán,Fiorentina,ITA-Serie A,2324,0.43,0.2814398236830342,22.0,high,high,0.41,0.34749117
+M'Bala Nzola,Fiorentina,ITA-Serie A,2324,0.35,0.3150290765645962,26.0,high,high,0.43,0.45219627
+Nicolás González,Fiorentina,ITA-Serie A,2324,0.66,0.4986834943769679,25.0,high,high,0.26,0.57562643
+Nikola Milenković,Fiorentina,ITA-Serie A,2324,0.0,0.0536705219146027,25.0,low,mid,0.19,0.06424547
+Rolando Mandragora,Fiorentina,ITA-Serie A,2324,0.34,0.301937308204677,26.0,high,high,0.33,0.33041504
+Enzo Barrenechea,Frosinone,ITA-Serie A,2324,0.03,0.0638100685673023,22.0,low,mid,0.12,0.08370261
+Marco Brescianini,Frosinone,ITA-Serie A,2324,0.23,0.1612171559092596,23.0,mid,high,0.54,0.19371368
+Stefano Turati,Frosinone,ITA-Serie A,2324,0.0,0.0,21.0,low,low,0.0,0.010824469
+Aarón Martín,Genoa,ITA-Serie A,2324,0.07,0.1194993972231439,26.0,mid,mid,0.23,0.15451528
+Albert Guðmundsson,Genoa,ITA-Serie A,2324,0.54,0.366433392885939,26.0,high,high,0.49,0.48877716
+Johan Vásquez,Genoa,ITA-Serie A,2324,0.06,0.0952035296512277,24.0,mid,mid,0.09,0.090750255
+Koni De Winter,Genoa,ITA-Serie A,2324,0.04,0.0547811819060447,21.0,low,mid,0.13,0.067830205
+Mateo Retegui,Genoa,ITA-Serie A,2324,0.37,0.2946471902272842,24.0,high,high,1.25,0.4086297
+Mattia Bani,Genoa,ITA-Serie A,2324,0.08,0.0670242177464669,29.0,low,low,0.0,0.06834205
+Milan Badelj,Genoa,ITA-Serie A,2324,0.14,0.0817156113331487,34.0,mid,low,0.06,0.089036115
+Morten Frendrup,Genoa,ITA-Serie A,2324,0.2,0.1091563492178301,22.0,mid,low,0.06,0.08319198
+Morten Thorsby,Genoa,ITA-Serie A,2324,0.31,0.2842815951810459,27.0,high,low,0.05,0.2626065
+Stefano Sabelli,Genoa,ITA-Serie A,2324,0.04,0.1272542949861008,30.0,mid,mid,0.09,0.09558118
+Alessandro Bastoni,Inter,ITA-Serie A,2324,0.16,0.2212098610424806,24.0,mid,mid,0.22,0.14752078
+Benjamin Pavard,Inter,ITA-Serie A,2324,0.11,0.1184132201240607,27.0,mid,low,0.06,0.11295783
+Carlos Augusto,Inter,ITA-Serie A,2324,0.16,0.2226278786426004,24.0,mid,high,0.27,0.21072109
+Davide Frattesi,Inter,ITA-Serie A,2324,0.85,1.022938259648091,23.0,high,high,0.44,0.72936875
+Denzel Dumfries,Inter,ITA-Serie A,2324,0.44,0.4440010372433377,27.0,high,high,0.41,0.34308925
+Federico Dimarco,Inter,ITA-Serie A,2324,0.48,0.5532303196725561,25.0,high,high,0.45,0.5033164
+Francesco Acerbi,Inter,ITA-Serie A,2324,0.15,0.1115316117823535,35.0,mid,low,0.05,0.07124479
+Hakan Çalhanoğlu,Inter,ITA-Serie A,2324,0.56,0.2382773482634253,29.0,high,high,0.51,0.41061196
+Henrikh Mkhitaryan,Inter,ITA-Serie A,2324,0.32,0.2758413917038931,34.0,high,mid,0.19,0.25407696
+Lautaro Martínez,Inter,ITA-Serie A,2324,0.91,0.7407915858686508,25.0,high,high,0.53,0.77346313
+Marcus Thuram,Inter,ITA-Serie A,2324,0.67,0.6655571112775941,25.0,high,high,0.71,0.5801668
+Matteo Darmian,Inter,ITA-Serie A,2324,0.11,0.121908846098973,33.0,mid,high,0.25,0.120757654
+Nicolò Barella,Inter,ITA-Serie A,2324,0.16,0.2786505125883183,26.0,high,high,0.32,0.27111602
+Stefan de Vrij,Inter,ITA-Serie A,2324,0.06,0.0527519297705021,31.0,low,mid,0.16,0.065742515
+Yann Sommer,Inter,ITA-Serie A,2324,0.0,0.0,34.0,low,low,0.0,0.005272558
+Adrien Rabiot,Juventus,ITA-Serie A,2324,0.27,0.2818172728458032,28.0,mid,high,0.47,0.22280084
+Andrea Cambiaso,Juventus,ITA-Serie A,2324,0.19,0.2720450524760577,23.0,mid,mid,0.2,0.24862789
+Dušan Vlahović,Juventus,ITA-Serie A,2324,0.78,0.6966011763413489,23.0,high,high,0.71,0.7201152
+Fabio Miretti,Juventus,ITA-Serie A,2324,0.16,0.2278814623039469,19.0,high,high,0.32,0.25087038
+Federico Gatti,Juventus,ITA-Serie A,2324,0.14,0.2946704307590124,25.0,mid,low,0.04,0.19352132
+Kenan Yıldız,Juventus,ITA-Serie A,2324,0.19,0.3334052877465435,18.0,high,high,0.41,0.33892715
+Manuel Locatelli,Juventus,ITA-Serie A,2324,0.15,0.0878818834106378,25.0,mid,mid,0.13,0.09835266
+Timothy Weah,Juventus,ITA-Serie A,2324,0.07,0.195999791859005,23.0,mid,high,0.38,0.18303065
+Weston McKennie,Juventus,ITA-Serie A,2324,0.24,0.2556554846208522,24.0,mid,mid,0.23,0.23309816
+Wojciech Szczęsny,Juventus,ITA-Serie A,2324,0.0,0.0020097319568906,33.0,low,low,0.0,0.0029356745
+Adam Marušić,Lazio,ITA-Serie A,2324,0.03,0.0429718494054771,30.0,low,mid,0.15,0.06962739
+Alessio Romagnoli,Lazio,ITA-Serie A,2324,0.0,0.0428191786388585,28.0,low,low,0.07,0.058783557
+Daichi Kamada,Lazio,ITA-Serie A,2324,0.23,0.2940981677694758,26.0,mid,low,0.0,0.25436565
+Danilo Cataldi,Lazio,ITA-Serie A,2324,0.07,0.0840770584119868,28.0,low,mid,0.16,0.09537218
+Gustav Isaksen,Lazio,ITA-Serie A,2324,0.34,0.3561747566323373,22.0,high,mid,0.24,0.37634566
+Ivan Provedel,Lazio,ITA-Serie A,2324,0.0,0.0,29.0,low,low,0.0,0.0017780683
+Manuel Lazzari,Lazio,ITA-Serie A,2324,0.11,0.1415968025889067,29.0,mid,low,0.06,0.101136446
+Mario Gila,Lazio,ITA-Serie A,2324,0.0,0.0534490633996861,22.0,low,low,0.03,0.0661171
+Mattia Zaccagni,Lazio,ITA-Serie A,2324,0.32,0.3527296993430087,28.0,high,high,0.47,0.36806482
+Mattéo Guendouzi,Lazio,ITA-Serie A,2324,0.19,0.1782029230473386,24.0,mid,mid,0.11,0.18160121
+Nicolò Casale,Lazio,ITA-Serie A,2324,0.0,0.0607475098413657,25.0,low,mid,0.1,0.056697097
+Nicolò Rovella,Lazio,ITA-Serie A,2324,0.14,0.0649048685914468,21.0,low,mid,0.1,0.090117455
+Valentín Castellanos,Lazio,ITA-Serie A,2324,0.37,0.462625946048935,24.0,high,high,0.49,0.38768658
+Antonino Gallo,Lecce,ITA-Serie A,2324,0.11,0.2101178129192396,23.0,mid,low,0.07,0.17977646
+Federico Baschirotto,Lecce,ITA-Serie A,2324,0.03,0.0782836097053409,26.0,low,low,0.05,0.04981107
+Gabriel Strefezza,Lecce,ITA-Serie A,2324,0.08,0.2552522818320062,26.0,high,high,0.34,0.28693175
+Hamza Rafia,Lecce,ITA-Serie A,2324,0.07,0.0950587217996138,24.0,mid,low,0.0,0.1243026
+Marin Pongračić,Lecce,ITA-Serie A,2324,0.0,0.0492126025773328,25.0,low,low,0.0,0.05703701
+Nikola Krstović,Lecce,ITA-Serie A,2324,0.3,0.4936048765837506,23.0,high,high,0.47,0.39740655
+Patrick Dorgu,Lecce,ITA-Serie A,2324,0.12,0.2813790837848259,18.0,mid,mid,0.2,0.24166152
+Valentin Gendrey,Lecce,ITA-Serie A,2324,0.15,0.0952097278794471,23.0,low,mid,0.13,0.09463275
+Wladimiro Falcone,Lecce,ITA-Serie A,2324,0.0,0.0,28.0,low,low,0.0,0.0018643981
+Ylber Ramadani,Lecce,ITA-Serie A,2324,0.03,0.0584134511141614,27.0,mid,mid,0.1,0.078193925
+Andrea Carboni,Monza,ITA-Serie A,2324,0.06,0.1215414609634784,22.0,mid,low,0.04,0.12776893
+Andrea Colpani,Monza,ITA-Serie A,2324,0.41,0.3797454978095765,24.0,high,mid,0.19,0.37753677
+Armando Izzo,Monza,ITA-Serie A,2324,0.0,0.0698009341108528,31.0,low,low,0.07,0.06199756
+Danilo D'Ambrosio,Monza,ITA-Serie A,2324,0.0,0.0569183564766717,34.0,low,low,0.08,0.076002255
+Dany Mota,Monza,ITA-Serie A,2324,0.31,0.3818432740065355,25.0,high,high,0.3,0.38345578
+Lorenzo Colombo,Monza,ITA-Serie A,2324,0.33,0.30650156762895,21.0,high,high,0.32,0.40952182
+Michele Di Gregorio,Monza,ITA-Serie A,2324,0.0,0.0,26.0,low,low,0.0,0.0033009744
+Pablo Marí,Monza,ITA-Serie A,2324,0.0,0.0337658891984996,29.0,low,low,0.0,0.045379173
+Patrick Ciurria,Monza,ITA-Serie A,2324,0.06,0.2602983473302407,28.0,mid,mid,0.16,0.23405439
+Samuele Birindelli,Monza,ITA-Serie A,2324,0.09,0.172936306480768,24.0,mid,mid,0.18,0.21354458
+Alex Meret,Napoli,ITA-Serie A,2324,0.0,0.0060042453035739,26.0,low,low,0.0,0.0081428075
+Amir Rrahmani,Napoli,ITA-Serie A,2324,0.1,0.1443055958451273,29.0,mid,mid,0.11,0.13001974
+Giacomo Raspadori,Napoli,ITA-Serie A,2324,0.45,0.5923202535433864,23.0,high,high,0.57,0.5349237
+Giovanni Di Lorenzo,Napoli,ITA-Serie A,2324,0.19,0.2330679456394076,29.0,mid,mid,0.14,0.24767268
+Juan Jesus,Napoli,ITA-Serie A,2324,0.04,0.0886602749975859,32.0,low,low,0.08,0.071885474
+Khvicha Kvaratskhelia,Napoli,ITA-Serie A,2324,0.56,0.6493960270589401,22.0,high,high,0.61,0.7241434
+Mathías Olivera,Napoli,ITA-Serie A,2324,0.11,0.1101096878344652,25.0,mid,low,0.08,0.13165244
+Matteo Politano,Napoli,ITA-Serie A,2324,0.57,0.5108417080068108,29.0,high,mid,0.22,0.50729305
+Natan,Napoli,ITA-Serie A,2324,0.0,0.0370853147449895,22.0,low,mid,0.08,0.08714655
+Piotr Zieliński,Napoli,ITA-Serie A,2324,0.23,0.2760805821640653,29.0,high,high,0.37,0.2587016
+Stanislav Lobotka,Napoli,ITA-Serie A,2324,0.03,0.0579575848488147,28.0,low,low,0.03,0.08398675
+Angeliño,Roma,ITA-Serie A,2324,0.08,0.1455923973514937,26.0,mid,low,0.08,0.1324184
+Bryan Cristante,Roma,ITA-Serie A,2324,0.19,0.2030918513294156,28.0,mid,high,0.26,0.21750812
+Diego Llorente,Roma,ITA-Serie A,2324,0.08,0.0314463556911538,29.0,low,low,0.07,0.058749884
+Gianluca Mancini,Roma,ITA-Serie A,2324,0.16,0.1124213137863539,27.0,low,low,0.06,0.078041844
+Leandro Paredes,Roma,ITA-Serie A,2324,0.27,0.1135922242740937,29.0,mid,high,0.26,0.17242901
+Leonardo Spinazzola,Roma,ITA-Serie A,2324,0.21,0.2403652167555353,30.0,mid,mid,0.12,0.17879024
+Lorenzo Pellegrini,Roma,ITA-Serie A,2324,0.53,0.3548748837157707,27.0,high,mid,0.17,0.41825724
+Mile Svilar,Roma,ITA-Serie A,2324,0.0,0.0026387746135393,23.0,low,low,0.0,0.012789868
+Paulo Dybala,Roma,ITA-Serie A,2324,1.01,0.4953705323332347,29.0,high,high,0.57,0.63076204
+Rasmus Kristensen,Roma,ITA-Serie A,2324,0.1,0.074626256886938,26.0,mid,mid,0.29,0.095375724
+Romelu Lukaku,Roma,ITA-Serie A,2324,0.55,0.4684453425962098,30.0,high,high,0.76,0.583175
+Stephan El Shaarawy,Roma,ITA-Serie A,2324,0.36,0.2584408309902263,30.0,high,high,0.57,0.33293644
+Boulaye Dia,Salernitana,ITA-Serie A,2324,0.31,0.3434550420447128,26.0,high,high,0.5,0.4129466
+Lassana Coulibaly,Salernitana,ITA-Serie A,2324,0.04,0.0609463860444531,27.0,low,low,0.03,0.0702492
+Andrea Pinamonti,Sassuolo,ITA-Serie A,2324,0.35,0.2870009776104305,24.0,high,high,0.35,0.40894195
+Marcus Pedersen,Sassuolo,ITA-Serie A,2324,0.11,0.0888541041395897,23.0,low,low,0.0,0.07576522
+Mattia Viti,Sassuolo,ITA-Serie A,2324,0.09,0.1193165534629702,21.0,low,low,0.03,0.06883609
+Adam Masina,Torino,ITA-Serie A,2324,0.0,0.026651798034436,29.0,low,mid,0.14,0.05330298
+Alessandro Buongiorno,Torino,ITA-Serie A,2324,0.11,0.0818807489802927,24.0,low,low,0.05,0.05882678
+Antonio Sanabria,Torino,ITA-Serie A,2324,0.21,0.4297624808197786,27.0,high,mid,0.2,0.33624142
+Ivan Ilić,Torino,ITA-Serie A,2324,0.21,0.342823284206729,22.0,high,mid,0.1,0.2746638
+Karol Linetty,Torino,ITA-Serie A,2324,0.0,0.0802029494849806,28.0,low,low,0.06,0.084937945
+Nikola Vlašić,Torino,ITA-Serie A,2324,0.17,0.2285123891997054,25.0,high,high,0.38,0.23682301
+Raoul Bellanova,Torino,ITA-Serie A,2324,0.24,0.2485279070252573,23.0,mid,high,0.34,0.24005985
+Ricardo Rodríguez,Torino,ITA-Serie A,2324,0.1,0.0566803163231967,30.0,low,low,0.07,0.069692
+Samuele Ricci,Torino,ITA-Serie A,2324,0.11,0.1565778852792336,21.0,mid,low,0.06,0.15813805
+Valentino Lazaro,Torino,ITA-Serie A,2324,0.18,0.2467677682085166,27.0,mid,mid,0.23,0.22220968
+Vanja Milinković-Savić,Torino,ITA-Serie A,2324,0.0,0.0,26.0,low,low,0.0,0.0019477985
+Florian Thauvin,Udinese,ITA-Serie A,2324,0.42,0.5574093143406669,30.0,high,high,0.51,0.46514028
+Hassane Kamara,Udinese,ITA-Serie A,2324,0.08,0.2204562827023897,29.0,mid,mid,0.22,0.17038573
+Jaka Bijol,Udinese,ITA-Serie A,2324,0.0,0.0635565270449887,24.0,low,low,0.03,0.058703214
+Jordan Zemura,Udinese,ITA-Serie A,2324,0.09,0.0924214216573648,23.0,mid,mid,0.19,0.101995096
+Kingsley Ehizibue,Udinese,ITA-Serie A,2324,0.09,0.1828939039552711,28.0,mid,low,0.04,0.21607836
+Lazar Samardzic,Udinese,ITA-Serie A,2324,0.3,0.3356556801092426,21.0,high,mid,0.23,0.32635245
+Lorenzo Lucca,Udinese,ITA-Serie A,2324,0.42,0.3661037196353491,22.0,high,high,0.5,0.4807309
+Maduka Okoye,Udinese,ITA-Serie A,2324,0.0,0.0,23.0,low,low,0.0,0.011369814
+Martín Payero,Udinese,ITA-Serie A,2324,0.2,0.1529097875252466,24.0,mid,mid,0.13,0.18898712
+Sandi Lovrić,Udinese,ITA-Serie A,2324,0.18,0.3327917207428968,25.0,high,mid,0.19,0.2594648
