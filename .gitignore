@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# soccerdata artefacts
+downloaded_files/
+~/soccerdata/
+
+# Data — raw files are too large and reproducible from scripts
+data/raw/*.csv
+data/raw/*.parquet
+!data/raw/.gitkeep
+
+# Models — joblibs can be large; keep them for now but be aware
+# models/*.joblib   # uncomment if they're over 50MB and GitLab/GitHub complains
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Misc
+*.lock
+structure.txt
